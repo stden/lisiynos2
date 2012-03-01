@@ -1,0 +1,176 @@
+
+22.09.2004 17:04:22 RUN 0.9alpha by Kitten Computing
+
+22.09.2004 17:04:22 Compilation Error
+22.09.2004 17:04:22 Compiler output:
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+solution.dpr(7) Error: Undeclared identifier: 'D'
+solution.dpr(12) 
+
+
+22.09.2004 17:04:45 RUN 0.9alpha by Kitten Computing
+
+22.09.2004 17:04:45 Testing solution, in=b.in, out=b.out, ext=u, tl=100000000, ml=100000000
+
+22.09.2004 17:04:45 Running on test 01
+22.09.2004 17:04:46 Unable to determine memory usage properties for PID=3768
+22.09.2004 17:04:46 Unable to determine memory usage properties for PID=3768
+22.09.2004 17:04:46 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.09.2004 17:04:46 Factical execution time: 203 ms
+22.09.2004 17:04:46 Successful termination
+22.09.2004 17:04:46 Checker result: Accepted
+22.09.2004 17:04:46 Checker comments:
+* ok * 
+
+22.09.2004 17:04:46 Running on test 02
+22.09.2004 17:04:46 Unable to determine memory usage properties for PID=2372
+22.09.2004 17:04:46 Unable to determine memory usage properties for PID=2372
+22.09.2004 17:04:46 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.09.2004 17:04:46 Factical execution time: 31 ms
+22.09.2004 17:04:46 Maximal memory usage: 124 Kb
+22.09.2004 17:04:46 Successful termination
+22.09.2004 17:04:46 Checker result: Accepted
+22.09.2004 17:04:46 Checker comments:
+* ok * 
+
+22.09.2004 17:04:46 Running on test 03
+22.09.2004 17:04:46 Unable to determine memory usage properties for PID=3796
+22.09.2004 17:04:46 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.09.2004 17:04:46 Factical execution time: 16 ms
+22.09.2004 17:04:46 Maximal memory usage: 124 Kb
+22.09.2004 17:04:46 Successful termination
+22.09.2004 17:04:46 Checker result: Accepted
+22.09.2004 17:04:46 Checker comments:
+* ok * 
+
+22.09.2004 17:04:46 Running on test 04
+22.09.2004 17:04:46 Unable to determine memory usage properties for PID=3812
+22.09.2004 17:04:46 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.09.2004 17:04:46 Factical execution time: 16 ms
+22.09.2004 17:04:46 Maximal memory usage: 124 Kb
+22.09.2004 17:04:46 Successful termination
+22.09.2004 17:04:46 Checker result: Accepted
+22.09.2004 17:04:46 Checker comments:
+* ok * 
+
+22.09.2004 17:04:46 Running on test 05
+22.09.2004 17:04:46 Unable to determine memory usage properties for PID=3824
+22.09.2004 17:04:46 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.09.2004 17:04:46 Factical execution time: 0 ms
+22.09.2004 17:04:46 Maximal memory usage: 124 Kb
+22.09.2004 17:04:46 Successful termination
+22.09.2004 17:04:46 Checker result: Accepted
+22.09.2004 17:04:46 Checker comments:
+* ok * 
+
+22.09.2004 17:04:46 Running on test 06
+22.09.2004 17:04:46 Unable to determine memory usage properties for PID=3840
+22.09.2004 17:04:46 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.09.2004 17:04:46 Factical execution time: 0 ms
+22.09.2004 17:04:46 Maximal memory usage: 124 Kb
+22.09.2004 17:04:46 Successful termination
+22.09.2004 17:04:46 Checker result: Accepted
+22.09.2004 17:04:46 Checker comments:
+* ok * 
+
+22.09.2004 17:04:46 Running on test 07
+22.09.2004 17:04:46 Unable to determine memory usage properties for PID=3856
+22.09.2004 17:04:46 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.09.2004 17:04:46 Factical execution time: 0 ms
+22.09.2004 17:04:46 Maximal memory usage: 124 Kb
+22.09.2004 17:04:46 Successful termination
+22.09.2004 17:04:46 Checker result: Accepted
+22.09.2004 17:04:46 Checker comments:
+* ok * 
+
+22.09.2004 17:04:46 Running on test 08
+22.09.2004 17:04:46 Unable to determine memory usage properties for PID=3872
+22.09.2004 17:04:46 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.09.2004 17:04:46 Factical execution time: 0 ms
+22.09.2004 17:04:46 Maximal memory usage: 124 Kb
+22.09.2004 17:04:46 Successful termination
+22.09.2004 17:04:46 Checker result: Accepted
+22.09.2004 17:04:46 Checker comments:
+* ok * 
+
+22.09.2004 17:04:46 Running on test 09
+22.09.2004 17:04:46 Unable to determine memory usage properties for PID=3888
+22.09.2004 17:04:46 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.09.2004 17:04:46 Factical execution time: 15 ms
+22.09.2004 17:04:46 Maximal memory usage: 124 Kb
+22.09.2004 17:04:46 Successful termination
+22.09.2004 17:04:46 Checker result: Accepted
+22.09.2004 17:04:46 Checker comments:
+* ok * 
+
+22.09.2004 17:04:46 Total maximal work time: 31,25000 ms
+22.09.2004 17:04:46 Total maximal memory usage: 124 Kb
+
+
+22.09.2004 17:11:02 RUN 0.9alpha by Kitten Computing
+
+22.09.2004 17:11:03 Compilation Error
+22.09.2004 17:11:03 Compiler output:
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+solution.dpr(7) Error: Not enough actual parameters
+solution.dpr(16) Error: Undeclared identifier: 'MaxN'
+solution.dpr(18) 
+
+
+22.09.2004 17:11:48 RUN 0.9alpha by Kitten Computing
+
+22.09.2004 17:11:48 Testing solution, in=b.in, out=b.out, ext=u, tl=100000000, ml=100000000
+
+22.09.2004 17:11:48 Running on test 01
+22.09.2004 17:11:48 Unable to determine memory usage properties for PID=2136
+22.09.2004 17:11:48 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.09.2004 17:11:48 Factical execution time: 16 ms
+22.09.2004 17:11:48 Maximal memory usage: 88 Kb
+22.09.2004 17:11:48 Successful termination
+22.09.2004 17:11:48 Checker result: Accepted
+22.09.2004 17:11:48 Checker comments:
+* ok * 
+
+22.09.2004 17:11:48 Running on test 02
+22.09.2004 17:11:48 Unable to determine memory usage properties for PID=2156
+22.09.2004 17:11:48 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.09.2004 17:11:48 Factical execution time: 15 ms
+22.09.2004 17:11:48 Maximal memory usage: 88 Kb
+22.09.2004 17:11:48 Successful termination
+22.09.2004 17:11:48 Checker result: Accepted
+22.09.2004 17:11:48 Checker comments:
+* ok * 
+
+22.09.2004 17:11:48 Running on test 03
+22.09.2004 17:11:48 Unable to determine memory usage properties for PID=2168
+22.09.2004 17:11:48 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.09.2004 17:11:48 Factical execution time: 0 ms
+22.09.2004 17:11:48 Maximal memory usage: 88 Kb
+22.09.2004 17:11:48 Successful termination
+22.09.2004 17:11:48 Checker result: Accepted
+22.09.2004 17:11:48 Checker comments:
+* ok * 
+
+22.09.2004 17:11:48 Running on test 04
+22.09.2004 17:11:48 Unable to determine memory usage properties for PID=2184
+22.09.2004 17:11:48 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.09.2004 17:11:48 Factical execution time: 0 ms
+22.09.2004 17:11:48 Maximal memory usage: 88 Kb
+22.09.2004 17:11:48 Successful termination
+22.09.2004 17:11:48 Checker result: Accepted
+22.09.2004 17:11:48 Checker comments:
+* ok * 
+
+22.09.2004 17:11:48 Running on test 05
+22.09.2004 17:11:48 Unable to determine memory usage properties for PID=2200
+22.09.2004 17:11:48 Processor time used: system=0,00000 ms, user=109,37500 ms total=109,37500 ms.
+22.09.2004 17:11:48 Factical execution time: 94 ms
+22.09.2004 17:11:48 Maximal memory usage: 632 Kb
+22.09.2004 17:11:48 Successful termination
+22.09.2004 17:11:48 Checker result: Accepted
+22.09.2004 17:11:48 Checker comments:
+* ok * 
+
+22.09.2004 17:11:48 Running on test 06

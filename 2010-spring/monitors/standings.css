@@ -1,0 +1,48 @@
+P {
+	FONT-FAMILY: courier new, monospace; TEXT-ALIGN: center
+}
+H2 {
+	FONT-SIZE: large; FONT-FAMILY: helvetica; TEXT-ALIGN: center
+}
+H3 {
+	FONT-SIZE: medium; FONT-FAMILY: helvetica
+}
+TABLE {
+	FONT-SIZE: 11pt; WIDTH: 95%; TEXT-ALIGN: center
+}
+TH.solved {
+	WIDTH: 4%; TEXT-ALIGN: center
+}
+TH.penalty {
+	PADDING-RIGHT: 10pt; WIDTH: 4%; TEXT-ALIGN: right
+}
+TH.party {
+	PADDING-LEFT: 10pt; TEXT-ALIGN: left
+}
+TH.rank {
+	PADDING-RIGHT: 10pt; WIDTH: 2%; TEXT-ALIGN: right
+}
+TH.problem {
+	WIDTH: 4%; TEXT-ALIGN: center
+}
+TD {
+	TEXT-ALIGN: center
+}
+TD.solved {
+	TEXT-ALIGN: right
+}
+TD.penalty {
+	PADDING-RIGHT: 10pt; TEXT-ALIGN: right
+}
+TD.party {
+	PADDING-LEFT: 10pt; TEXT-ALIGN: left
+}
+TD.rank {
+	PADDING-RIGHT: 10pt; TEXT-ALIGN: right
+}
+TD.problem {
+	TEXT-ALIGN: center
+}
+S {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; FONT-STYLE: normal; TEXT-DECORATION: none; font-face: helvetica
+}

@@ -1,0 +1,48 @@
+program project;
+
+{$APPTYPE CONSOLE}
+
+uses
+  SysUtils;
+
+const base=10;
+
+type
+  Tlong=array[0..10000] of integer;
+
+var
+   k:integer;
+   q,w:string;
+   a,b,g:Tlong;
+   lid:boolean;
+
+function max(z,x:integer):integer;
+begin
+  if z>x then result:=z
+  else result:=x;
+end;
+
+Function mul(Var a, b: TLong): TLong;
+var c: TLong; i,j,t: integer;
+begin
+  Fillchar(c, sizeof(c), 0);
+  t:=0;
+  For i := 1 to a[0] do begin
+    t := 0;
+    For j := 1 to b[0] do begin
+      t := t + c[i + j - 1] + a[i] * b[j];
+      c[i + j - 1] := t mod base;
+      t := t div base;
+    end;
+    j := b[0] + i;
+    While (t <> 0) do begin
+      c[j] := t mod base;
+      t := t div base;
+      inc(j);
+    end;
+  end;
+  if c[a[0]+b[0]]>0 then c[0]:=a[0]+b[0] else c[0]:=a[0]+b[0]-1;
+  While(c[c[0]] = 0) and (c[0] > 1) do dec(c[0]);
+  mul := c;
+End;
+

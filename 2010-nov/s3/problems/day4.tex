@@ -1,0 +1,42 @@
+\documentclass [12pt, a4paper, oneside, twocolumn] {article}
+
+\usepackage [T2A] {fontenc}
+\usepackage [cp1251] {inputenc}
+\usepackage [english, russian] {babel}
+\usepackage {amsmath}
+\usepackage {amssymb}
+\usepackage [russian] {olymp}
+\usepackage {graphicx}
+\usepackage {multicol}
+
+\begin {document}
+
+\renewcommand {\t} {\texttt}
+\newcommand {\eps} {\varepsilon}
+\renewcommand {\le} {\leqslant}
+\renewcommand {\ge} {\geqslant}
+\renewcommand {\leq} {\leqslant}
+\renewcommand {\geq} {\geqslant}
+\renewcommand {\S} {\mathcal{S}}
+
+\createsection {\Scoring} {Система оценки}
+
+\contest
+{Поиск в глубину, стеки, очереди, младшая группа}
+{Лисий Нос, центр <<Интеллект>>}
+{четверг, 25 ноября 2010 года}
+
+\binoppenalty=10000
+\relpenalty=10000
+
+% Sorting
+\input a4/a4
+\input b4/b4
+\input c4/c4
+%\input d3/d3
+%\input e3/e3
+%\input f3/f3
+%\input g3/g3
+%\input h3/h3
+
+\end {document}

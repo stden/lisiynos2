@@ -1,0 +1,97 @@
+TESTING=155
+CREATED=12.07.2010 17:40:33
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+a.DPR(11) Hint: Value assigned to 'n' never used
+a.DPR(3) Hint: Variable 'a' is declared but never used in 'tree'
+a.DPR(32) 
+33 lines, 0.03 seconds, 11232 bytes code, 41813 bytes data.
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=1.00000
+TESTCOMM=@#$
+
+
+$#@
+TESTID=2
+TESTRES=1
+TESTSCORE=1.00000
+TESTCOMM=@#$
+
+
+$#@
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+a.DPR(11) Hint: Value assigned to 'n' never used
+a.DPR(3) Hint: Variable 'a' is declared but never used in 'tree'
+a.DPR(32) 
+33 lines, 0.06 seconds, 11232 bytes code, 41813 bytes data.
+
+$#@
+TESTID=1
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=2
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=3
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=4
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=5
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=6
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=7
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=8
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=9
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=10
+TESTRES=3
+TESTCOMM=@#$
+Required: NO, got: YES
+
+$#@
+COMPLETE=12.07.2010 17:43:45

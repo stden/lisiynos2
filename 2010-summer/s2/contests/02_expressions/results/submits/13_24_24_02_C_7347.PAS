@@ -1,0 +1,25 @@
+program lexem;
+var n, p, pos ,i:longINT;
+Var s:string;
+begin
+assign(input,'lexem.in');
+assign(output,'lexem.out');
+reset(input);
+rewrite(output);
+read(s);
+n:=length(s);
+i:=0;
+pos:=1;
+while s[pos]<>'.' do begin
+if (ord(s[pos])>=ord('0')) and (ord(s[pos])<=ord('9')) and
+(ord(s[pos+1])>=ord('0')) and (ord(s[pos+1])<=ord('9')) then
+write(s[pos])
+else
+writeln(s[pos]); pos:=pos+1; end;
+close(input);
+close(output);
+end.
+
+
+
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE math:math PUBLIC "-//W3C//DTD MathML 2.0//EN" "math.dtd"> 
+ <?xtpipes file="oo-math.4xt" ?> 
+<!-- list-m19 by TeX4ht from list.tex line 73 2009-06-11-09:32 
+(http://www.cse.ohio-state.edu/~gurari/TeX4ht/) --> 
+ <math:math 
+ xmlns:math="http://www.w3.org/1998/Math/MathML" 
+xmlns:xlink="http://www.w3.org/1999/xlink"  
+><math:mn>1</math:mn><math:mo 
+ >,</math:mo><math:mi 
+>f</math:mi><math:mrow ><math:mo 
+ >(</math:mo><math:mrow><math:mn>1</math:mn></math:mrow><math:mo 
+ >)</math:mo></math:mrow><math:mo 
+ >,</math:mo><math:mi 
+>f</math:mi><math:mrow ><math:mo 
+ >(</math:mo><math:mrow><math:mi 
+>f</math:mi><math:mrow ><math:mo 
+ >(</math:mo><math:mrow><math:mn>1</math:mn></math:mrow><math:mo 
+ >)</math:mo></math:mrow></math:mrow><math:mo 
+ >)</math:mo></math:mrow><math:mo 
+ >,</math:mo><math:mo 
+ >&#x2026;</math:mo><math:mspace width="0.3em"  /></math:math>

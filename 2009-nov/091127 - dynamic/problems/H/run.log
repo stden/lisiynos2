@@ -1,0 +1,96 @@
+
+21.09.2004 12:29:42 RUN 0.9alpha by Kitten Computing
+
+21.09.2004 12:29:42 Compilation Error
+21.09.2004 12:29:42 Compiler output:
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+solution.dpr(39) Error: Illegal type in Write/Writeln statement
+solution.dpr(40) 
+
+
+21.09.2004 12:29:58 RUN 0.9alpha by Kitten Computing
+
+21.09.2004 12:29:58 Executable file successfully recompiled
+21.09.2004 12:29:58 Compiler output:
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+solution.dpr(6) Hint: Variable 'j' is declared but never used in 'RailRoad'
+solution.dpr(40) 
+41 lines, 0.02 seconds, 12168 bytes code, 34585 bytes data.
+
+21.09.2004 12:29:58 Testing solution, in=h.in, out=h.out, ext=u, tl=100000000, ml=100000000
+
+21.09.2004 12:29:58 Running on test 01
+21.09.2004 12:29:58 Unable to determine memory usage properties for PID=1112
+21.09.2004 12:29:58 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:29:58 Factical execution time: 15 ms
+21.09.2004 12:29:58 Maximal memory usage: 376 Kb
+21.09.2004 12:29:58 Successful termination
+21.09.2004 12:29:58 Checker result: Accepted
+21.09.2004 12:29:58 Checker comments:
+* ok * 
+
+21.09.2004 12:29:58 Running on test 02
+21.09.2004 12:29:58 Unable to determine memory usage properties for PID=2024
+21.09.2004 12:29:58 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:29:58 Factical execution time: 16 ms
+21.09.2004 12:29:58 Maximal memory usage: 376 Kb
+21.09.2004 12:29:58 Successful termination
+21.09.2004 12:29:58 Checker result: Accepted
+21.09.2004 12:29:58 Checker comments:
+* ok * 
+
+21.09.2004 12:29:58 Running on test 03
+21.09.2004 12:29:58 Unable to determine memory usage properties for PID=1540
+21.09.2004 12:29:58 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:29:58 Factical execution time: 16 ms
+21.09.2004 12:29:58 Maximal memory usage: 376 Kb
+21.09.2004 12:29:58 Successful termination
+21.09.2004 12:29:58 Checker result: Accepted
+21.09.2004 12:29:58 Checker comments:
+* ok * 
+
+21.09.2004 12:29:58 Running on test 04
+21.09.2004 12:29:58 Unable to determine memory usage properties for PID=748
+21.09.2004 12:29:58 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:29:58 Factical execution time: 16 ms
+21.09.2004 12:29:58 Maximal memory usage: 376 Kb
+21.09.2004 12:29:58 Successful termination
+21.09.2004 12:29:58 Checker result: Accepted
+21.09.2004 12:29:58 Checker comments:
+* ok * 
+
+21.09.2004 12:29:58 Running on test 05
+21.09.2004 12:29:58 Unable to determine memory usage properties for PID=1148
+21.09.2004 12:29:58 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:29:58 Factical execution time: 15 ms
+21.09.2004 12:29:58 Maximal memory usage: 376 Kb
+21.09.2004 12:29:58 Successful termination
+21.09.2004 12:29:58 Checker result: Accepted
+21.09.2004 12:29:58 Checker comments:
+* ok * 
+
+21.09.2004 12:29:58 Running on test 06
+21.09.2004 12:29:58 Unable to determine memory usage properties for PID=1312
+21.09.2004 12:29:58 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:29:58 Factical execution time: 31 ms
+21.09.2004 12:29:58 Maximal memory usage: 376 Kb
+21.09.2004 12:29:58 Successful termination
+21.09.2004 12:29:58 Checker result: Accepted
+21.09.2004 12:29:58 Checker comments:
+* ok * 
+
+21.09.2004 12:29:58 Running on test 07
+21.09.2004 12:29:58 Unable to determine memory usage properties for PID=1332
+21.09.2004 12:29:58 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+21.09.2004 12:29:58 Factical execution time: 31 ms
+21.09.2004 12:29:58 Maximal memory usage: 596 Kb
+21.09.2004 12:29:58 Successful termination
+21.09.2004 12:29:58 Checker result: Accepted
+21.09.2004 12:29:58 Checker comments:
+* ok * 
+
+21.09.2004 12:29:58 Total maximal work time: 31,25000 ms
+21.09.2004 12:29:58 Total maximal memory usage: 596 Kb
+

@@ -1,0 +1,25 @@
+.TableHeader {
+	font-family: "Microsoft Sans Serif", "MS Sans Serif";
+	font-size: 12px;
+	font-style: normal;
+	color: #000000;
+	background-color: #E7EBE0;
+	border: 1px dotted #000099;
+	line-height: normal;
+	padding: 2px;
+	font-weight: bold;
+
+}
+.TableCell {
+	font-family: "Microsoft Sans Serif", "MS Sans Serif";
+	font-size: 12px;
+	font-style: normal;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: 1px dotted #999999;
+	line-height: normal;
+	padding: 2px;
+	font-weight: normal;
+	text-decoration: none;
+
+}

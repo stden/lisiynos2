@@ -1,0 +1,159 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=Generator content="Microsoft Word 11 (filtered)">
+<title>Понятие о рекурсии</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+h2
+	{margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-style:italic;}
+p.MsoBodyTextIndent2, li.MsoBodyTextIndent2, div.MsoBodyTextIndent2
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:54.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+A {color:#0080CC;}
+A:hover {color:#0000FF;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=RU link=blue vlink=purple>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=0 cellpadding=0>
+ <tr>
+  <td width="6%" style='width:6.0%;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width="90%" style='width:90.0%;padding:.75pt .75pt .75pt .75pt'>
+  <h2 style='margin-left:18.0pt'><span style='font-style:normal'>Понятие о
+  рекурсии</span></h2>
+  <p class=MsoNormal style='margin-left:18.0pt'>&nbsp;</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>Слово
+  «рекурсия» происходит от латинского слова «recursio» - возвращение. Почти в
+  любой книге по программированию касаются рекурсии и рекурсивных процедур и
+  функций. </p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>Если программа
+  (или функция) обращается сама к себе как к подпрограмме (или функции)
+  непосредственно или через цепочку подпрограмм, то это называется <b>рекурсией</b>.</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>А такие
+  программы (или функции) называются <b>рекурсивными</b>.</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>Сразу же
+  после определения может возникнуть вопрос: «А не зациклится ли, то есть, не
+  будет ли бесконечно выполняться такая рекурсивная программа?» И,
+  действительно, опасность зацикливания вполне реальна. Вот почему необходимо
+  усвоить очень важное правило:</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><span
+  lang=EN-US>&nbsp;</span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt;
+  background:#F3F3F3'><b><i>В первую очередь, оформляйте выход из рекурсии!</i></b></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>&nbsp;</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>Помните
+  детское стихотворение-считалку про 10 негритят?</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>«10
+  негритят пошли купаться в море,</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>10
+  негритят резвились на просторе,</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>Один
+  из них пропал и вот вам результат:</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>&nbsp;</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>9
+  негритят пошли купаться в море,</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>9
+  негритят резвились на просторе,</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>Один
+  из них пропал – и вот вам результат:</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>…</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>1
+  (из) негритят пошли(ел) купаться в море,</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>1
+  (из) негритят резвились(ся)на просторе,</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>Один
+  из них пропал – и вот вам результат:</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>Нет
+  больше негритят!»</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>&nbsp;</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>Первые три
+  строчки этого стихотворения повторяются 10 раз с небольшим изменением – число
+  негритят уменьшается с каждым разом на единицу. И только когда число негритят
+  уменьшилось до нуля, стихотворение заканчивается единственной строчкой «Нет
+  больше негритят!». </p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>Каким же
+  образом выглядит рекурсивная процедура-подпрограмма, выполняющая эту задачу?
+  Проиллюстрируем для <span lang=EN-US>k</span> = 3.</p>
+  <p class=MsoNormal align=center style='text-align:center;text-indent:19.85pt'><span
+  lang=EN-US><img width=660 height=236 src="1.files/image001.jpg"></span></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>Такое последовательное
+  обращение как бы к другим экземплярам одной и той же процедуры (другим также
+  является значение параметра) напоминает матрешку, которая раскрывается до тех
+  пор, пока может открываться, потом же матрешек закрывают по очереди, начиная
+  с внутренней (самой маленькой). Посмотрим <span lang=EN-US><a href="Rec1.pps"
+  target="_blank"><span style='font-family:Wingdings'>&egrave;</span></a></span></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>Следующее
+  вывод напрашивается сам собой:</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><span
+  lang=EN-US>&nbsp;</span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt;
+  background:#F3F3F3'><b><i>Рекурсивная процедура вызывает саму себя с
+  измененным значением параметра.</i></b></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>&nbsp;</b></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>На
+  наглядном примере «матрешки» становится ясным то, что параметры и некоторые
+  другие переменные всех вызовов рекурсивной процедуры должны храниться где-то
+  в памяти до тех пор, пока не произойдет постепенное закрытие сначала самой
+  «глубокой» вложенной процедуры, а потом по очереди всех остальных.</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>Для
+  хранения всех данных рекурсивной процедуры используется организация памяти в
+  виде стека (по принципу «LAST IN – FIRST OUT», то есть «Последним вошел –
+  первым вышел»), а под стек выделяется памяти не больше 64K. </p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>Поэтому
+  следует запомнить следующее правило:</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'>&nbsp;</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt;
+  background:#F3F3F3'><b><i>Рекурсия требует большого объема памяти и не может
+  иметь слишком много вложений.</i></b></p>
+  <p class=MsoNormal>&nbsp;</p>
+  <p class=MsoNormal><a href="index.htm">В начало</a> </p>
+  </td>
+  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>

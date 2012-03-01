@@ -1,0 +1,516 @@
+
+22.10.2004 18:04:29 RUN 0.9alpha by Kitten Computing
+
+22.10.2004 18:04:29 Executable file successfully recompiled
+22.10.2004 18:04:29 Compiler output:
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+17_55_19_42_F_9393.DPR(50) 
+51 lines, 0.09 seconds, 30020 bytes code, 5261 bytes data.
+
+22.10.2004 18:04:29 Testing 17_55_19_42_F_9393, in=time.in, out=time.out, ext=u, tl=100000000, ml=100000000
+
+22.10.2004 18:04:29 Running on test 01
+22.10.2004 18:04:29 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:29 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+22.10.2004 18:04:29 Factical execution time: 141 ms
+22.10.2004 18:04:29 Maximal memory usage: 988 Kb
+22.10.2004 18:04:29 Successful termination
+22.10.2004 18:04:29 Checker result: Wrong Answer
+22.10.2004 18:04:29 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:29 Running on test 02
+22.10.2004 18:04:29 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:29 Processor time used: system=31,25000 ms, user=15,62500 ms total=46,87500 ms.
+22.10.2004 18:04:29 Factical execution time: 31 ms
+22.10.2004 18:04:29 Maximal memory usage: 616 Kb
+22.10.2004 18:04:29 Successful termination
+22.10.2004 18:04:29 Checker result: Wrong Answer
+22.10.2004 18:04:29 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:29 Running on test 03
+22.10.2004 18:04:29 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:29 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:29 Factical execution time: 31 ms
+22.10.2004 18:04:29 Maximal memory usage: 1164 Kb
+22.10.2004 18:04:29 Successful termination
+22.10.2004 18:04:29 Checker result: Accepted
+22.10.2004 18:04:29 Checker comments:
+* ok * 
+
+22.10.2004 18:04:29 Running on test 04
+22.10.2004 18:04:29 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:29 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:29 Factical execution time: 47 ms
+22.10.2004 18:04:29 Maximal memory usage: 616 Kb
+22.10.2004 18:04:29 Successful termination
+22.10.2004 18:04:29 Checker result: Wrong Answer
+22.10.2004 18:04:29 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:29 Running on test 05
+22.10.2004 18:04:29 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:29 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:29 Factical execution time: 31 ms
+22.10.2004 18:04:29 Maximal memory usage: 616 Kb
+22.10.2004 18:04:29 Successful termination
+22.10.2004 18:04:29 Checker result: Wrong Answer
+22.10.2004 18:04:29 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:29 Running on test 06
+22.10.2004 18:04:29 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:29 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+22.10.2004 18:04:29 Factical execution time: 31 ms
+22.10.2004 18:04:29 Maximal memory usage: 812 Kb
+22.10.2004 18:04:29 Successful termination
+22.10.2004 18:04:29 Checker result: Wrong Answer
+22.10.2004 18:04:29 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:29 Running on test 07
+22.10.2004 18:04:29 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:29 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:29 Factical execution time: 31 ms
+22.10.2004 18:04:29 Maximal memory usage: 1168 Kb
+22.10.2004 18:04:29 Successful termination
+22.10.2004 18:04:29 Checker result: Wrong Answer
+22.10.2004 18:04:29 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:29 Running on test 08
+22.10.2004 18:04:29 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:29 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:29 Factical execution time: 47 ms
+22.10.2004 18:04:29 Maximal memory usage: 616 Kb
+22.10.2004 18:04:29 Successful termination
+22.10.2004 18:04:29 Checker result: Wrong Answer
+22.10.2004 18:04:29 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:29 Running on test 09
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:30 Factical execution time: 46 ms
+22.10.2004 18:04:30 Maximal memory usage: 768 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 10
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:30 Factical execution time: 31 ms
+22.10.2004 18:04:30 Maximal memory usage: 948 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 11
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:30 Factical execution time: 31 ms
+22.10.2004 18:04:30 Maximal memory usage: 1168 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 12
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:30 Factical execution time: 47 ms
+22.10.2004 18:04:30 Maximal memory usage: 616 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 13
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+22.10.2004 18:04:30 Factical execution time: 31 ms
+22.10.2004 18:04:30 Maximal memory usage: 876 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 14
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:30 Factical execution time: 32 ms
+22.10.2004 18:04:30 Maximal memory usage: 1040 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 15
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:30 Factical execution time: 31 ms
+22.10.2004 18:04:30 Maximal memory usage: 616 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 16
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=15,62500 ms, user=31,25000 ms total=46,87500 ms.
+22.10.2004 18:04:30 Factical execution time: 31 ms
+22.10.2004 18:04:30 Maximal memory usage: 616 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 17
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=31,25000 ms, user=15,62500 ms total=46,87500 ms.
+22.10.2004 18:04:30 Factical execution time: 31 ms
+22.10.2004 18:04:30 Maximal memory usage: 616 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 18
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:30 Factical execution time: 32 ms
+22.10.2004 18:04:30 Maximal memory usage: 1160 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 19
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:30 Factical execution time: 31 ms
+22.10.2004 18:04:30 Maximal memory usage: 616 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 20
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=15,62500 ms, user=31,25000 ms total=46,87500 ms.
+22.10.2004 18:04:30 Factical execution time: 31 ms
+22.10.2004 18:04:30 Maximal memory usage: 616 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 21
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:30 Factical execution time: 31 ms
+22.10.2004 18:04:30 Maximal memory usage: 1140 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 22
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:30 Factical execution time: 32 ms
+22.10.2004 18:04:30 Maximal memory usage: 1168 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 23
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:30 Factical execution time: 47 ms
+22.10.2004 18:04:30 Maximal memory usage: 616 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 24
+22.10.2004 18:04:30 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:30 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:30 Factical execution time: 31 ms
+22.10.2004 18:04:30 Maximal memory usage: 1036 Kb
+22.10.2004 18:04:30 Successful termination
+22.10.2004 18:04:30 Checker result: Wrong Answer
+22.10.2004 18:04:30 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:30 Running on test 25
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:31 Factical execution time: 32 ms
+22.10.2004 18:04:31 Maximal memory usage: 692 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 26
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:31 Factical execution time: 31 ms
+22.10.2004 18:04:31 Maximal memory usage: 1168 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 27
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:31 Factical execution time: 47 ms
+22.10.2004 18:04:31 Maximal memory usage: 616 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 28
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=15,62500 ms, user=31,25000 ms total=46,87500 ms.
+22.10.2004 18:04:31 Factical execution time: 32 ms
+22.10.2004 18:04:31 Maximal memory usage: 616 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 29
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+22.10.2004 18:04:31 Factical execution time: 31 ms
+22.10.2004 18:04:31 Maximal memory usage: 616 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 30
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:31 Factical execution time: 31 ms
+22.10.2004 18:04:31 Maximal memory usage: 616 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 31
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=31,25000 ms, user=15,62500 ms total=46,87500 ms.
+22.10.2004 18:04:31 Factical execution time: 32 ms
+22.10.2004 18:04:31 Maximal memory usage: 1040 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 32
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:31 Factical execution time: 31 ms
+22.10.2004 18:04:31 Maximal memory usage: 616 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 33
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:31 Factical execution time: 32 ms
+22.10.2004 18:04:31 Maximal memory usage: 1168 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 34
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:31 Factical execution time: 31 ms
+22.10.2004 18:04:31 Maximal memory usage: 796 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 35
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:31 Factical execution time: 32 ms
+22.10.2004 18:04:31 Maximal memory usage: 1168 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 36
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:31 Factical execution time: 47 ms
+22.10.2004 18:04:31 Maximal memory usage: 616 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 37
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=15,62500 ms, user=31,25000 ms total=46,87500 ms.
+22.10.2004 18:04:31 Factical execution time: 31 ms
+22.10.2004 18:04:31 Maximal memory usage: 616 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 38
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:31 Factical execution time: 32 ms
+22.10.2004 18:04:31 Maximal memory usage: 1164 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 39
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:31 Factical execution time: 31 ms
+22.10.2004 18:04:31 Maximal memory usage: 1168 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:31 Checker result: Wrong Answer
+22.10.2004 18:04:31 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:31 Running on test 40
+22.10.2004 18:04:31 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:31 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:31 Factical execution time: 47 ms
+22.10.2004 18:04:31 Maximal memory usage: 616 Kb
+22.10.2004 18:04:31 Successful termination
+22.10.2004 18:04:32 Checker result: Wrong Answer
+22.10.2004 18:04:32 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:32 Running on test 41
+22.10.2004 18:04:32 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:32 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:32 Factical execution time: 47 ms
+22.10.2004 18:04:32 Maximal memory usage: 616 Kb
+22.10.2004 18:04:32 Successful termination
+22.10.2004 18:04:32 Checker result: Wrong Answer
+22.10.2004 18:04:32 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:32 Running on test 42
+22.10.2004 18:04:32 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:32 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:32 Factical execution time: 32 ms
+22.10.2004 18:04:32 Maximal memory usage: 1036 Kb
+22.10.2004 18:04:32 Successful termination
+22.10.2004 18:04:32 Checker result: Wrong Answer
+22.10.2004 18:04:32 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:32 Running on test 43
+22.10.2004 18:04:32 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:32 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:32 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:32 Factical execution time: 31 ms
+22.10.2004 18:04:32 Maximal memory usage: 616 Kb
+22.10.2004 18:04:32 Successful termination
+22.10.2004 18:04:32 Checker result: Wrong Answer
+22.10.2004 18:04:32 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:32 Running on test 44
+22.10.2004 18:04:32 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:32 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:32 Factical execution time: 31 ms
+22.10.2004 18:04:32 Maximal memory usage: 616 Kb
+22.10.2004 18:04:32 Successful termination
+22.10.2004 18:04:32 Checker result: Wrong Answer
+22.10.2004 18:04:32 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:32 Running on test 45
+22.10.2004 18:04:32 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:32 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+22.10.2004 18:04:32 Factical execution time: 31 ms
+22.10.2004 18:04:32 Maximal memory usage: 808 Kb
+22.10.2004 18:04:32 Successful termination
+22.10.2004 18:04:32 Checker result: Wrong Answer
+22.10.2004 18:04:32 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:32 Running on test 46
+22.10.2004 18:04:32 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:32 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:32 Factical execution time: 31 ms
+22.10.2004 18:04:32 Maximal memory usage: 1164 Kb
+22.10.2004 18:04:32 Successful termination
+22.10.2004 18:04:32 Checker result: Wrong Answer
+22.10.2004 18:04:32 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:32 Running on test 47
+22.10.2004 18:04:32 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:32 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+22.10.2004 18:04:32 Factical execution time: 31 ms
+22.10.2004 18:04:32 Maximal memory usage: 616 Kb
+22.10.2004 18:04:32 Successful termination
+22.10.2004 18:04:32 Checker result: Wrong Answer
+22.10.2004 18:04:32 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:32 Running on test 48
+22.10.2004 18:04:32 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:32 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:32 Factical execution time: 31 ms
+22.10.2004 18:04:32 Maximal memory usage: 688 Kb
+22.10.2004 18:04:32 Successful termination
+22.10.2004 18:04:32 Checker result: Wrong Answer
+22.10.2004 18:04:32 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:32 Running on test 49
+22.10.2004 18:04:32 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:32 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:32 Factical execution time: 31 ms
+22.10.2004 18:04:32 Maximal memory usage: 1168 Kb
+22.10.2004 18:04:32 Successful termination
+22.10.2004 18:04:32 Checker result: Wrong Answer
+22.10.2004 18:04:32 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:32 Running on test 50
+22.10.2004 18:04:32 Unable to determine memory usage properties for PID=1460
+22.10.2004 18:04:32 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+22.10.2004 18:04:32 Factical execution time: 31 ms
+22.10.2004 18:04:32 Maximal memory usage: 616 Kb
+22.10.2004 18:04:32 Successful termination
+22.10.2004 18:04:32 Checker result: Wrong Answer
+22.10.2004 18:04:32 Checker comments:
+* Неверный ответ * 
+
+22.10.2004 18:04:32 Total maximal work time: 46,87500 ms
+22.10.2004 18:04:32 Total maximal memory usage: 1168 Kb
+

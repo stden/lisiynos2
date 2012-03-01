@@ -1,0 +1,38 @@
+\documentclass [12pt, a4paper, oneside, twocolumn] {article}
+
+\usepackage [T2A] {fontenc}
+\usepackage [cp1251] {inputenc}
+\usepackage [english, russian] {babel}
+\usepackage {amsmath}
+\usepackage {amssymb}
+\usepackage [russian] {olymp}
+\usepackage {graphicx}
+\usepackage {multicol}
+
+\begin {document}
+
+\renewcommand {\t} {\texttt}
+\newcommand {\eps} {\varepsilon}
+\renewcommand {\le} {\leqslant}
+\renewcommand {\ge} {\geqslant}
+\renewcommand {\leq} {\leqslant}
+\renewcommand {\geq} {\geqslant}
+\renewcommand {\S} {\mathcal{S}}
+
+\createsection {\Scoring} {Система оценки}
+
+\contest
+{Теория графов, старшая группа}
+{Лисий Нос, центр <<Интеллект>>}
+{суббота, 20 марта 2010 года}
+
+\binoppenalty=10000
+\relpenalty=10000
+
+% Графы
+\input problems/wave
+\input problems/path
+\input problems/vnums
+\input problems/comp
+
+\end {document}

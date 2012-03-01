@@ -1,0 +1,53 @@
+\documentclass[12pt,a4paper,oneside,twocolumn]{article}
+%\documentclass[12pt,a4paper,oneside,twocolumn,landscape]{article}
+
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage[russian]{olymp}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{epsfig}
+%\usepackage{wrapfig}
+%\usepackage{expdlist}
+%\usepackage{textpos}
+
+\contest
+{Осенняя сессия по информатике в Лисьем Носу}
+{Алгоритмы на графах}
+{вторник, 23 ноября 2010 года}
+
+\renewcommand{\t}[1]{\ifmmode{\mathtt{#1}}\else{\texttt{#1}}\fi}
+\newcommand{\eps}{\varepsilon}
+\renewcommand{\le}{\leqslant}
+\renewcommand{\ge}{\geqslant}
+\renewcommand{\leq}{\leqslant}
+\renewcommand{\geq}{\geqslant}
+\renewcommand{\phi}{\varphi}
+\newcommand{\pow}{\^\relax}
+\newcommand{\bs}{\mbox{$\backslash$}}
+\def\bbZ{\mathbb{Z}}
+\newcommand{\clarify}[1]{{\it *** {#1} ***}}
+\def\prob#1{\input ../problems/#1/statement/#1.tex}
+
+\binoppenalty=10000
+\relpenalty=10000
+\exhyphenpenalty=10000
+
+\createsection{\Illustration}{Иллюстрация}
+\createsection{\Scoring}{Система оценки}
+\createsection{\Note}{Замечание}
+
+\begin{document}
+
+\raggedbottom
+
+\prob{rootdist}
+\prob{connect}
+\prob{dijkstra}
+\prob{floyd}
+\prob{order}
+\newpage
+\prob{negcycle}
+
+\end{document}

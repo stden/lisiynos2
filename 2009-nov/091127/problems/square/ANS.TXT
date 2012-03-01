@@ -1,0 +1,2 @@
+.Testlib Result Number = 0
+.Check Comments = Все хорошо :)

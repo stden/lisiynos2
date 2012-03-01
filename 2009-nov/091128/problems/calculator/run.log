@@ -1,0 +1,228 @@
+
+28.11.2009 04:34:58 RUN 0.9alpha by Kitten Computing
+
+28.11.2009 04:34:58 Executable file successfully recompiled
+28.11.2009 04:34:58 Compiler output:
+Embarcadero Delphi for Win32 compiler version 21.0
+Copyright (c) 1983,2009 Embarcadero Technologies, Inc.
+solution.dpr(121) 
+122 lines, 0.22 seconds, 61708 bytes code, 29080 bytes data.
+
+28.11.2009 04:34:58 Testing solution, in=calculator.in, out=calculator.out, ext=u, tl=100000000, ml=100000000
+28.11.2009 04:34:58 No tests found
+
+
+28.11.2009 04:35:36 RUN 0.9alpha by Kitten Computing
+
+28.11.2009 04:35:36 Testing solution, in=calculator.in, out=calculator.out, ext=u, tl=100000000, ml=100000000
+
+28.11.2009 04:35:36 Running on test 01
+28.11.2009 04:35:36 Unable to determine memory usage properties for PID=3712
+28.11.2009 04:35:36 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+28.11.2009 04:35:36 Factical execution time: 172 ms
+28.11.2009 04:35:36 Maximal memory usage: 1668 Kb
+28.11.2009 04:35:36 Successful termination
+28.11.2009 04:35:36 Unable to copy output file calculator.out for test 01
+28.11.2009 04:35:36 ERROR: Unable to invoke checking program
+28.11.2009 04:35:36 Checker comments:
+
+28.11.2009 04:35:36 Total maximal work time: 15,62500 ms
+28.11.2009 04:35:36 Total maximal memory usage: 1668 Kb
+
+
+28.11.2009 04:40:09 RUN 0.9alpha by Kitten Computing
+
+28.11.2009 04:40:09 Testing solution, in=calculator.in, out=calculator.out, ext=u, tl=100000000, ml=100000000
+
+28.11.2009 04:40:09 Running on test 01
+28.11.2009 04:40:09 Unable to determine memory usage properties for PID=900
+28.11.2009 04:40:09 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+28.11.2009 04:40:09 Factical execution time: 31 ms
+28.11.2009 04:40:09 Maximal memory usage: 1352 Kb
+28.11.2009 04:40:09 Successful termination
+28.11.2009 04:40:09 Unable to copy output file calculator.out for test 01
+28.11.2009 04:40:09 Checker result: Presentation Error
+28.11.2009 04:40:09 Checker comments:
+* Формат в/в * Отсутствует файл 'calculator.out'
+
+28.11.2009 04:40:09 Total maximal work time: 31,25000 ms
+28.11.2009 04:40:09 Total maximal memory usage: 1352 Kb
+
+
+28.11.2009 04:40:21 RUN 0.9alpha by Kitten Computing
+
+28.11.2009 04:40:21 Testing solution, in=calculator.in, out=calculator.out, ext=u, tl=100000000, ml=100000000
+
+28.11.2009 04:40:21 Running on test 01
+28.11.2009 04:40:21 Unable to determine memory usage properties for PID=1384
+28.11.2009 04:40:21 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+28.11.2009 04:40:21 Factical execution time: 31 ms
+28.11.2009 04:40:21 Maximal memory usage: 1668 Kb
+28.11.2009 04:40:21 Successful termination
+28.11.2009 04:40:21 Unable to copy output file calculator.out for test 01
+28.11.2009 04:40:21 Checker result: Presentation Error
+28.11.2009 04:40:21 Checker comments:
+* Формат в/в * Отсутствует файл 'calculator.out'
+
+28.11.2009 04:40:21 Total maximal work time: 31,25000 ms
+28.11.2009 04:40:21 Total maximal memory usage: 1668 Kb
+
+
+28.11.2009 04:41:01 RUN 0.9alpha by Kitten Computing
+
+28.11.2009 04:41:01 Executable file successfully recompiled
+28.11.2009 04:41:01 Compiler output:
+Embarcadero Delphi for Win32 compiler version 21.0
+Copyright (c) 1983,2009 Embarcadero Technologies, Inc.
+solution.dpr(121) 
+122 lines, 0.08 seconds, 61712 bytes code, 29080 bytes data.
+
+28.11.2009 04:41:01 Testing solution, in=calculator.in, out=calculator.out, ext=u, tl=100000000, ml=100000000
+
+28.11.2009 04:41:01 Running on test 01
+28.11.2009 04:41:01 Unable to determine memory usage properties for PID=1428
+28.11.2009 04:41:01 Processor time used: system=15,62500 ms, user=31,25000 ms total=46,87500 ms.
+28.11.2009 04:41:01 Factical execution time: 31 ms
+28.11.2009 04:41:01 Maximal memory usage: 1668 Kb
+28.11.2009 04:41:01 Successful termination
+28.11.2009 04:41:01 Checker result: Accepted
+28.11.2009 04:41:01 Checker comments:
+* ok * 
+
+28.11.2009 04:41:01 Total maximal work time: 46,87500 ms
+28.11.2009 04:41:01 Total maximal memory usage: 1668 Kb
+
+
+28.11.2009 04:44:20 RUN 0.9alpha by Kitten Computing
+
+28.11.2009 04:44:20 Testing solution, in=calculator.in, out=calculator.out, ext=u, tl=100000000, ml=100000000
+
+28.11.2009 04:44:20 Running on test 01
+28.11.2009 04:44:20 Unable to determine memory usage properties for PID=2524
+28.11.2009 04:44:20 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+28.11.2009 04:44:20 Factical execution time: 31 ms
+28.11.2009 04:44:20 Maximal memory usage: 1340 Kb
+28.11.2009 04:44:20 Successful termination
+28.11.2009 04:44:20 Checker result: Accepted
+28.11.2009 04:44:20 Checker comments:
+* ok * 
+
+28.11.2009 04:44:20 Running on test 02
+28.11.2009 04:44:20 Unable to determine memory usage properties for PID=2420
+28.11.2009 04:44:20 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+28.11.2009 04:44:20 Factical execution time: 16 ms
+28.11.2009 04:44:20 Maximal memory usage: 1668 Kb
+28.11.2009 04:44:20 Successful termination
+28.11.2009 04:44:20 Checker result: Accepted
+28.11.2009 04:44:20 Checker comments:
+* ok * 
+
+28.11.2009 04:44:20 Running on test 03
+28.11.2009 04:44:20 Unable to determine memory usage properties for PID=2560
+28.11.2009 04:44:20 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+28.11.2009 04:44:20 Factical execution time: 15 ms
+28.11.2009 04:44:20 Maximal memory usage: 1668 Kb
+28.11.2009 04:44:20 Successful termination
+28.11.2009 04:44:20 Checker result: Accepted
+28.11.2009 04:44:20 Checker comments:
+* ok * 
+
+28.11.2009 04:44:20 Total maximal work time: 31,25000 ms
+28.11.2009 04:44:20 Total maximal memory usage: 1668 Kb
+
+
+28.11.2009 04:44:47 RUN 0.9alpha by Kitten Computing
+
+28.11.2009 04:44:47 Testing solution, in=calculator.in, out=calculator.out, ext=u, tl=100000000, ml=100000000
+
+28.11.2009 04:44:47 Running on test 01
+28.11.2009 04:44:47 Unable to determine memory usage properties for PID=168
+28.11.2009 04:44:47 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+28.11.2009 04:44:47 Factical execution time: 32 ms
+28.11.2009 04:44:47 Maximal memory usage: 1340 Kb
+28.11.2009 04:44:47 Successful termination
+28.11.2009 04:44:47 Checker result: Accepted
+28.11.2009 04:44:47 Checker comments:
+* ok * 
+
+28.11.2009 04:44:47 Running on test 02
+28.11.2009 04:44:47 Unable to determine memory usage properties for PID=2056
+28.11.2009 04:44:47 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+28.11.2009 04:44:47 Factical execution time: 31 ms
+28.11.2009 04:44:47 Maximal memory usage: 1672 Kb
+28.11.2009 04:44:47 Successful termination
+28.11.2009 04:44:47 Checker result: Accepted
+28.11.2009 04:44:47 Checker comments:
+* ok * 
+
+28.11.2009 04:44:47 Running on test 03
+28.11.2009 04:44:47 Unable to determine memory usage properties for PID=1840
+28.11.2009 04:44:47 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+28.11.2009 04:44:47 Factical execution time: 16 ms
+28.11.2009 04:44:47 Maximal memory usage: 916 Kb
+28.11.2009 04:44:47 Successful termination
+28.11.2009 04:44:47 Checker result: Accepted
+28.11.2009 04:44:47 Checker comments:
+* ok * 
+
+28.11.2009 04:44:47 Running on test 04
+28.11.2009 04:44:47 Unable to determine memory usage properties for PID=2744
+28.11.2009 04:44:47 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+28.11.2009 04:44:47 Factical execution time: 16 ms
+28.11.2009 04:44:47 Maximal memory usage: 112 Kb
+28.11.2009 04:44:47 Successful termination
+28.11.2009 04:44:47 Checker result: JURY'S ERROR
+28.11.2009 04:44:47 Checker comments:
+* Облом * Отсутствует файл '04.a' (04.a)
+
+28.11.2009 04:44:47 Total maximal work time: 31,25000 ms
+28.11.2009 04:44:47 Total maximal memory usage: 1672 Kb
+
+
+28.11.2009 04:44:59 RUN 0.9alpha by Kitten Computing
+
+28.11.2009 04:44:59 Testing solution, in=calculator.in, out=calculator.out, ext=u, tl=100000000, ml=100000000
+
+28.11.2009 04:44:59 Running on test 01
+28.11.2009 04:44:59 Unable to determine memory usage properties for PID=2768
+28.11.2009 04:44:59 Unable to determine memory usage properties for PID=2768
+28.11.2009 04:44:59 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+28.11.2009 04:44:59 Factical execution time: 31 ms
+28.11.2009 04:44:59 Successful termination
+28.11.2009 04:44:59 Checker result: Accepted
+28.11.2009 04:44:59 Checker comments:
+* ok * 
+
+28.11.2009 04:44:59 Running on test 02
+28.11.2009 04:44:59 Unable to determine memory usage properties for PID=2704
+28.11.2009 04:44:59 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+28.11.2009 04:44:59 Factical execution time: 15 ms
+28.11.2009 04:44:59 Maximal memory usage: 1668 Kb
+28.11.2009 04:44:59 Successful termination
+28.11.2009 04:44:59 Checker result: Accepted
+28.11.2009 04:44:59 Checker comments:
+* ok * 
+
+28.11.2009 04:44:59 Running on test 03
+28.11.2009 04:45:00 Unable to determine memory usage properties for PID=2804
+28.11.2009 04:45:00 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+28.11.2009 04:45:00 Factical execution time: 31 ms
+28.11.2009 04:45:00 Maximal memory usage: 1668 Kb
+28.11.2009 04:45:00 Successful termination
+28.11.2009 04:45:00 Checker result: Accepted
+28.11.2009 04:45:00 Checker comments:
+* ok * 
+
+28.11.2009 04:45:00 Running on test 04
+28.11.2009 04:45:00 Unable to determine memory usage properties for PID=2716
+28.11.2009 04:45:00 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+28.11.2009 04:45:00 Factical execution time: 15 ms
+28.11.2009 04:45:00 Maximal memory usage: 300 Kb
+28.11.2009 04:45:00 Successful termination
+28.11.2009 04:45:00 Checker result: Accepted
+28.11.2009 04:45:00 Checker comments:
+* ok * 
+
+28.11.2009 04:45:00 Total maximal work time: 31,25000 ms
+28.11.2009 04:45:00 Total maximal memory usage: 1668 Kb
+

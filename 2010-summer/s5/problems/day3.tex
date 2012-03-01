@@ -1,0 +1,41 @@
+\documentclass [12pt, a4paper, oneside, twocolumn] {article}
+
+\usepackage [T2A] {fontenc}
+\usepackage [cp1251] {inputenc}
+\usepackage [english, russian] {babel}
+\usepackage {amsmath}
+\usepackage {amssymb}
+\usepackage [russian] {olymp}
+\usepackage {graphicx}
+\usepackage {multicol}
+
+\begin {document}
+
+\renewcommand {\t} {\texttt}
+\newcommand {\eps} {\varepsilon}
+\renewcommand {\le} {\leqslant}
+\renewcommand {\ge} {\geqslant}
+\renewcommand {\leq} {\leqslant}
+\renewcommand {\geq} {\geqslant}
+\renewcommand {\S} {\mathcal{S}}
+
+\createsection {\Scoring} {Система оценки}
+
+\contest
+{Вычислительная геометрия, старшая группа}
+{Лисий Нос, центр <<Интеллект>>}
+{среда, 14 июля 2010 года}
+
+\binoppenalty=10000
+\relpenalty=10000
+
+% Sorting
+\input vector/vector
+\input sumvec/sumvec
+\input par/par
+\input scalar/scalar
+\input tang/tang
+\input dist/dist
+\input gallery/gallery
+
+\end {document}

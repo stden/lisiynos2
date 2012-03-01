@@ -1,0 +1,1575 @@
+CONTESTDATVER=37
+CONTESTID=040921
+STATE=4
+STARTTIME=21.09.2004 18:41:53
+ENDTIME=21.09.2004 21:41:53
+PROBLEMS#=8
+PROB_0=A
+PROBSTATE_0=0
+PROB_1=B
+PROBSTATE_1=0
+PROB_2=C
+PROBSTATE_2=0
+PROB_3=D
+PROBSTATE_3=0
+PROB_4=E
+PROBSTATE_4=0
+PROB_5=F
+PROBSTATE_5=0
+PROB_6=G
+PROBSTATE_6=0
+PROB_7=H
+PROBSTATE_7=0
+TEAMS#=11
+TEAM_0=00
+TEAMPWD_0=gfhjkm
+TEAMSTATE_0=4
+TEAMSHIFT_0=0
+TEAMFLAGS_0=30
+TEAMMON_0=5
+TEAMPAGES_0=0
+TEAMMSGR_0=9
+TEAMMSGW_0=9
+TEAMMSG_0_0=A(1): Time Limit, TestN=5
+TEAMMSG_0_1=A(2): Accepted
+TEAMMSG_0_2=B(1): Accepted
+TEAMMSG_0_3=C(1): Accepted
+TEAMMSG_0_4=D(1): Accepted
+TEAMMSG_0_5=E(1): Accepted
+TEAMMSG_0_6=F(1): Accepted
+TEAMMSG_0_7=G(1): Accepted
+TEAMMSG_0_8=H(1): Accepted
+TEAMMSGTIMES_0_0=142,171,171,176
+TEAMMSGTIMES_0_1=303,304,304,305
+TEAMMSGTIMES_0_2=789,791,791,801
+TEAMMSGTIMES_0_3=836,838,838,840
+TEAMMSGTIMES_0_4=1695,1696,1696,1699
+TEAMMSGTIMES_0_5=1708,1710,1710,1712
+TEAMMSGTIMES_0_6=1723,1724,1724,1726
+TEAMMSGTIMES_0_7=1738,1739,1739,1740
+TEAMMSGTIMES_0_8=1752,1754,1754,1756
+TEAM_1=08
+TEAMPWD_1=xgj5
+TEAMSTATE_1=4
+TEAMSHIFT_1=0
+TEAMFLAGS_1=30
+TEAMMON_1=1
+TEAMPAGES_1=0
+TEAMMSGR_1=5
+TEAMMSGW_1=5
+TEAMMSG_1_0=B(1): Accepted
+TEAMMSG_1_1=E(1): Wrong Answer, TestN=2
+TEAMMSG_1_2=E(2): Accepted
+TEAMMSG_1_3=D(1): Accepted
+TEAMMSG_1_4=C(1): Accepted
+TEAMMSGTIMES_1_0=2999,3001,3001,3006
+TEAMMSGTIMES_1_1=4693,4693,4693,4720
+TEAMMSGTIMES_1_2=6549,6551,6551,6560
+TEAMMSGTIMES_1_3=7085,7087,7087,7091
+TEAMMSGTIMES_1_4=9596,9598,9598,9599
+TEAM_2=10
+TEAMPWD_2=w06c
+TEAMSTATE_2=4
+TEAMSHIFT_2=0
+TEAMFLAGS_2=30
+TEAMMON_2=1
+TEAMPAGES_2=0
+TEAMMSGR_2=9
+TEAMMSGW_2=9
+TEAMMSG_2_0=B(1): Time Limit, TestN=1
+TEAMMSG_2_1=B(2): Time Limit, TestN=1
+TEAMMSG_2_2=RES=TL TEST=1
+TEAMMSG_2_3=RES=TL TEST=1
+TEAMMSG_2_4=B(3): Time Limit, TestN=1
+TEAMMSG_2_5=B(4): Runtime Error, TestN=1
+TEAMMSG_2_6=B(5): Runtime Error, TestN=1
+TEAMMSG_2_7=B(6): Compilation Error
+TEAMMSG_2_8=B(7): Accepted
+TEAMMSGTIMES_2_0=3651,3652,3979,3984
+TEAMMSGTIMES_2_1=3694,3695,3984,3985
+TEAMMSGTIMES_2_2=0,3921,3985,3987
+TEAMMSGTIMES_2_3=0,3927,3987,3988
+TEAMMSGTIMES_2_4=5675,5676,5676,5679
+TEAMMSGTIMES_2_5=6015,6016,6129,6131
+TEAMMSGTIMES_2_6=6089,6090,6131,6132
+TEAMMSGTIMES_2_7=7057,7058,7058,7059
+TEAMMSGTIMES_2_8=7080,7082,7082,7083
+TEAM_3=29
+TEAMPWD_3=h26c
+TEAMSTATE_3=4
+TEAMSHIFT_3=0
+TEAMFLAGS_3=30
+TEAMMON_3=1
+TEAMPAGES_3=0
+TEAMMSGR_3=3
+TEAMMSGW_3=3
+TEAMMSG_3_0=B(1): Accepted
+TEAMMSG_3_1=C(1): Accepted
+TEAMMSG_3_2=D(1): Accepted
+TEAMMSGTIMES_3_0=3586,3589,3589,3590
+TEAMMSGTIMES_3_1=6675,6676,6676,6678
+TEAMMSGTIMES_3_2=9175,9177,9177,9183
+TEAM_4=11
+TEAMPWD_4=whassup, buddy?
+TEAMSTATE_4=4
+TEAMSHIFT_4=0
+TEAMFLAGS_4=30
+TEAMMON_4=1
+TEAMPAGES_4=0
+TEAMMSGR_4=0
+TEAMMSGW_4=0
+TEAM_5=30
+TEAMPWD_5=9tnz
+TEAMSTATE_5=4
+TEAMSHIFT_5=0
+TEAMFLAGS_5=30
+TEAMMON_5=1
+TEAMPAGES_5=0
+TEAMMSGR_5=0
+TEAMMSGW_5=0
+TEAM_6=12
+TEAMPWD_6=aslo
+TEAMSTATE_6=4
+TEAMSHIFT_6=0
+TEAMFLAGS_6=30
+TEAMMON_6=1
+TEAMPAGES_6=0
+TEAMMSGR_6=5
+TEAMMSGW_6=5
+TEAMMSG_6_0=B(1): Runtime Error, TestN=1
+TEAMMSG_6_1=B(2): Accepted
+TEAMMSG_6_2=C(1): Accepted
+TEAMMSG_6_3=D(1): Accepted
+TEAMMSG_6_4=G(1): Time Limit, TestN=5
+TEAMMSGTIMES_6_0=2865,2867,2867,2874
+TEAMMSGTIMES_6_1=2901,2902,2902,2903
+TEAMMSGTIMES_6_2=4593,4595,4595,4596
+TEAMMSGTIMES_6_3=6174,6176,6176,6177
+TEAMMSGTIMES_6_4=8358,8360,8360,8361
+TEAM_7=13
+TEAMPWD_7=1232
+TEAMSTATE_7=4
+TEAMSHIFT_7=0
+TEAMFLAGS_7=32
+TEAMMON_7=1
+TEAMPAGES_7=0
+TEAMMSGR_7=8
+TEAMMSGW_7=8
+TEAMMSG_7_0=B(1): Wrong Answer, TestN=7
+TEAMMSG_7_1=B(2): Accepted
+TEAMMSG_7_2=C(1): Accepted
+TEAMMSG_7_3=D(1): Wrong Answer, TestN=2
+TEAMMSG_7_4=D(2): Wrong Answer, TestN=2
+TEAMMSG_7_5=D(3): Accepted
+TEAMMSG_7_6=F(1): Wrong Answer, TestN=4
+TEAMMSG_7_7=F(2): Accepted
+TEAMMSGTIMES_7_0=1487,1489,1489,1490
+TEAMMSGTIMES_7_1=1644,1646,1646,1647
+TEAMMSGTIMES_7_2=2164,2166,2166,2168
+TEAMMSGTIMES_7_3=3302,3303,3303,3304
+TEAMMSGTIMES_7_4=3964,3966,3966,3967
+TEAMMSGTIMES_7_5=4563,4567,4567,4568
+TEAMMSGTIMES_7_6=7866,7867,7867,7870
+TEAMMSGTIMES_7_7=9219,9220,9220,9222
+TEAM_8=23
+TEAMPWD_8=def
+TEAMSTATE_8=4
+TEAMSHIFT_8=0
+TEAMFLAGS_8=32
+TEAMMON_8=1
+TEAMPAGES_8=0
+TEAMMSGR_8=10
+TEAMMSGW_8=10
+TEAMMSG_8_0=C(1): Accepted
+TEAMMSG_8_1=D(1): Accepted
+TEAMMSG_8_2=A(1): Accepted
+TEAMMSG_8_3=E(1): Accepted
+TEAMMSG_8_4=F(1): Accepted
+TEAMMSG_8_5=H(1): Wrong Answer, TestN=7
+TEAMMSG_8_6=H(2): Accepted
+TEAMMSG_8_7=G(1): Wrong Answer, TestN=3
+TEAMMSG_8_8=G(2): Accepted
+TEAMMSG_8_9=B(1): Accepted
+TEAMMSGTIMES_8_0=809,811,811,811
+TEAMMSGTIMES_8_1=1812,1813,1813,1814
+TEAMMSGTIMES_8_2=3004,3007,3007,3008
+TEAMMSGTIMES_8_3=4564,4568,4568,4570
+TEAMMSGTIMES_8_4=5953,5955,5955,5955
+TEAMMSGTIMES_8_5=7455,7456,7456,7464
+TEAMMSGTIMES_8_6=7542,7544,7544,7545
+TEAMMSGTIMES_8_7=9022,9023,9023,9025
+TEAMMSGTIMES_8_8=10124,10126,10126,10127
+TEAMMSGTIMES_8_9=10135,10137,10137,10138
+TEAM_9=31
+TEAMPWD_9=andisconney
+TEAMSTATE_9=4
+TEAMSHIFT_9=0
+TEAMFLAGS_9=30
+TEAMMON_9=4
+TEAMPAGES_9=0
+TEAMMSGR_9=0
+TEAMMSGW_9=0
+TEAM_10=32
+TEAMPWD_10=costitution
+TEAMSTATE_10=4
+TEAMSHIFT_10=0
+TEAMFLAGS_10=30
+TEAMMON_10=4
+TEAMPAGES_10=0
+TEAMMSGR_10=0
+TEAMMSGW_10=0
+TEST#=70
+TESTSUBM_0=0
+TESTPRIO_0=3
+TESTRES_0=7
+TESTN_0=5
+TESTCOMM_0=
+TESTCOMPOUT_0=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(43) Warning: Variable 'MJ1' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(43) Warning: Variable 'MJ2' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(41) Warning: Variable 'MI1' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(41) Warning: Variable 'MI2' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(47) 
+48 lines, 0.31 seconds, 30276 bytes code, 83157 bytes data.
+
+$#@
+TESTVALID_0=1
+TESTSUBM_1=1
+TESTPRIO_1=3
+TESTRES_1=1
+TESTN_1=-1
+TESTCOMM_1=
+TESTCOMPOUT_1=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(57) Warning: Variable 'MJ1' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(57) Warning: Variable 'MJ2' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(55) Warning: Variable 'MI1' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(55) Warning: Variable 'MI2' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(61) 
+62 lines, 0.14 seconds, 30352 bytes code, 83169 bytes data.
+
+$#@
+TESTVALID_1=1
+TESTSUBM_2=2
+TESTPRIO_2=3
+TESTRES_2=1
+TESTN_2=-1
+TESTCOMM_2=
+TESTCOMPOUT_2=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(12) 
+13 lines, 0.06 seconds, 6608 bytes code, 2297 bytes data.
+
+$#@
+TESTVALID_2=1
+TESTSUBM_3=3
+TESTPRIO_3=3
+TESTRES_3=1
+TESTN_3=-1
+TESTCOMM_3=
+TESTCOMPOUT_3=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(17) 
+18 lines, 0.08 seconds, 6444 bytes code, 2245 bytes data.
+
+$#@
+TESTVALID_3=1
+TESTSUBM_4=4
+TESTPRIO_4=3
+TESTRES_4=1
+TESTN_4=-1
+TESTCOMM_4=
+TESTCOMPOUT_4=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(12) 
+13 lines, 0.09 seconds, 6500 bytes code, 2245 bytes data.
+
+$#@
+TESTVALID_4=1
+TESTSUBM_5=5
+TESTPRIO_5=3
+TESTRES_5=3
+TESTN_5=7
+TESTCOMM_5=@#$
+* Неверный ответ * Jury: "117669030460994" User: "-188547518"
+
+$#@
+TESTCOMPOUT_5=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(19) 
+20 lines, 0.08 seconds, 6144 bytes code, 1925 bytes data.
+
+$#@
+TESTVALID_5=1
+TESTSUBM_6=6
+TESTPRIO_6=3
+TESTRES_6=1
+TESTN_6=-1
+TESTCOMM_6=
+TESTCOMPOUT_6=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(19) 
+20 lines, 0.08 seconds, 6560 bytes code, 1949 bytes data.
+
+$#@
+TESTVALID_6=1
+TESTSUBM_7=7
+TESTPRIO_7=3
+TESTRES_7=1
+TESTN_7=-1
+TESTCOMM_7=
+TESTCOMPOUT_7=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(11) Warning: FOR-Loop variable 'j' may be undefined after loop
+D:\system\testsys\TestArea\a.DPR(18) Warning: Variable 'j' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(25) 
+26 lines, 0.08 seconds, 7428 bytes code, 42737 bytes data.
+
+$#@
+TESTVALID_7=1
+TESTSUBM_8=8
+TESTPRIO_8=3
+TESTRES_8=1
+TESTN_8=-1
+TESTCOMM_8=
+TESTCOMPOUT_8=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(29) 
+30 lines, 0.08 seconds, 6540 bytes code, 24413 bytes data.
+
+$#@
+TESTVALID_8=1
+TESTSUBM_9=9
+TESTPRIO_9=3
+TESTRES_9=1
+TESTN_9=-1
+TESTCOMM_9=
+TESTCOMPOUT_9=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(18) 
+19 lines, 0.09 seconds, 6764 bytes code, 1989 bytes data.
+
+$#@
+TESTVALID_9=1
+TESTSUBM_10=10
+TESTPRIO_10=3
+TESTRES_10=1
+TESTN_10=-1
+TESTCOMM_10=
+TESTCOMPOUT_10=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(18) 
+19 lines, 0.06 seconds, 6744 bytes code, 1973 bytes data.
+
+$#@
+TESTVALID_10=1
+TESTSUBM_11=11
+TESTPRIO_11=3
+TESTRES_11=1
+TESTN_11=-1
+TESTCOMM_11=
+TESTCOMPOUT_11=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(6) Hint: Variable 'j' is declared but never used in 'RailRoad'
+D:\system\testsys\TestArea\a.DPR(40) 
+41 lines, 0.09 seconds, 7016 bytes code, 34705 bytes data.
+
+$#@
+TESTVALID_11=1
+TESTSUBM_12=12
+TESTPRIO_12=3
+TESTRES_12=1
+TESTN_12=-1
+TESTCOMM_12=
+TESTCOMPOUT_12=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(29) 
+30 lines, 0.08 seconds, 6240 bytes code, 11929 bytes data.
+
+$#@
+TESTVALID_12=1
+TESTSUBM_13=13
+TESTPRIO_13=3
+TESTRES_13=1
+TESTN_13=-1
+TESTCOMM_13=
+TESTCOMPOUT_13=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(15) 
+16 lines, 0.08 seconds, 6444 bytes code, 2245 bytes data.
+
+$#@
+TESTVALID_13=1
+TESTSUBM_14=14
+TESTPRIO_14=3
+TESTRES_14=8
+TESTN_14=1
+TESTCOMM_14=
+TESTCOMPOUT_14=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_14=1
+TESTSUBM_15=15
+TESTPRIO_15=3
+TESTRES_15=1
+TESTN_15=-1
+TESTCOMM_15=
+TESTCOMPOUT_15=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_15=1
+TESTSUBM_16=16
+TESTPRIO_16=3
+TESTRES_16=1
+TESTN_16=-1
+TESTCOMM_16=
+TESTCOMPOUT_16=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(18) 
+19 lines, 0.14 seconds, 6396 bytes code, 1949 bytes data.
+
+$#@
+TESTVALID_16=1
+TESTSUBM_17=17
+TESTPRIO_17=3
+TESTRES_17=1
+TESTN_17=-1
+TESTCOMM_17=
+TESTCOMPOUT_17=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(59) 
+60 lines, 0.08 seconds, 6656 bytes code, 82757 bytes data.
+
+$#@
+TESTVALID_17=1
+TESTSUBM_18=18
+TESTPRIO_18=3
+TESTRES_18=3
+TESTN_18=2
+TESTCOMM_18=@#$
+* Неверный ответ * Jury: "71" User: "65"
+
+$#@
+TESTCOMPOUT_18=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(33) 
+34 lines, 0.08 seconds, 7544 bytes code, 43545 bytes data.
+
+$#@
+TESTVALID_18=1
+TESTSUBM_19=19
+TESTPRIO_19=3
+TESTRES_19=1
+TESTN_19=-1
+TESTCOMM_19=
+TESTCOMPOUT_19=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_19=1
+TESTSUBM_20=20
+TESTPRIO_20=3
+TESTRES_20=7
+TESTN_20=1
+TESTCOMM_20=
+TESTCOMPOUT_20=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_20=1
+TESTSUBM_21=21
+TESTPRIO_21=3
+TESTRES_21=7
+TESTN_21=1
+TESTCOMM_21=
+TESTCOMPOUT_21=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_21=1
+TESTSUBM_22=20
+TESTPRIO_22=5
+TESTRES_22=7
+TESTN_22=1
+TESTCOMM_22=
+TESTCOMPOUT_22=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_22=1
+TESTSUBM_23=21
+TESTPRIO_23=5
+TESTRES_23=7
+TESTN_23=1
+TESTCOMM_23=
+TESTCOMPOUT_23=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_23=1
+TESTSUBM_24=22
+TESTPRIO_24=3
+TESTRES_24=3
+TESTN_24=2
+TESTCOMM_24=@#$
+* Неверный ответ * Jury: "71" User: "65"
+
+$#@
+TESTCOMPOUT_24=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(32) 
+33 lines, 0.12 seconds, 7592 bytes code, 43545 bytes data.
+
+$#@
+TESTVALID_24=1
+TESTSUBM_25=1
+TESTPRIO_25=5
+TESTRES_25=1
+TESTN_25=-1
+TESTCOMM_25=
+TESTCOMPOUT_25=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(57) Warning: Variable 'MJ1' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(57) Warning: Variable 'MJ2' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(55) Warning: Variable 'MI1' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(55) Warning: Variable 'MI2' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(61) 
+62 lines, 0.17 seconds, 30352 bytes code, 83169 bytes data.
+
+$#@
+TESTVALID_25=1
+TESTSUBM_26=2
+TESTPRIO_26=5
+TESTRES_26=1
+TESTN_26=-1
+TESTCOMM_26=
+TESTCOMPOUT_26=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(12) 
+13 lines, 0.08 seconds, 6608 bytes code, 2297 bytes data.
+
+$#@
+TESTVALID_26=1
+TESTSUBM_27=3
+TESTPRIO_27=5
+TESTRES_27=1
+TESTN_27=-1
+TESTCOMM_27=
+TESTCOMPOUT_27=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(17) 
+18 lines, 0.08 seconds, 6444 bytes code, 2245 bytes data.
+
+$#@
+TESTVALID_27=1
+TESTSUBM_28=4
+TESTPRIO_28=5
+TESTRES_28=1
+TESTN_28=-1
+TESTCOMM_28=
+TESTCOMPOUT_28=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(12) 
+13 lines, 0.08 seconds, 6500 bytes code, 2245 bytes data.
+
+$#@
+TESTVALID_28=1
+TESTSUBM_29=5
+TESTPRIO_29=5
+TESTRES_29=3
+TESTN_29=7
+TESTCOMM_29=@#$
+* Неверный ответ * Jury: "117669030460994" User: "-188547518"
+
+$#@
+TESTCOMPOUT_29=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(19) 
+20 lines, 0.16 seconds, 6144 bytes code, 1925 bytes data.
+
+$#@
+TESTVALID_29=1
+TESTSUBM_30=6
+TESTPRIO_30=5
+TESTRES_30=1
+TESTN_30=-1
+TESTCOMM_30=
+TESTCOMPOUT_30=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(19) 
+20 lines, 0.08 seconds, 6560 bytes code, 1949 bytes data.
+
+$#@
+TESTVALID_30=1
+TESTSUBM_31=7
+TESTPRIO_31=5
+TESTRES_31=1
+TESTN_31=-1
+TESTCOMM_31=
+TESTCOMPOUT_31=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(11) Warning: FOR-Loop variable 'j' may be undefined after loop
+D:\system\testsys\TestArea\a.DPR(18) Warning: Variable 'j' might not have been initialized
+D:\system\testsys\TestArea\a.DPR(25) 
+26 lines, 0.06 seconds, 7428 bytes code, 42737 bytes data.
+
+$#@
+TESTVALID_31=1
+TESTSUBM_32=8
+TESTPRIO_32=5
+TESTRES_32=1
+TESTN_32=-1
+TESTCOMM_32=
+TESTCOMPOUT_32=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(29) 
+30 lines, 0.06 seconds, 6540 bytes code, 24413 bytes data.
+
+$#@
+TESTVALID_32=1
+TESTSUBM_33=9
+TESTPRIO_33=5
+TESTRES_33=1
+TESTN_33=-1
+TESTCOMM_33=
+TESTCOMPOUT_33=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(18) 
+19 lines, 0.08 seconds, 6764 bytes code, 1989 bytes data.
+
+$#@
+TESTVALID_33=1
+TESTSUBM_34=10
+TESTPRIO_34=5
+TESTRES_34=1
+TESTN_34=-1
+TESTCOMM_34=
+TESTCOMPOUT_34=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(18) 
+19 lines, 0.06 seconds, 6744 bytes code, 1973 bytes data.
+
+$#@
+TESTVALID_34=1
+TESTSUBM_35=11
+TESTPRIO_35=5
+TESTRES_35=1
+TESTN_35=-1
+TESTCOMM_35=
+TESTCOMPOUT_35=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(6) Hint: Variable 'j' is declared but never used in 'RailRoad'
+D:\system\testsys\TestArea\a.DPR(40) 
+41 lines, 0.08 seconds, 7016 bytes code, 34705 bytes data.
+
+$#@
+TESTVALID_35=1
+TESTSUBM_36=12
+TESTPRIO_36=5
+TESTRES_36=1
+TESTN_36=-1
+TESTCOMM_36=
+TESTCOMPOUT_36=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(29) 
+30 lines, 0.08 seconds, 6240 bytes code, 11929 bytes data.
+
+$#@
+TESTVALID_36=1
+TESTSUBM_37=13
+TESTPRIO_37=5
+TESTRES_37=1
+TESTN_37=-1
+TESTCOMM_37=
+TESTCOMPOUT_37=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(15) 
+16 lines, 0.11 seconds, 6444 bytes code, 2245 bytes data.
+
+$#@
+TESTVALID_37=1
+TESTSUBM_38=14
+TESTPRIO_38=5
+TESTRES_38=8
+TESTN_38=1
+TESTCOMM_38=
+TESTCOMPOUT_38=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_38=1
+TESTSUBM_39=15
+TESTPRIO_39=5
+TESTRES_39=1
+TESTN_39=-1
+TESTCOMM_39=
+TESTCOMPOUT_39=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_39=1
+TESTSUBM_40=16
+TESTPRIO_40=5
+TESTRES_40=1
+TESTN_40=-1
+TESTCOMM_40=
+TESTCOMPOUT_40=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(18) 
+19 lines, 0.06 seconds, 6396 bytes code, 1949 bytes data.
+
+$#@
+TESTVALID_40=1
+TESTSUBM_41=17
+TESTPRIO_41=5
+TESTRES_41=1
+TESTN_41=-1
+TESTCOMM_41=
+TESTCOMPOUT_41=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(59) 
+60 lines, 0.06 seconds, 6656 bytes code, 82757 bytes data.
+
+$#@
+TESTVALID_41=1
+TESTSUBM_42=18
+TESTPRIO_42=5
+TESTRES_42=3
+TESTN_42=2
+TESTCOMM_42=@#$
+* Неверный ответ * Jury: "71" User: "65"
+
+$#@
+TESTCOMPOUT_42=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(33) 
+34 lines, 0.08 seconds, 7544 bytes code, 43545 bytes data.
+
+$#@
+TESTVALID_42=1
+TESTSUBM_43=19
+TESTPRIO_43=5
+TESTRES_43=1
+TESTN_43=-1
+TESTCOMM_43=
+TESTCOMPOUT_43=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_43=1
+TESTSUBM_44=20
+TESTPRIO_44=5
+TESTRES_44=7
+TESTN_44=1
+TESTCOMM_44=
+TESTCOMPOUT_44=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_44=1
+TESTSUBM_45=21
+TESTPRIO_45=5
+TESTRES_45=7
+TESTN_45=1
+TESTCOMM_45=
+TESTCOMPOUT_45=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_45=1
+TESTSUBM_46=23
+TESTPRIO_46=3
+TESTRES_46=1
+TESTN_46=-1
+TESTCOMM_46=
+TESTCOMPOUT_46=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(32) 
+33 lines, 0.08 seconds, 7592 bytes code, 43545 bytes data.
+
+$#@
+TESTVALID_46=1
+TESTSUBM_47=24
+TESTPRIO_47=3
+TESTRES_47=1
+TESTN_47=-1
+TESTCOMM_47=
+TESTCOMPOUT_47=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(37) 
+38 lines, 0.09 seconds, 6436 bytes code, 90129 bytes data.
+
+$#@
+TESTVALID_47=1
+TESTSUBM_48=25
+TESTPRIO_48=3
+TESTRES_48=1
+TESTN_48=-1
+TESTCOMM_48=
+TESTCOMPOUT_48=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_48=1
+TESTSUBM_49=26
+TESTPRIO_49=3
+TESTRES_49=3
+TESTN_49=2
+TESTCOMM_49=@#$
+* Неверный ответ * Jury: "1" User: "0"
+
+$#@
+TESTCOMPOUT_49=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(27) 
+28 lines, 0.09 seconds, 6752 bytes code, 637993 bytes data.
+
+$#@
+TESTVALID_49=1
+TESTSUBM_50=27
+TESTPRIO_50=3
+TESTRES_50=7
+TESTN_50=1
+TESTCOMM_50=
+TESTCOMPOUT_50=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_50=1
+TESTSUBM_51=28
+TESTPRIO_51=3
+TESTRES_51=1
+TESTN_51=-1
+TESTCOMM_51=
+TESTCOMPOUT_51=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(19) 
+20 lines, 0.16 seconds, 6108 bytes code, 2045 bytes data.
+
+$#@
+TESTVALID_51=1
+TESTSUBM_52=29
+TESTPRIO_52=3
+TESTRES_52=8
+TESTN_52=1
+TESTCOMM_52=
+TESTCOMPOUT_52=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_52=1
+TESTSUBM_53=30
+TESTPRIO_53=3
+TESTRES_53=8
+TESTN_53=1
+TESTCOMM_53=
+TESTCOMPOUT_53=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_53=1
+TESTSUBM_54=31
+TESTPRIO_54=3
+TESTRES_54=1
+TESTN_54=-1
+TESTCOMM_54=
+TESTCOMPOUT_54=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_54=1
+TESTSUBM_55=32
+TESTPRIO_55=3
+TESTRES_55=1
+TESTN_55=-1
+TESTCOMM_55=
+TESTCOMPOUT_55=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(27) 
+28 lines, 0.09 seconds, 6692 bytes code, 637993 bytes data.
+
+$#@
+TESTVALID_55=1
+TESTSUBM_56=33
+TESTPRIO_56=3
+TESTRES_56=1
+TESTN_56=-1
+TESTCOMM_56=
+TESTCOMPOUT_56=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_56=1
+TESTSUBM_57=34
+TESTPRIO_57=3
+TESTRES_57=2
+TESTN_57=-1
+TESTCOMM_57=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+a.CPP(4) : fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+
+$#@
+TESTCOMPOUT_57=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+a.CPP(4) : fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+
+$#@
+TESTVALID_57=1
+TESTSUBM_58=35
+TESTPRIO_58=3
+TESTRES_58=1
+TESTN_58=-1
+TESTCOMM_58=
+TESTCOMPOUT_58=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_58=1
+TESTSUBM_59=36
+TESTPRIO_59=3
+TESTRES_59=1
+TESTN_59=-1
+TESTCOMM_59=
+TESTCOMPOUT_59=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(5) Hint: Variable 'Old' is declared but never used in 'PROGRAM'
+D:\system\testsys\TestArea\a.DPR(27) 
+28 lines, 0.30 seconds, 29848 bytes code, 164741 bytes data.
+
+$#@
+TESTVALID_59=1
+TESTSUBM_60=37
+TESTPRIO_60=3
+TESTRES_60=3
+TESTN_60=7
+TESTCOMM_60=@#$
+* Неверный ответ * Jury: "272803210680" User: "-2074696264"
+
+$#@
+TESTCOMPOUT_60=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(29) 
+30 lines, 0.08 seconds, 6320 bytes code, 4101 bytes data.
+
+$#@
+TESTVALID_60=1
+TESTSUBM_61=38
+TESTPRIO_61=3
+TESTRES_61=1
+TESTN_61=-1
+TESTCOMM_61=
+TESTCOMPOUT_61=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(29) 
+30 lines, 0.11 seconds, 6688 bytes code, 4101 bytes data.
+
+$#@
+TESTVALID_61=1
+TESTSUBM_62=39
+TESTPRIO_62=3
+TESTRES_62=3
+TESTN_62=4
+TESTCOMM_62=@#$
+* Неверный ответ * Jury: "1121" User: "1280"
+
+$#@
+TESTCOMPOUT_62=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(26) 
+27 lines, 0.08 seconds, 6552 bytes code, 1933 bytes data.
+
+$#@
+TESTVALID_62=1
+TESTSUBM_63=40
+TESTPRIO_63=3
+TESTRES_63=7
+TESTN_63=5
+TESTCOMM_63=
+TESTCOMPOUT_63=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_63=1
+TESTSUBM_64=41
+TESTPRIO_64=3
+TESTRES_64=3
+TESTN_64=3
+TESTCOMM_64=@#$
+* Неверный ответ * Jury: "2240" User: "2300"
+
+$#@
+TESTCOMPOUT_64=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(25) 
+26 lines, 0.22 seconds, 7356 bytes code, 1973 bytes data.
+
+$#@
+TESTVALID_64=1
+TESTSUBM_65=42
+TESTPRIO_65=3
+TESTRES_65=1
+TESTN_65=-1
+TESTCOMM_65=
+TESTCOMPOUT_65=@#$
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 12.00.8168 for 80x86
+Copyright (C) Microsoft Corp 1984-1998. All rights reserved.
+
+a.CPP
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+/out:a.exe 
+a.obj 
+
+$#@
+TESTVALID_65=1
+TESTSUBM_66=43
+TESTPRIO_66=3
+TESTRES_66=1
+TESTN_66=-1
+TESTCOMM_66=
+TESTCOMPOUT_66=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(4) Hint: Variable 'a' is declared but never used in 'PROGRAM'
+D:\system\testsys\TestArea\a.DPR(31) 
+32 lines, 0.08 seconds, 6652 bytes code, 2177 bytes data.
+
+$#@
+TESTVALID_66=1
+TESTSUBM_67=44
+TESTPRIO_67=3
+TESTRES_67=1
+TESTN_67=-1
+TESTCOMM_67=
+TESTCOMPOUT_67=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(20) 
+21 lines, 0.09 seconds, 6504 bytes code, 2329 bytes data.
+
+$#@
+TESTVALID_67=1
+TESTSUBM_68=45
+TESTPRIO_68=3
+TESTRES_68=1
+TESTN_68=-1
+TESTCOMM_68=
+TESTCOMPOUT_68=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(22) 
+23 lines, 0.08 seconds, 7244 bytes code, 1957 bytes data.
+
+$#@
+TESTVALID_68=1
+TESTSUBM_69=46
+TESTPRIO_69=3
+TESTRES_69=1
+TESTN_69=-1
+TESTCOMM_69=
+TESTCOMPOUT_69=@#$
+Borland Delphi Version 14.0
+Copyright (c) 1983,2001 Borland Software Corporation
+D:\system\testsys\TestArea\a.DPR(15) 
+16 lines, 0.06 seconds, 7360 bytes code, 2669 bytes data.
+
+$#@
+TESTVALID_69=1
+SUBMIT#=47
+SUBMITTEAM_0=0
+SUBMITPROBLEM_0=0
+SUBMITPATH_0=d:\system\testsys\040921\submits\18_44_15_00_A_1995.DPR
+SUBMITPENALTY_0=142
+SUBMITFLAGS_0=13
+SUBMITNOTIFY_0=0
+SUBMITTEAM_1=0
+SUBMITPROBLEM_1=0
+SUBMITPATH_1=d:\system\testsys\040921\submits\18_46_56_00_A_3796.DPR
+SUBMITPENALTY_1=303
+SUBMITFLAGS_1=13
+SUBMITNOTIFY_1=3
+SUBMITTEAM_2=0
+SUBMITPROBLEM_2=1
+SUBMITPATH_2=d:\system\testsys\040921\submits\18_55_02_00_B_1780.DPR
+SUBMITPENALTY_2=789
+SUBMITFLAGS_2=13
+SUBMITNOTIFY_2=3
+SUBMITTEAM_3=8
+SUBMITPROBLEM_3=2
+SUBMITPATH_3=d:\system\testsys\040921\submits\18_55_22_23_C_7440.DPR
+SUBMITPENALTY_3=809
+SUBMITFLAGS_3=13
+SUBMITNOTIFY_3=3
+SUBMITTEAM_4=0
+SUBMITPROBLEM_4=2
+SUBMITPATH_4=d:\system\testsys\040921\submits\18_55_49_00_C_7239.DPR
+SUBMITPENALTY_4=836
+SUBMITFLAGS_4=13
+SUBMITNOTIFY_4=3
+SUBMITTEAM_5=7
+SUBMITPROBLEM_5=1
+SUBMITPATH_5=d:\system\testsys\040921\submits\19_06_40_13_B_6829.DPR
+SUBMITPENALTY_5=1487
+SUBMITFLAGS_5=13
+SUBMITNOTIFY_5=3
+SUBMITTEAM_6=7
+SUBMITPROBLEM_6=1
+SUBMITPATH_6=d:\system\testsys\040921\submits\19_09_17_13_B_5516.DPR
+SUBMITPENALTY_6=1644
+SUBMITFLAGS_6=13
+SUBMITNOTIFY_6=3
+SUBMITTEAM_7=0
+SUBMITPROBLEM_7=3
+SUBMITPATH_7=d:\system\testsys\040921\submits\19_10_08_00_D_2561.DPR
+SUBMITPENALTY_7=1695
+SUBMITFLAGS_7=13
+SUBMITNOTIFY_7=3
+SUBMITTEAM_8=0
+SUBMITPROBLEM_8=4
+SUBMITPATH_8=d:\system\testsys\040921\submits\19_10_21_00_E_5219.DPR
+SUBMITPENALTY_8=1708
+SUBMITFLAGS_8=13
+SUBMITNOTIFY_8=3
+SUBMITTEAM_9=0
+SUBMITPROBLEM_9=5
+SUBMITPATH_9=d:\system\testsys\040921\submits\19_10_36_00_F_8857.DPR
+SUBMITPENALTY_9=1723
+SUBMITFLAGS_9=13
+SUBMITNOTIFY_9=3
+SUBMITTEAM_10=0
+SUBMITPROBLEM_10=6
+SUBMITPATH_10=d:\system\testsys\040921\submits\19_10_51_00_G_1366.DPR
+SUBMITPENALTY_10=1738
+SUBMITFLAGS_10=13
+SUBMITNOTIFY_10=3
+SUBMITTEAM_11=0
+SUBMITPROBLEM_11=7
+SUBMITPATH_11=d:\system\testsys\040921\submits\19_11_05_00_H_2462.DPR
+SUBMITPENALTY_11=1752
+SUBMITFLAGS_11=13
+SUBMITNOTIFY_11=3
+SUBMITTEAM_12=8
+SUBMITPROBLEM_12=3
+SUBMITPATH_12=d:\system\testsys\040921\submits\19_12_05_23_D_4880.DPR
+SUBMITPENALTY_12=1812
+SUBMITFLAGS_12=13
+SUBMITNOTIFY_12=3
+SUBMITTEAM_13=7
+SUBMITPROBLEM_13=2
+SUBMITPATH_13=d:\system\testsys\040921\submits\19_17_57_13_C_3600.DPR
+SUBMITPENALTY_13=2164
+SUBMITFLAGS_13=13
+SUBMITNOTIFY_13=3
+SUBMITTEAM_14=6
+SUBMITPROBLEM_14=1
+SUBMITPATH_14=d:\system\testsys\040921\submits\19_29_38_12_B_7221.CPP
+SUBMITPENALTY_14=2865
+SUBMITFLAGS_14=13
+SUBMITNOTIFY_14=3
+SUBMITTEAM_15=6
+SUBMITPROBLEM_15=1
+SUBMITPATH_15=d:\system\testsys\040921\submits\19_30_14_12_B_6728.CPP
+SUBMITPENALTY_15=2901
+SUBMITFLAGS_15=13
+SUBMITNOTIFY_15=3
+SUBMITTEAM_16=1
+SUBMITPROBLEM_16=1
+SUBMITPATH_16=d:\system\testsys\040921\submits\19_31_52_08_B_2218.DPR
+SUBMITPENALTY_16=2999
+SUBMITFLAGS_16=13
+SUBMITNOTIFY_16=3
+SUBMITTEAM_17=8
+SUBMITPROBLEM_17=0
+SUBMITPATH_17=d:\system\testsys\040921\submits\19_31_57_23_A_1195.DPR
+SUBMITPENALTY_17=3004
+SUBMITFLAGS_17=13
+SUBMITNOTIFY_17=3
+SUBMITTEAM_18=7
+SUBMITPROBLEM_18=3
+SUBMITPATH_18=d:\system\testsys\040921\submits\19_36_55_13_D_9162.DPR
+SUBMITPENALTY_18=3302
+SUBMITFLAGS_18=13
+SUBMITNOTIFY_18=3
+SUBMITTEAM_19=3
+SUBMITPROBLEM_19=1
+SUBMITPATH_19=d:\system\testsys\040921\submits\19_41_39_29_B_9200.CPP
+SUBMITPENALTY_19=3586
+SUBMITFLAGS_19=13
+SUBMITNOTIFY_19=3
+SUBMITTEAM_20=2
+SUBMITPROBLEM_20=1
+SUBMITPATH_20=d:\system\testsys\040921\submits\19_42_44_10_B_5899.CPP
+SUBMITPENALTY_20=3651
+SUBMITFLAGS_20=13
+SUBMITNOTIFY_20=3
+SUBMITTEAM_21=2
+SUBMITPROBLEM_21=1
+SUBMITPATH_21=d:\system\testsys\040921\submits\19_43_27_10_B_4063.CPP
+SUBMITPENALTY_21=3694
+SUBMITFLAGS_21=13
+SUBMITNOTIFY_21=3
+SUBMITTEAM_22=7
+SUBMITPROBLEM_22=3
+SUBMITPATH_22=d:\system\testsys\040921\submits\19_47_57_13_D_9979.DPR
+SUBMITPENALTY_22=3964
+SUBMITFLAGS_22=13
+SUBMITNOTIFY_22=0
+SUBMITTEAM_23=7
+SUBMITPROBLEM_23=3
+SUBMITPATH_23=d:\system\testsys\040921\submits\19_57_56_13_D_7471.DPR
+SUBMITPENALTY_23=4563
+SUBMITFLAGS_23=13
+SUBMITNOTIFY_23=0
+SUBMITTEAM_24=8
+SUBMITPROBLEM_24=4
+SUBMITPATH_24=d:\system\testsys\040921\submits\19_57_57_23_E_1775.DPR
+SUBMITPENALTY_24=4564
+SUBMITFLAGS_24=13
+SUBMITNOTIFY_24=0
+SUBMITTEAM_25=6
+SUBMITPROBLEM_25=2
+SUBMITPATH_25=d:\system\testsys\040921\submits\19_58_26_12_C_9094.CPP
+SUBMITPENALTY_25=4593
+SUBMITFLAGS_25=13
+SUBMITNOTIFY_25=0
+SUBMITTEAM_26=1
+SUBMITPROBLEM_26=4
+SUBMITPATH_26=d:\system\testsys\040921\submits\20_00_06_08_E_5180.DPR
+SUBMITPENALTY_26=4693
+SUBMITFLAGS_26=13
+SUBMITNOTIFY_26=0
+SUBMITTEAM_27=2
+SUBMITPROBLEM_27=1
+SUBMITPATH_27=d:\system\testsys\040921\submits\20_16_28_10_B_1353.CPP
+SUBMITPENALTY_27=5675
+SUBMITFLAGS_27=13
+SUBMITNOTIFY_27=0
+SUBMITTEAM_28=8
+SUBMITPROBLEM_28=5
+SUBMITPATH_28=d:\system\testsys\040921\submits\20_21_06_23_F_0821.DPR
+SUBMITPENALTY_28=5953
+SUBMITFLAGS_28=13
+SUBMITNOTIFY_28=0
+SUBMITTEAM_29=2
+SUBMITPROBLEM_29=1
+SUBMITPATH_29=d:\system\testsys\040921\submits\20_22_08_10_B_5362.CPP
+SUBMITPENALTY_29=6015
+SUBMITFLAGS_29=13
+SUBMITNOTIFY_29=0
+SUBMITTEAM_30=2
+SUBMITPROBLEM_30=1
+SUBMITPATH_30=d:\system\testsys\040921\submits\20_23_22_10_B_3351.CPP
+SUBMITPENALTY_30=6089
+SUBMITFLAGS_30=13
+SUBMITNOTIFY_30=0
+SUBMITTEAM_31=6
+SUBMITPROBLEM_31=3
+SUBMITPATH_31=d:\system\testsys\040921\submits\20_24_47_12_D_6288.CPP
+SUBMITPENALTY_31=6174
+SUBMITFLAGS_31=13
+SUBMITNOTIFY_31=0
+SUBMITTEAM_32=1
+SUBMITPROBLEM_32=4
+SUBMITPATH_32=d:\system\testsys\040921\submits\20_31_02_08_E_6582.DPR
+SUBMITPENALTY_32=6549
+SUBMITFLAGS_32=13
+SUBMITNOTIFY_32=0
+SUBMITTEAM_33=3
+SUBMITPROBLEM_33=2
+SUBMITPATH_33=d:\system\testsys\040921\submits\20_33_08_29_C_3196.CPP
+SUBMITPENALTY_33=6675
+SUBMITFLAGS_33=13
+SUBMITNOTIFY_33=0
+SUBMITTEAM_34=2
+SUBMITPROBLEM_34=1
+SUBMITPATH_34=d:\system\testsys\040921\submits\20_39_30_10_B_0847.CPP
+SUBMITPENALTY_34=7057
+SUBMITFLAGS_34=13
+SUBMITNOTIFY_34=0
+SUBMITTEAM_35=2
+SUBMITPROBLEM_35=1
+SUBMITPATH_35=d:\system\testsys\040921\submits\20_39_53_10_B_5685.CPP
+SUBMITPENALTY_35=7080
+SUBMITFLAGS_35=13
+SUBMITNOTIFY_35=0
+SUBMITTEAM_36=1
+SUBMITPROBLEM_36=3
+SUBMITPATH_36=d:\system\testsys\040921\submits\20_39_58_08_D_0252.DPR
+SUBMITPENALTY_36=7085
+SUBMITFLAGS_36=13
+SUBMITNOTIFY_36=0
+SUBMITTEAM_37=8
+SUBMITPROBLEM_37=7
+SUBMITPATH_37=d:\system\testsys\040921\submits\20_46_08_23_H_1335.DPR
+SUBMITPENALTY_37=7455
+SUBMITFLAGS_37=13
+SUBMITNOTIFY_37=0
+SUBMITTEAM_38=8
+SUBMITPROBLEM_38=7
+SUBMITPATH_38=d:\system\testsys\040921\submits\20_47_35_23_H_5856.DPR
+SUBMITPENALTY_38=7542
+SUBMITFLAGS_38=13
+SUBMITNOTIFY_38=0
+SUBMITTEAM_39=7
+SUBMITPROBLEM_39=5
+SUBMITPATH_39=d:\system\testsys\040921\submits\20_52_59_13_F_8217.DPR
+SUBMITPENALTY_39=7866
+SUBMITFLAGS_39=13
+SUBMITNOTIFY_39=0
+SUBMITTEAM_40=6
+SUBMITPROBLEM_40=6
+SUBMITPATH_40=d:\system\testsys\040921\submits\21_01_11_12_G_4040.CPP
+SUBMITPENALTY_40=8358
+SUBMITFLAGS_40=13
+SUBMITNOTIFY_40=0
+SUBMITTEAM_41=8
+SUBMITPROBLEM_41=6
+SUBMITPATH_41=d:\system\testsys\040921\submits\21_12_15_23_G_8051.DPR
+SUBMITPENALTY_41=9022
+SUBMITFLAGS_41=13
+SUBMITNOTIFY_41=0
+SUBMITTEAM_42=3
+SUBMITPROBLEM_42=3
+SUBMITPATH_42=d:\system\testsys\040921\submits\21_14_48_29_D_7779.CPP
+SUBMITPENALTY_42=9175
+SUBMITFLAGS_42=13
+SUBMITNOTIFY_42=0
+SUBMITTEAM_43=7
+SUBMITPROBLEM_43=5
+SUBMITPATH_43=d:\system\testsys\040921\submits\21_15_32_13_F_4965.DPR
+SUBMITPENALTY_43=9219
+SUBMITFLAGS_43=13
+SUBMITNOTIFY_43=0
+SUBMITTEAM_44=1
+SUBMITPROBLEM_44=2
+SUBMITPATH_44=d:\system\testsys\040921\submits\21_21_49_08_C_3040.DPR
+SUBMITPENALTY_44=9596
+SUBMITFLAGS_44=13
+SUBMITNOTIFY_44=0
+SUBMITTEAM_45=8
+SUBMITPROBLEM_45=6
+SUBMITPATH_45=d:\system\testsys\040921\submits\21_30_37_23_G_9871.DPR
+SUBMITPENALTY_45=10124
+SUBMITFLAGS_45=13
+SUBMITNOTIFY_45=0
+SUBMITTEAM_46=8
+SUBMITPROBLEM_46=1
+SUBMITPATH_46=d:\system\testsys\040921\submits\21_30_48_23_B_1345.DPR
+SUBMITPENALTY_46=10135
+SUBMITFLAGS_46=13
+SUBMITNOTIFY_46=0
+END=

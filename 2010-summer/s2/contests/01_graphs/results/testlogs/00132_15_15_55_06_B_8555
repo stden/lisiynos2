@@ -1,0 +1,21 @@
+TESTING=132
+CREATED=12.07.2010 17:40:33
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+a.DPR(9) Hint: Value assigned to 'n' never used
+a.DPR(13) Warning: Variable 'j' might not have been initialized
+a.DPR(27) 
+28 lines, 0.06 seconds, 11144 bytes code, 41809 bytes data.
+
+$#@
+TESTID=1
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+Required: YES, got: NO
+
+$#@
+COMPLETE=12.07.2010 17:40:52
+TOTAL=0

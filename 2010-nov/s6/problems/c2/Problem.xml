@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!-- Problem exchange format 0.1 -->
+<Problem
+   Gid=""
+   Name="18-1. КМП"
+   Description="Description.txt"
+   TimeLimit="1"
+   MemoryLimit=""
+   InputFile="input.txt"
+   OutputFile="output.txt"
+   CheckerExe="Checker.exe"
+   CheckerSrc="Checker.pas"
+   BonusPoints="0"
+   TestCount="8">
+<Test Input="01.tst" Answer="01.ans" Points="1"/>
+<Test Input="02.tst" Answer="02.ans" Points="1"/>
+<Test Input="03.tst" Answer="03.ans" Points="1"/>
+<Test Input="04.tst" Answer="04.ans" Points="1"/>
+<Test Input="05.tst" Answer="05.ans" Points="1"/>
+<Test Input="06.tst" Answer="06.ans" Points="1"/>
+<Test Input="07.tst" Answer="07.ans" Points="1"/>
+<Test Input="08.tst" Answer="08.ans" Points="1"/>
+</Problem>

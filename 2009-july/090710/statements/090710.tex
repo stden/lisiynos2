@@ -1,0 +1,35 @@
+\documentclass[12pt,a4paper,landscape,oneside,twocolumn]{article}
+%\documentclass[12pt,a4paper,oneside,twocolumn]{article}
+
+\usepackage[T2A]{fontenc}
+\usepackage[cp1251]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[russian,landscape]{olymp}
+%\usepackage[russian]{olymp}
+\usepackage{graphicx}
+
+\begin{document}
+
+\renewcommand{\t}{\texttt}
+\newcommand{\eps}{\varepsilon}
+%\renewcommand{\phi}{\varphi}
+
+\contest
+{Алгоритмы на графах, лабиринты}
+{Лисий Нос}
+{пятница, 10 июля 2009}
+
+\binoppenalty=10000
+\relpenalty=10000
+
+\input problems/incident   
+\input problems/distance   
+\input problems/connect    
+\input problems/wave      
+\input problems/step      
+\input problems/numcycle  
+\input problems/maxdist 
+
+\end{document}

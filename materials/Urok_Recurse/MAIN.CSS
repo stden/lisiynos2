@@ -1,0 +1,15 @@
+BODY {margin: 8px 32px 0px 30px; padding-bottom:0px;xborder-bottom:2px solid #E9E9E9;}
+span.ind01 {font-size:16pt;font-family:Verdana;font-weight:bold}
+span.ind1 {font-size:8pt;font-family:Verdana;font-weight:bold}
+span.ind02 {font-size:18pt;font-family:Verdana;font-weight:bold;color:#0625A0}
+span.ind2 {font-size:10pt;font-family:Verdana; color:#0625A0}
+.m_txt {font-size:12pt;font-family:Times New Roman}
+
+.ex {font-style:italic}
+.sol {font-style:italic}
+.res {font-style:italic}
+
+LI{margin-bottom:8px;}
+
+A {color:#0080CC;}
+A:hover {color:#0000FF;}

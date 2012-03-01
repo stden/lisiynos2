@@ -1,0 +1,2402 @@
+
+07.02.2011 00:39:10 RUN 0.9alpha by Kitten Computing
+
+07.02.2011 00:39:10 Testing solution, in=sum.in, out=sum.out, ext=u, tl=100000000, ml=100000000
+
+07.02.2011 00:39:10 Running on test 01
+07.02.2011 00:39:11 Unable to determine memory usage properties for PID=5184
+07.02.2011 00:39:11 Unable to determine memory usage properties for PID=5184
+07.02.2011 00:39:11 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:11 Factical execution time: 859 ms
+07.02.2011 00:39:11 Runtime Error (1)
+
+07.02.2011 00:39:11 Running on test 02
+07.02.2011 00:39:11 Unable to determine memory usage properties for PID=5508
+07.02.2011 00:39:11 Unable to determine memory usage properties for PID=5508
+07.02.2011 00:39:11 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:11 Factical execution time: 47 ms
+07.02.2011 00:39:11 Maximal memory usage: 2292 Kb
+07.02.2011 00:39:11 Runtime Error (1)
+
+07.02.2011 00:39:11 Running on test 03
+07.02.2011 00:39:11 Unable to determine memory usage properties for PID=3988
+07.02.2011 00:39:11 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:11 Factical execution time: 46 ms
+07.02.2011 00:39:11 Maximal memory usage: 3432 Kb
+07.02.2011 00:39:11 Runtime Error (1)
+
+07.02.2011 00:39:11 Running on test 04
+07.02.2011 00:39:11 Unable to determine memory usage properties for PID=5968
+07.02.2011 00:39:11 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:11 Factical execution time: 32 ms
+07.02.2011 00:39:11 Maximal memory usage: 3488 Kb
+07.02.2011 00:39:11 Runtime Error (1)
+
+07.02.2011 00:39:11 Running on test 05
+07.02.2011 00:39:11 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:11 Factical execution time: 32 ms
+07.02.2011 00:39:11 Maximal memory usage: 3692 Kb
+07.02.2011 00:39:11 Runtime Error (1)
+
+07.02.2011 00:39:11 Running on test 06
+07.02.2011 00:39:11 Unable to determine memory usage properties for PID=3664
+07.02.2011 00:39:11 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:11 Factical execution time: 31 ms
+07.02.2011 00:39:11 Maximal memory usage: 3532 Kb
+07.02.2011 00:39:11 Runtime Error (1)
+
+07.02.2011 00:39:11 Running on test 07
+07.02.2011 00:39:11 Unable to determine memory usage properties for PID=1404
+07.02.2011 00:39:11 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:39:11 Factical execution time: 47 ms
+07.02.2011 00:39:11 Maximal memory usage: 3076 Kb
+07.02.2011 00:39:11 Runtime Error (1)
+
+07.02.2011 00:39:11 Running on test 08
+07.02.2011 00:39:11 Unable to determine memory usage properties for PID=2468
+07.02.2011 00:39:11 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:39:11 Factical execution time: 47 ms
+07.02.2011 00:39:11 Maximal memory usage: 3156 Kb
+07.02.2011 00:39:11 Runtime Error (1)
+
+07.02.2011 00:39:11 Running on test 09
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=5800
+07.02.2011 00:39:12 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3320 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 10
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=4064
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3536 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 11
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=1088
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3376 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 12
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=5220
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3088 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 13
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=4592
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 46 ms
+07.02.2011 00:39:12 Maximal memory usage: 2764 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 14
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=2120
+07.02.2011 00:39:12 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 31 ms
+07.02.2011 00:39:12 Maximal memory usage: 3424 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 15
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=5216
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:12 Factical execution time: 31 ms
+07.02.2011 00:39:12 Maximal memory usage: 2740 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 16
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=2136
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 31 ms
+07.02.2011 00:39:12 Maximal memory usage: 3404 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 17
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=2628
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 31 ms
+07.02.2011 00:39:12 Maximal memory usage: 3440 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 18
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=3652
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3456 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 19
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=2476
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3432 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 20
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=1044
+07.02.2011 00:39:12 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3436 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 21
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=5240
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 46 ms
+07.02.2011 00:39:12 Maximal memory usage: 3412 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 22
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3676 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 23
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=5192
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 2504 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 24
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=5248
+07.02.2011 00:39:12 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 31 ms
+07.02.2011 00:39:12 Maximal memory usage: 3440 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 25
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=2328
+07.02.2011 00:39:12 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3320 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 26
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=4724
+07.02.2011 00:39:12 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3552 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 27
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=3936
+07.02.2011 00:39:12 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3448 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 28
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=4416
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:12 Factical execution time: 47 ms
+07.02.2011 00:39:12 Maximal memory usage: 3408 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 29
+07.02.2011 00:39:12 Unable to determine memory usage properties for PID=4428
+07.02.2011 00:39:12 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:12 Factical execution time: 46 ms
+07.02.2011 00:39:12 Maximal memory usage: 3280 Kb
+07.02.2011 00:39:12 Runtime Error (1)
+
+07.02.2011 00:39:12 Running on test 30
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=5936
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3444 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 31
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=2944
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3144 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 32
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=6112
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3444 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 33
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=5364
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 2392 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 34
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=4444
+07.02.2011 00:39:13 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3444 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 35
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=3556
+07.02.2011 00:39:13 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 1324 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 36
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=2392
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3588 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 37
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=5260
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 46 ms
+07.02.2011 00:39:13 Maximal memory usage: 3036 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 38
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=1672
+07.02.2011 00:39:13 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3396 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 39
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=3488
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3424 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 40
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=3012
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3292 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 41
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=2304
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3120 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 42
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=5504
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3400 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 43
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=332
+07.02.2011 00:39:13 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 2332 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 44
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=656
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3408 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 45
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=1236
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 46 ms
+07.02.2011 00:39:13 Maximal memory usage: 3404 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 46
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=4696
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3384 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 47
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=5644
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3008 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 48
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=800
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3064 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 49
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=2492
+07.02.2011 00:39:13 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3524 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Running on test 50
+07.02.2011 00:39:13 Unable to determine memory usage properties for PID=4168
+07.02.2011 00:39:13 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:13 Factical execution time: 47 ms
+07.02.2011 00:39:13 Maximal memory usage: 3440 Kb
+07.02.2011 00:39:13 Runtime Error (1)
+
+07.02.2011 00:39:13 Total maximal work time: 31,25000 ms
+07.02.2011 00:39:13 Total maximal memory usage: 3692 Kb
+
+
+07.02.2011 00:39:39 RUN 0.9alpha by Kitten Computing
+
+07.02.2011 00:39:39 Testing solution, in=a1.in, out=a1.out, ext=u, tl=100000000, ml=100000000
+
+07.02.2011 00:39:39 Running on test 01
+07.02.2011 00:39:39 Unable to determine memory usage properties for PID=4628
+07.02.2011 00:39:39 Unable to determine memory usage properties for PID=4628
+07.02.2011 00:39:39 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:39 Factical execution time: 234 ms
+07.02.2011 00:39:39 Successful termination
+07.02.2011 00:39:39 Checker result: JURY'S ERROR
+07.02.2011 00:39:39 Checker comments:
+* Облом * Отсутствует файл '01.a' (01.a)
+
+07.02.2011 00:39:39 Running on test 02
+07.02.2011 00:39:39 Unable to determine memory usage properties for PID=4924
+07.02.2011 00:39:39 Unable to determine memory usage properties for PID=4924
+07.02.2011 00:39:39 Processor time used: system=31,25000 ms, user=15,62500 ms total=46,87500 ms.
+07.02.2011 00:39:39 Factical execution time: 79 ms
+07.02.2011 00:39:39 Maximal memory usage: 3220 Kb
+07.02.2011 00:39:39 Successful termination
+07.02.2011 00:39:39 Checker result: JURY'S ERROR
+07.02.2011 00:39:39 Checker comments:
+* Облом * Отсутствует файл '02.a' (02.a)
+
+07.02.2011 00:39:39 Running on test 03
+07.02.2011 00:39:39 Unable to determine memory usage properties for PID=4288
+07.02.2011 00:39:39 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:39 Factical execution time: 47 ms
+07.02.2011 00:39:39 Maximal memory usage: 3272 Kb
+07.02.2011 00:39:39 Successful termination
+07.02.2011 00:39:39 Checker result: JURY'S ERROR
+07.02.2011 00:39:39 Checker comments:
+* Облом * Отсутствует файл '03.a' (03.a)
+
+07.02.2011 00:39:39 Running on test 04
+07.02.2011 00:39:39 Unable to determine memory usage properties for PID=5812
+07.02.2011 00:39:39 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:39 Factical execution time: 47 ms
+07.02.2011 00:39:39 Maximal memory usage: 3408 Kb
+07.02.2011 00:39:39 Successful termination
+07.02.2011 00:39:39 Checker result: JURY'S ERROR
+07.02.2011 00:39:39 Checker comments:
+* Облом * Отсутствует файл '04.a' (04.a)
+
+07.02.2011 00:39:39 Running on test 05
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=5768
+07.02.2011 00:39:40 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:40 Factical execution time: 47 ms
+07.02.2011 00:39:40 Maximal memory usage: 3452 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '05.a' (05.a)
+
+07.02.2011 00:39:40 Running on test 06
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=5188
+07.02.2011 00:39:40 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:40 Factical execution time: 47 ms
+07.02.2011 00:39:40 Maximal memory usage: 3276 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '06.a' (06.a)
+
+07.02.2011 00:39:40 Running on test 07
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=5412
+07.02.2011 00:39:40 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:39:40 Factical execution time: 63 ms
+07.02.2011 00:39:40 Maximal memory usage: 2744 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '07.a' (07.a)
+
+07.02.2011 00:39:40 Running on test 08
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=644
+07.02.2011 00:39:40 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:40 Factical execution time: 47 ms
+07.02.2011 00:39:40 Maximal memory usage: 3200 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '08.a' (08.a)
+
+07.02.2011 00:39:40 Running on test 09
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=2892
+07.02.2011 00:39:40 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+07.02.2011 00:39:40 Factical execution time: 47 ms
+07.02.2011 00:39:40 Maximal memory usage: 3400 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '09.a' (09.a)
+
+07.02.2011 00:39:40 Running on test 10
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=2920
+07.02.2011 00:39:40 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:40 Factical execution time: 47 ms
+07.02.2011 00:39:40 Maximal memory usage: 3400 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '10.a' (10.a)
+
+07.02.2011 00:39:40 Running on test 11
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=5544
+07.02.2011 00:39:40 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:40 Factical execution time: 47 ms
+07.02.2011 00:39:40 Maximal memory usage: 3416 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '11.a' (11.a)
+
+07.02.2011 00:39:40 Running on test 12
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=5184
+07.02.2011 00:39:40 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:40 Factical execution time: 47 ms
+07.02.2011 00:39:40 Maximal memory usage: 2912 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '12.a' (12.a)
+
+07.02.2011 00:39:40 Running on test 13
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=5260
+07.02.2011 00:39:40 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:40 Factical execution time: 47 ms
+07.02.2011 00:39:40 Maximal memory usage: 3528 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '13.a' (13.a)
+
+07.02.2011 00:39:40 Running on test 14
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=5968
+07.02.2011 00:39:40 Processor time used: system=31,25000 ms, user=15,62500 ms total=46,87500 ms.
+07.02.2011 00:39:40 Factical execution time: 63 ms
+07.02.2011 00:39:40 Maximal memory usage: 2756 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '14.a' (14.a)
+
+07.02.2011 00:39:40 Running on test 15
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=1464
+07.02.2011 00:39:40 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:40 Factical execution time: 47 ms
+07.02.2011 00:39:40 Maximal memory usage: 3400 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '15.a' (15.a)
+
+07.02.2011 00:39:40 Running on test 16
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=5864
+07.02.2011 00:39:40 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:40 Factical execution time: 47 ms
+07.02.2011 00:39:40 Maximal memory usage: 3544 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '16.a' (16.a)
+
+07.02.2011 00:39:40 Running on test 17
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=6032
+07.02.2011 00:39:40 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:40 Factical execution time: 32 ms
+07.02.2011 00:39:40 Maximal memory usage: 3464 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:40 Checker result: JURY'S ERROR
+07.02.2011 00:39:40 Checker comments:
+* Облом * Отсутствует файл '17.a' (17.a)
+
+07.02.2011 00:39:40 Running on test 18
+07.02.2011 00:39:40 Unable to determine memory usage properties for PID=3688
+07.02.2011 00:39:40 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:40 Factical execution time: 47 ms
+07.02.2011 00:39:40 Maximal memory usage: 3532 Kb
+07.02.2011 00:39:40 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '18.a' (18.a)
+
+07.02.2011 00:39:41 Running on test 19
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=5280
+07.02.2011 00:39:41 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+07.02.2011 00:39:41 Factical execution time: 47 ms
+07.02.2011 00:39:41 Maximal memory usage: 2916 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '19.a' (19.a)
+
+07.02.2011 00:39:41 Running on test 20
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=5548
+07.02.2011 00:39:41 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:41 Factical execution time: 46 ms
+07.02.2011 00:39:41 Maximal memory usage: 2896 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '20.a' (20.a)
+
+07.02.2011 00:39:41 Running on test 21
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=4856
+07.02.2011 00:39:41 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:41 Factical execution time: 62 ms
+07.02.2011 00:39:41 Maximal memory usage: 3624 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '21.a' (21.a)
+
+07.02.2011 00:39:41 Running on test 22
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=3716
+07.02.2011 00:39:41 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:41 Factical execution time: 32 ms
+07.02.2011 00:39:41 Maximal memory usage: 3400 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '22.a' (22.a)
+
+07.02.2011 00:39:41 Running on test 23
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=5092
+07.02.2011 00:39:41 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:41 Factical execution time: 47 ms
+07.02.2011 00:39:41 Maximal memory usage: 3440 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '23.a' (23.a)
+
+07.02.2011 00:39:41 Running on test 24
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=5348
+07.02.2011 00:39:41 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:41 Factical execution time: 31 ms
+07.02.2011 00:39:41 Maximal memory usage: 3528 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '24.a' (24.a)
+
+07.02.2011 00:39:41 Running on test 25
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=4640
+07.02.2011 00:39:41 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:41 Factical execution time: 46 ms
+07.02.2011 00:39:41 Maximal memory usage: 3440 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '25.a' (25.a)
+
+07.02.2011 00:39:41 Running on test 26
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=5476
+07.02.2011 00:39:41 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:41 Factical execution time: 31 ms
+07.02.2011 00:39:41 Maximal memory usage: 3424 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '26.a' (26.a)
+
+07.02.2011 00:39:41 Running on test 27
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=5428
+07.02.2011 00:39:41 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:41 Factical execution time: 47 ms
+07.02.2011 00:39:41 Maximal memory usage: 3612 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '27.a' (27.a)
+
+07.02.2011 00:39:41 Running on test 28
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=2908
+07.02.2011 00:39:41 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:41 Factical execution time: 63 ms
+07.02.2011 00:39:41 Maximal memory usage: 3604 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '28.a' (28.a)
+
+07.02.2011 00:39:41 Running on test 29
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=4724
+07.02.2011 00:39:41 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:41 Factical execution time: 47 ms
+07.02.2011 00:39:41 Maximal memory usage: 2928 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '29.a' (29.a)
+
+07.02.2011 00:39:41 Running on test 30
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=3380
+07.02.2011 00:39:41 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:41 Factical execution time: 46 ms
+07.02.2011 00:39:41 Maximal memory usage: 3392 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '30.a' (30.a)
+
+07.02.2011 00:39:41 Running on test 31
+07.02.2011 00:39:41 Unable to determine memory usage properties for PID=4428
+07.02.2011 00:39:41 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:41 Factical execution time: 31 ms
+07.02.2011 00:39:41 Maximal memory usage: 3400 Kb
+07.02.2011 00:39:41 Successful termination
+07.02.2011 00:39:41 Checker result: JURY'S ERROR
+07.02.2011 00:39:41 Checker comments:
+* Облом * Отсутствует файл '31.a' (31.a)
+
+07.02.2011 00:39:41 Running on test 32
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=3948
+07.02.2011 00:39:42 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:42 Factical execution time: 47 ms
+07.02.2011 00:39:42 Maximal memory usage: 3092 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '32.a' (32.a)
+
+07.02.2011 00:39:42 Running on test 33
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=5780
+07.02.2011 00:39:42 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:42 Factical execution time: 47 ms
+07.02.2011 00:39:42 Maximal memory usage: 2648 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '33.a' (33.a)
+
+07.02.2011 00:39:42 Running on test 34
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=488
+07.02.2011 00:39:42 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:42 Factical execution time: 47 ms
+07.02.2011 00:39:42 Maximal memory usage: 2580 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '34.a' (34.a)
+
+07.02.2011 00:39:42 Running on test 35
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=5316
+07.02.2011 00:39:42 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:39:42 Factical execution time: 47 ms
+07.02.2011 00:39:42 Maximal memory usage: 3448 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '35.a' (35.a)
+
+07.02.2011 00:39:42 Running on test 36
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=4180
+07.02.2011 00:39:42 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:42 Factical execution time: 47 ms
+07.02.2011 00:39:42 Maximal memory usage: 3444 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '36.a' (36.a)
+
+07.02.2011 00:39:42 Running on test 37
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=5760
+07.02.2011 00:39:42 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:39:42 Factical execution time: 46 ms
+07.02.2011 00:39:42 Maximal memory usage: 3520 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '37.a' (37.a)
+
+07.02.2011 00:39:42 Running on test 38
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=3764
+07.02.2011 00:39:42 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:42 Factical execution time: 47 ms
+07.02.2011 00:39:42 Maximal memory usage: 3528 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '38.a' (38.a)
+
+07.02.2011 00:39:42 Running on test 39
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=2040
+07.02.2011 00:39:42 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:42 Factical execution time: 47 ms
+07.02.2011 00:39:42 Maximal memory usage: 3284 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '39.a' (39.a)
+
+07.02.2011 00:39:42 Running on test 40
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=1116
+07.02.2011 00:39:42 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:42 Factical execution time: 47 ms
+07.02.2011 00:39:42 Maximal memory usage: 3420 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '40.a' (40.a)
+
+07.02.2011 00:39:42 Running on test 41
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=2416
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=2416
+07.02.2011 00:39:42 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:42 Factical execution time: 47 ms
+07.02.2011 00:39:42 Maximal memory usage: 1988 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '41.a' (41.a)
+
+07.02.2011 00:39:42 Running on test 42
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=1236
+07.02.2011 00:39:42 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:42 Factical execution time: 31 ms
+07.02.2011 00:39:42 Maximal memory usage: 3620 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '42.a' (42.a)
+
+07.02.2011 00:39:42 Running on test 43
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=5220
+07.02.2011 00:39:42 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:42 Factical execution time: 31 ms
+07.02.2011 00:39:42 Maximal memory usage: 3120 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '43.a' (43.a)
+
+07.02.2011 00:39:42 Running on test 44
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=800
+07.02.2011 00:39:42 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:42 Factical execution time: 47 ms
+07.02.2011 00:39:42 Maximal memory usage: 3372 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '44.a' (44.a)
+
+07.02.2011 00:39:42 Running on test 45
+07.02.2011 00:39:42 Unable to determine memory usage properties for PID=4536
+07.02.2011 00:39:42 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:42 Factical execution time: 32 ms
+07.02.2011 00:39:42 Maximal memory usage: 3524 Kb
+07.02.2011 00:39:42 Successful termination
+07.02.2011 00:39:42 Checker result: JURY'S ERROR
+07.02.2011 00:39:42 Checker comments:
+* Облом * Отсутствует файл '45.a' (45.a)
+
+07.02.2011 00:39:42 Running on test 46
+07.02.2011 00:39:43 Unable to determine memory usage properties for PID=6056
+07.02.2011 00:39:43 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:43 Factical execution time: 47 ms
+07.02.2011 00:39:43 Maximal memory usage: 3392 Kb
+07.02.2011 00:39:43 Successful termination
+07.02.2011 00:39:43 Checker result: JURY'S ERROR
+07.02.2011 00:39:43 Checker comments:
+* Облом * Отсутствует файл '46.a' (46.a)
+
+07.02.2011 00:39:43 Running on test 47
+07.02.2011 00:39:43 Unable to determine memory usage properties for PID=4236
+07.02.2011 00:39:43 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:43 Factical execution time: 31 ms
+07.02.2011 00:39:43 Maximal memory usage: 3560 Kb
+07.02.2011 00:39:43 Successful termination
+07.02.2011 00:39:43 Checker result: JURY'S ERROR
+07.02.2011 00:39:43 Checker comments:
+* Облом * Отсутствует файл '47.a' (47.a)
+
+07.02.2011 00:39:43 Running on test 48
+07.02.2011 00:39:43 Unable to determine memory usage properties for PID=5052
+07.02.2011 00:39:43 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:43 Factical execution time: 63 ms
+07.02.2011 00:39:43 Maximal memory usage: 3388 Kb
+07.02.2011 00:39:43 Successful termination
+07.02.2011 00:39:43 Checker result: JURY'S ERROR
+07.02.2011 00:39:43 Checker comments:
+* Облом * Отсутствует файл '48.a' (48.a)
+
+07.02.2011 00:39:43 Running on test 49
+07.02.2011 00:39:43 Unable to determine memory usage properties for PID=5436
+07.02.2011 00:39:43 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:43 Factical execution time: 46 ms
+07.02.2011 00:39:43 Maximal memory usage: 3488 Kb
+07.02.2011 00:39:43 Successful termination
+07.02.2011 00:39:43 Checker result: JURY'S ERROR
+07.02.2011 00:39:43 Checker comments:
+* Облом * Отсутствует файл '49.a' (49.a)
+
+07.02.2011 00:39:43 Running on test 50
+07.02.2011 00:39:43 Unable to determine memory usage properties for PID=6048
+07.02.2011 00:39:43 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:43 Factical execution time: 31 ms
+07.02.2011 00:39:43 Maximal memory usage: 3556 Kb
+07.02.2011 00:39:43 Successful termination
+07.02.2011 00:39:43 Checker result: JURY'S ERROR
+07.02.2011 00:39:43 Checker comments:
+* Облом * Отсутствует файл '50.a' (50.a)
+
+07.02.2011 00:39:43 Total maximal work time: 46,87500 ms
+07.02.2011 00:39:43 Total maximal memory usage: 3624 Kb
+
+
+07.02.2011 00:39:45 RUN 0.9alpha by Kitten Computing
+
+07.02.2011 00:39:45 Testing solution, in=a1.in, out=a1.out, ext=u, tl=100000000, ml=100000000
+
+07.02.2011 00:39:45 Running on test 01
+07.02.2011 00:39:45 Unable to determine memory usage properties for PID=5768
+07.02.2011 00:39:45 Unable to determine memory usage properties for PID=5768
+07.02.2011 00:39:45 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:39:45 Factical execution time: 203 ms
+07.02.2011 00:39:45 Successful termination
+07.02.2011 00:39:45 Checker result: JURY'S ERROR
+07.02.2011 00:39:45 Checker comments:
+* Облом * Отсутствует файл '01.a' (01.a)
+
+07.02.2011 00:39:45 Running on test 02
+07.02.2011 00:39:45 Unable to determine memory usage properties for PID=5188
+07.02.2011 00:39:45 Unable to determine memory usage properties for PID=5188
+07.02.2011 00:39:45 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:45 Factical execution time: 47 ms
+07.02.2011 00:39:45 Maximal memory usage: 2856 Kb
+07.02.2011 00:39:45 Successful termination
+07.02.2011 00:39:45 Checker result: JURY'S ERROR
+07.02.2011 00:39:45 Checker comments:
+* Облом * Отсутствует файл '02.a' (02.a)
+
+07.02.2011 00:39:45 Running on test 03
+07.02.2011 00:39:45 Unable to determine memory usage properties for PID=3140
+07.02.2011 00:39:45 Unable to determine memory usage properties for PID=3140
+07.02.2011 00:39:45 Processor time used: system=31,25000 ms, user=15,62500 ms total=46,87500 ms.
+07.02.2011 00:39:45 Factical execution time: 62 ms
+07.02.2011 00:39:45 Maximal memory usage: 2288 Kb
+07.02.2011 00:39:45 Successful termination
+07.02.2011 00:39:45 Checker result: JURY'S ERROR
+07.02.2011 00:39:45 Checker comments:
+* Облом * Отсутствует файл '03.a' (03.a)
+
+07.02.2011 00:39:45 Running on test 04
+07.02.2011 00:39:45 Unable to determine memory usage properties for PID=644
+07.02.2011 00:39:45 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:45 Factical execution time: 32 ms
+07.02.2011 00:39:45 Maximal memory usage: 2916 Kb
+07.02.2011 00:39:45 Successful termination
+07.02.2011 00:39:45 Checker result: JURY'S ERROR
+07.02.2011 00:39:45 Checker comments:
+* Облом * Отсутствует файл '04.a' (04.a)
+
+07.02.2011 00:39:45 Running on test 05
+07.02.2011 00:39:45 Unable to determine memory usage properties for PID=5896
+07.02.2011 00:39:45 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:45 Factical execution time: 47 ms
+07.02.2011 00:39:45 Maximal memory usage: 3536 Kb
+07.02.2011 00:39:45 Successful termination
+07.02.2011 00:39:45 Checker result: JURY'S ERROR
+07.02.2011 00:39:45 Checker comments:
+* Облом * Отсутствует файл '05.a' (05.a)
+
+07.02.2011 00:39:45 Running on test 06
+07.02.2011 00:39:45 Unable to determine memory usage properties for PID=5288
+07.02.2011 00:39:45 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:45 Factical execution time: 31 ms
+07.02.2011 00:39:45 Maximal memory usage: 3464 Kb
+07.02.2011 00:39:45 Successful termination
+07.02.2011 00:39:45 Checker result: JURY'S ERROR
+07.02.2011 00:39:45 Checker comments:
+* Облом * Отсутствует файл '06.a' (06.a)
+
+07.02.2011 00:39:45 Running on test 07
+07.02.2011 00:39:45 Unable to determine memory usage properties for PID=5708
+07.02.2011 00:39:45 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:45 Factical execution time: 47 ms
+07.02.2011 00:39:45 Maximal memory usage: 1332 Kb
+07.02.2011 00:39:45 Successful termination
+07.02.2011 00:39:45 Checker result: JURY'S ERROR
+07.02.2011 00:39:45 Checker comments:
+* Облом * Отсутствует файл '07.a' (07.a)
+
+07.02.2011 00:39:45 Running on test 08
+07.02.2011 00:39:45 Unable to determine memory usage properties for PID=1164
+07.02.2011 00:39:45 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:39:45 Factical execution time: 46 ms
+07.02.2011 00:39:45 Maximal memory usage: 3396 Kb
+07.02.2011 00:39:45 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '08.a' (08.a)
+
+07.02.2011 00:39:46 Running on test 09
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=3604
+07.02.2011 00:39:46 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:39:46 Factical execution time: 47 ms
+07.02.2011 00:39:46 Maximal memory usage: 2936 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '09.a' (09.a)
+
+07.02.2011 00:39:46 Running on test 10
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=2956
+07.02.2011 00:39:46 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:46 Factical execution time: 47 ms
+07.02.2011 00:39:46 Maximal memory usage: 3288 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '10.a' (10.a)
+
+07.02.2011 00:39:46 Running on test 11
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=5960
+07.02.2011 00:39:46 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:46 Factical execution time: 32 ms
+07.02.2011 00:39:46 Maximal memory usage: 3408 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '11.a' (11.a)
+
+07.02.2011 00:39:46 Running on test 12
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=5584
+07.02.2011 00:39:46 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:46 Factical execution time: 47 ms
+07.02.2011 00:39:46 Maximal memory usage: 3388 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '12.a' (12.a)
+
+07.02.2011 00:39:46 Running on test 13
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=3284
+07.02.2011 00:39:46 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:46 Factical execution time: 31 ms
+07.02.2011 00:39:46 Maximal memory usage: 3424 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '13.a' (13.a)
+
+07.02.2011 00:39:46 Running on test 14
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=4388
+07.02.2011 00:39:46 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:46 Factical execution time: 47 ms
+07.02.2011 00:39:46 Maximal memory usage: 3400 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '14.a' (14.a)
+
+07.02.2011 00:39:46 Running on test 15
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=5280
+07.02.2011 00:39:46 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:46 Factical execution time: 31 ms
+07.02.2011 00:39:46 Maximal memory usage: 2944 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '15.a' (15.a)
+
+07.02.2011 00:39:46 Running on test 16
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=5548
+07.02.2011 00:39:46 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:46 Factical execution time: 47 ms
+07.02.2011 00:39:46 Maximal memory usage: 2916 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '16.a' (16.a)
+
+07.02.2011 00:39:46 Running on test 17
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=3436
+07.02.2011 00:39:46 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:39:46 Factical execution time: 47 ms
+07.02.2011 00:39:46 Maximal memory usage: 2960 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '17.a' (17.a)
+
+07.02.2011 00:39:46 Running on test 18
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=3716
+07.02.2011 00:39:46 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:46 Factical execution time: 47 ms
+07.02.2011 00:39:46 Maximal memory usage: 3096 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '18.a' (18.a)
+
+07.02.2011 00:39:46 Running on test 19
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=5092
+07.02.2011 00:39:46 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:46 Factical execution time: 32 ms
+07.02.2011 00:39:46 Maximal memory usage: 3444 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '19.a' (19.a)
+
+07.02.2011 00:39:46 Running on test 20
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=5348
+07.02.2011 00:39:46 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:46 Factical execution time: 47 ms
+07.02.2011 00:39:46 Maximal memory usage: 3400 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '20.a' (20.a)
+
+07.02.2011 00:39:46 Running on test 21
+07.02.2011 00:39:46 Unable to determine memory usage properties for PID=4640
+07.02.2011 00:39:46 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:46 Factical execution time: 47 ms
+07.02.2011 00:39:46 Maximal memory usage: 3404 Kb
+07.02.2011 00:39:46 Successful termination
+07.02.2011 00:39:46 Checker result: JURY'S ERROR
+07.02.2011 00:39:46 Checker comments:
+* Облом * Отсутствует файл '21.a' (21.a)
+
+07.02.2011 00:39:46 Running on test 22
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=5476
+07.02.2011 00:39:47 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:39:47 Factical execution time: 62 ms
+07.02.2011 00:39:47 Maximal memory usage: 2740 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '22.a' (22.a)
+
+07.02.2011 00:39:47 Running on test 23
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=4036
+07.02.2011 00:39:47 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:47 Factical execution time: 47 ms
+07.02.2011 00:39:47 Maximal memory usage: 3240 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '23.a' (23.a)
+
+07.02.2011 00:39:47 Running on test 24
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=4004
+07.02.2011 00:39:47 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:47 Factical execution time: 32 ms
+07.02.2011 00:39:47 Maximal memory usage: 3416 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '24.a' (24.a)
+
+07.02.2011 00:39:47 Running on test 25
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=3308
+07.02.2011 00:39:47 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:47 Factical execution time: 47 ms
+07.02.2011 00:39:47 Maximal memory usage: 3528 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '25.a' (25.a)
+
+07.02.2011 00:39:47 Running on test 26
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=4416
+07.02.2011 00:39:47 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:47 Factical execution time: 47 ms
+07.02.2011 00:39:47 Maximal memory usage: 3368 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '26.a' (26.a)
+
+07.02.2011 00:39:47 Running on test 27
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=5976
+07.02.2011 00:39:47 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:47 Factical execution time: 46 ms
+07.02.2011 00:39:47 Maximal memory usage: 2928 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '27.a' (27.a)
+
+07.02.2011 00:39:47 Running on test 28
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=2944
+07.02.2011 00:39:47 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:47 Factical execution time: 47 ms
+07.02.2011 00:39:47 Maximal memory usage: 3408 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '28.a' (28.a)
+
+07.02.2011 00:39:47 Running on test 29
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=4000
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=4000
+07.02.2011 00:39:47 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:39:47 Factical execution time: 63 ms
+07.02.2011 00:39:47 Maximal memory usage: 2288 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '29.a' (29.a)
+
+07.02.2011 00:39:47 Running on test 30
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=5588
+07.02.2011 00:39:47 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:39:47 Factical execution time: 47 ms
+07.02.2011 00:39:47 Maximal memory usage: 3404 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '30.a' (30.a)
+
+07.02.2011 00:39:47 Running on test 31
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=4904
+07.02.2011 00:39:47 Processor time used: system=31,25000 ms, user=15,62500 ms total=46,87500 ms.
+07.02.2011 00:39:47 Factical execution time: 47 ms
+07.02.2011 00:39:47 Maximal memory usage: 2572 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '31.a' (31.a)
+
+07.02.2011 00:39:47 Running on test 32
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=1112
+07.02.2011 00:39:47 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:47 Factical execution time: 46 ms
+07.02.2011 00:39:47 Maximal memory usage: 3400 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '32.a' (32.a)
+
+07.02.2011 00:39:47 Running on test 33
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=4100
+07.02.2011 00:39:47 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:47 Factical execution time: 31 ms
+07.02.2011 00:39:47 Maximal memory usage: 3424 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '33.a' (33.a)
+
+07.02.2011 00:39:47 Running on test 34
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=1164
+07.02.2011 00:39:47 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:47 Factical execution time: 47 ms
+07.02.2011 00:39:47 Maximal memory usage: 3404 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '34.a' (34.a)
+
+07.02.2011 00:39:47 Running on test 35
+07.02.2011 00:39:47 Unable to determine memory usage properties for PID=3764
+07.02.2011 00:39:47 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:47 Factical execution time: 32 ms
+07.02.2011 00:39:47 Maximal memory usage: 3400 Kb
+07.02.2011 00:39:47 Successful termination
+07.02.2011 00:39:47 Checker result: JURY'S ERROR
+07.02.2011 00:39:47 Checker comments:
+* Облом * Отсутствует файл '35.a' (35.a)
+
+07.02.2011 00:39:47 Running on test 36
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=2040
+07.02.2011 00:39:48 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:48 Factical execution time: 47 ms
+07.02.2011 00:39:48 Maximal memory usage: 2300 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '36.a' (36.a)
+
+07.02.2011 00:39:48 Running on test 37
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=4176
+07.02.2011 00:39:48 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:48 Factical execution time: 47 ms
+07.02.2011 00:39:48 Maximal memory usage: 3544 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '37.a' (37.a)
+
+07.02.2011 00:39:48 Running on test 38
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=5648
+07.02.2011 00:39:48 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:39:48 Factical execution time: 47 ms
+07.02.2011 00:39:48 Maximal memory usage: 3128 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '38.a' (38.a)
+
+07.02.2011 00:39:48 Running on test 39
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=5844
+07.02.2011 00:39:48 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:39:48 Factical execution time: 46 ms
+07.02.2011 00:39:48 Maximal memory usage: 3048 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '39.a' (39.a)
+
+07.02.2011 00:39:48 Running on test 40
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=372
+07.02.2011 00:39:48 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:48 Factical execution time: 31 ms
+07.02.2011 00:39:48 Maximal memory usage: 2996 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '40.a' (40.a)
+
+07.02.2011 00:39:48 Running on test 41
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=5280
+07.02.2011 00:39:48 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:48 Factical execution time: 47 ms
+07.02.2011 00:39:48 Maximal memory usage: 3408 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '41.a' (41.a)
+
+07.02.2011 00:39:48 Running on test 42
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=4536
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=4536
+07.02.2011 00:39:48 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:48 Factical execution time: 47 ms
+07.02.2011 00:39:48 Maximal memory usage: 2372 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '42.a' (42.a)
+
+07.02.2011 00:39:48 Running on test 43
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=6056
+07.02.2011 00:39:48 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:48 Factical execution time: 47 ms
+07.02.2011 00:39:48 Maximal memory usage: 3608 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '43.a' (43.a)
+
+07.02.2011 00:39:48 Running on test 44
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=2136
+07.02.2011 00:39:48 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:48 Factical execution time: 31 ms
+07.02.2011 00:39:48 Maximal memory usage: 3276 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '44.a' (44.a)
+
+07.02.2011 00:39:48 Running on test 45
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=3384
+07.02.2011 00:39:48 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:48 Factical execution time: 47 ms
+07.02.2011 00:39:48 Maximal memory usage: 2660 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '45.a' (45.a)
+
+07.02.2011 00:39:48 Running on test 46
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=5436
+07.02.2011 00:39:48 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:48 Factical execution time: 62 ms
+07.02.2011 00:39:48 Maximal memory usage: 3592 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '46.a' (46.a)
+
+07.02.2011 00:39:48 Running on test 47
+07.02.2011 00:39:48 Unable to determine memory usage properties for PID=760
+07.02.2011 00:39:48 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:48 Factical execution time: 47 ms
+07.02.2011 00:39:48 Maximal memory usage: 2916 Kb
+07.02.2011 00:39:48 Successful termination
+07.02.2011 00:39:48 Checker result: JURY'S ERROR
+07.02.2011 00:39:48 Checker comments:
+* Облом * Отсутствует файл '47.a' (47.a)
+
+07.02.2011 00:39:48 Running on test 48
+07.02.2011 00:39:49 Unable to determine memory usage properties for PID=5472
+07.02.2011 00:39:49 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:39:49 Factical execution time: 63 ms
+07.02.2011 00:39:49 Maximal memory usage: 3632 Kb
+07.02.2011 00:39:49 Successful termination
+07.02.2011 00:39:49 Checker result: JURY'S ERROR
+07.02.2011 00:39:49 Checker comments:
+* Облом * Отсутствует файл '48.a' (48.a)
+
+07.02.2011 00:39:49 Running on test 49
+07.02.2011 00:39:49 Unable to determine memory usage properties for PID=5932
+07.02.2011 00:39:49 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:39:49 Factical execution time: 31 ms
+07.02.2011 00:39:49 Maximal memory usage: 3404 Kb
+07.02.2011 00:39:49 Successful termination
+07.02.2011 00:39:49 Checker result: JURY'S ERROR
+07.02.2011 00:39:49 Checker comments:
+* Облом * Отсутствует файл '49.a' (49.a)
+
+07.02.2011 00:39:49 Running on test 50
+07.02.2011 00:39:49 Unable to determine memory usage properties for PID=3644
+07.02.2011 00:39:49 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:39:49 Factical execution time: 47 ms
+07.02.2011 00:39:49 Maximal memory usage: 3404 Kb
+07.02.2011 00:39:49 Successful termination
+07.02.2011 00:39:49 Checker result: JURY'S ERROR
+07.02.2011 00:39:49 Checker comments:
+* Облом * Отсутствует файл '50.a' (50.a)
+
+07.02.2011 00:39:49 Total maximal work time: 46,87500 ms
+07.02.2011 00:39:49 Total maximal memory usage: 3632 Kb
+
+
+07.02.2011 00:40:11 RUN 0.9alpha by Kitten Computing
+
+07.02.2011 00:40:11 Testing solution, in=a1.in, out=a1.out, ext=u, tl=100000000, ml=100000000
+
+07.02.2011 00:40:11 Running on test 01
+07.02.2011 00:40:11 Unable to determine memory usage properties for PID=4444
+07.02.2011 00:40:11 Unable to determine memory usage properties for PID=4444
+07.02.2011 00:40:11 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:11 Factical execution time: 266 ms
+07.02.2011 00:40:11 Successful termination
+07.02.2011 00:40:11 Checker result: JURY'S ERROR
+07.02.2011 00:40:11 Checker comments:
+* Облом * Отсутствует файл '01.a' (01.a)
+
+07.02.2011 00:40:11 Running on test 02
+07.02.2011 00:40:11 Unable to determine memory usage properties for PID=3684
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=3684
+07.02.2011 00:40:12 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:12 Factical execution time: 47 ms
+07.02.2011 00:40:12 Maximal memory usage: 3404 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '02.a' (02.a)
+
+07.02.2011 00:40:12 Running on test 03
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=5236
+07.02.2011 00:40:12 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:40:12 Factical execution time: 47 ms
+07.02.2011 00:40:12 Maximal memory usage: 3428 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '03.a' (03.a)
+
+07.02.2011 00:40:12 Running on test 04
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=5884
+07.02.2011 00:40:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:12 Factical execution time: 47 ms
+07.02.2011 00:40:12 Maximal memory usage: 3204 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '04.a' (04.a)
+
+07.02.2011 00:40:12 Running on test 05
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=836
+07.02.2011 00:40:12 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:40:12 Factical execution time: 47 ms
+07.02.2011 00:40:12 Maximal memory usage: 3584 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '05.a' (05.a)
+
+07.02.2011 00:40:12 Running on test 06
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=1224
+07.02.2011 00:40:12 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:40:12 Factical execution time: 47 ms
+07.02.2011 00:40:12 Maximal memory usage: 3532 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '06.a' (06.a)
+
+07.02.2011 00:40:12 Running on test 07
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=4996
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=4996
+07.02.2011 00:40:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:12 Factical execution time: 46 ms
+07.02.2011 00:40:12 Maximal memory usage: 2916 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '07.a' (07.a)
+
+07.02.2011 00:40:12 Running on test 08
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=4828
+07.02.2011 00:40:12 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:12 Factical execution time: 47 ms
+07.02.2011 00:40:12 Maximal memory usage: 3008 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '08.a' (08.a)
+
+07.02.2011 00:40:12 Running on test 09
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=2188
+07.02.2011 00:40:12 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:40:12 Factical execution time: 47 ms
+07.02.2011 00:40:12 Maximal memory usage: 3400 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '09.a' (09.a)
+
+07.02.2011 00:40:12 Running on test 10
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=1900
+07.02.2011 00:40:12 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:12 Factical execution time: 47 ms
+07.02.2011 00:40:12 Maximal memory usage: 2728 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '10.a' (10.a)
+
+07.02.2011 00:40:12 Running on test 11
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=5880
+07.02.2011 00:40:12 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:12 Factical execution time: 32 ms
+07.02.2011 00:40:12 Maximal memory usage: 3224 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '11.a' (11.a)
+
+07.02.2011 00:40:12 Running on test 12
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=3468
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=3468
+07.02.2011 00:40:12 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:40:12 Factical execution time: 62 ms
+07.02.2011 00:40:12 Maximal memory usage: 2264 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '12.a' (12.a)
+
+07.02.2011 00:40:12 Running on test 13
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=1260
+07.02.2011 00:40:12 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:40:12 Factical execution time: 47 ms
+07.02.2011 00:40:12 Maximal memory usage: 2544 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '13.a' (13.a)
+
+07.02.2011 00:40:12 Running on test 14
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=4564
+07.02.2011 00:40:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:12 Factical execution time: 47 ms
+07.02.2011 00:40:12 Maximal memory usage: 3592 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '14.a' (14.a)
+
+07.02.2011 00:40:12 Running on test 15
+07.02.2011 00:40:12 Unable to determine memory usage properties for PID=696
+07.02.2011 00:40:12 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:12 Factical execution time: 47 ms
+07.02.2011 00:40:12 Maximal memory usage: 3416 Kb
+07.02.2011 00:40:12 Successful termination
+07.02.2011 00:40:12 Checker result: JURY'S ERROR
+07.02.2011 00:40:12 Checker comments:
+* Облом * Отсутствует файл '15.a' (15.a)
+
+07.02.2011 00:40:12 Running on test 16
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=5876
+07.02.2011 00:40:13 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:40:13 Factical execution time: 47 ms
+07.02.2011 00:40:13 Maximal memory usage: 3444 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '16.a' (16.a)
+
+07.02.2011 00:40:13 Running on test 17
+07.02.2011 00:40:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:13 Factical execution time: 47 ms
+07.02.2011 00:40:13 Maximal memory usage: 3596 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '17.a' (17.a)
+
+07.02.2011 00:40:13 Running on test 18
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=2800
+07.02.2011 00:40:13 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:40:13 Factical execution time: 47 ms
+07.02.2011 00:40:13 Maximal memory usage: 3384 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '18.a' (18.a)
+
+07.02.2011 00:40:13 Running on test 19
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=5428
+07.02.2011 00:40:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:13 Factical execution time: 46 ms
+07.02.2011 00:40:13 Maximal memory usage: 3404 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '19.a' (19.a)
+
+07.02.2011 00:40:13 Running on test 20
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=3692
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=3692
+07.02.2011 00:40:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:13 Factical execution time: 47 ms
+07.02.2011 00:40:13 Maximal memory usage: 1896 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '20.a' (20.a)
+
+07.02.2011 00:40:13 Running on test 21
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=4724
+07.02.2011 00:40:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:13 Factical execution time: 47 ms
+07.02.2011 00:40:13 Maximal memory usage: 3608 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '21.a' (21.a)
+
+07.02.2011 00:40:13 Running on test 22
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=2328
+07.02.2011 00:40:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:13 Factical execution time: 31 ms
+07.02.2011 00:40:13 Maximal memory usage: 3268 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '22.a' (22.a)
+
+07.02.2011 00:40:13 Running on test 23
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=3628
+07.02.2011 00:40:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:13 Factical execution time: 47 ms
+07.02.2011 00:40:13 Maximal memory usage: 3276 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '23.a' (23.a)
+
+07.02.2011 00:40:13 Running on test 24
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=5912
+07.02.2011 00:40:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:13 Factical execution time: 31 ms
+07.02.2011 00:40:13 Maximal memory usage: 3404 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '24.a' (24.a)
+
+07.02.2011 00:40:13 Running on test 25
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=4000
+07.02.2011 00:40:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:13 Factical execution time: 47 ms
+07.02.2011 00:40:13 Maximal memory usage: 3012 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '25.a' (25.a)
+
+07.02.2011 00:40:13 Running on test 26
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=4444
+07.02.2011 00:40:13 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:13 Factical execution time: 31 ms
+07.02.2011 00:40:13 Maximal memory usage: 3488 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '26.a' (26.a)
+
+07.02.2011 00:40:13 Running on test 27
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=5500
+07.02.2011 00:40:13 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:40:13 Factical execution time: 47 ms
+07.02.2011 00:40:13 Maximal memory usage: 3536 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '27.a' (27.a)
+
+07.02.2011 00:40:13 Running on test 28
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=5184
+07.02.2011 00:40:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:13 Factical execution time: 47 ms
+07.02.2011 00:40:13 Maximal memory usage: 3032 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '28.a' (28.a)
+
+07.02.2011 00:40:13 Running on test 29
+07.02.2011 00:40:13 Unable to determine memory usage properties for PID=632
+07.02.2011 00:40:13 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:13 Factical execution time: 47 ms
+07.02.2011 00:40:13 Maximal memory usage: 3216 Kb
+07.02.2011 00:40:13 Successful termination
+07.02.2011 00:40:13 Checker result: JURY'S ERROR
+07.02.2011 00:40:13 Checker comments:
+* Облом * Отсутствует файл '29.a' (29.a)
+
+07.02.2011 00:40:13 Running on test 30
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=4580
+07.02.2011 00:40:14 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:40:14 Factical execution time: 47 ms
+07.02.2011 00:40:14 Maximal memory usage: 3532 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '30.a' (30.a)
+
+07.02.2011 00:40:14 Running on test 31
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=1464
+07.02.2011 00:40:14 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:14 Factical execution time: 31 ms
+07.02.2011 00:40:14 Maximal memory usage: 3488 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '31.a' (31.a)
+
+07.02.2011 00:40:14 Running on test 32
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=4732
+07.02.2011 00:40:14 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:40:14 Factical execution time: 47 ms
+07.02.2011 00:40:14 Maximal memory usage: 3000 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '32.a' (32.a)
+
+07.02.2011 00:40:14 Running on test 33
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=3568
+07.02.2011 00:40:14 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:40:14 Factical execution time: 46 ms
+07.02.2011 00:40:14 Maximal memory usage: 3096 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '33.a' (33.a)
+
+07.02.2011 00:40:14 Running on test 34
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=1416
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=1416
+07.02.2011 00:40:14 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:14 Factical execution time: 47 ms
+07.02.2011 00:40:14 Maximal memory usage: 1308 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '34.a' (34.a)
+
+07.02.2011 00:40:14 Running on test 35
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=5872
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=5872
+07.02.2011 00:40:14 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:14 Factical execution time: 63 ms
+07.02.2011 00:40:14 Maximal memory usage: 2592 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '35.a' (35.a)
+
+07.02.2011 00:40:14 Running on test 36
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=3892
+07.02.2011 00:40:14 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:14 Factical execution time: 47 ms
+07.02.2011 00:40:14 Maximal memory usage: 3196 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '36.a' (36.a)
+
+07.02.2011 00:40:14 Running on test 37
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=4168
+07.02.2011 00:40:14 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:40:14 Factical execution time: 47 ms
+07.02.2011 00:40:14 Maximal memory usage: 3504 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '37.a' (37.a)
+
+07.02.2011 00:40:14 Running on test 38
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=5684
+07.02.2011 00:40:14 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:40:14 Factical execution time: 46 ms
+07.02.2011 00:40:14 Maximal memory usage: 3552 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '38.a' (38.a)
+
+07.02.2011 00:40:14 Running on test 39
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=1516
+07.02.2011 00:40:14 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:14 Factical execution time: 47 ms
+07.02.2011 00:40:14 Maximal memory usage: 3424 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '39.a' (39.a)
+
+07.02.2011 00:40:14 Running on test 40
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=696
+07.02.2011 00:40:14 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:14 Factical execution time: 31 ms
+07.02.2011 00:40:14 Maximal memory usage: 3444 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '40.a' (40.a)
+
+07.02.2011 00:40:14 Running on test 41
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=1688
+07.02.2011 00:40:14 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:14 Factical execution time: 47 ms
+07.02.2011 00:40:14 Maximal memory usage: 3292 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '41.a' (41.a)
+
+07.02.2011 00:40:14 Running on test 42
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=6048
+07.02.2011 00:40:14 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:14 Factical execution time: 47 ms
+07.02.2011 00:40:14 Maximal memory usage: 3420 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '42.a' (42.a)
+
+07.02.2011 00:40:14 Running on test 43
+07.02.2011 00:40:14 Unable to determine memory usage properties for PID=2800
+07.02.2011 00:40:14 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:40:14 Factical execution time: 47 ms
+07.02.2011 00:40:14 Maximal memory usage: 3068 Kb
+07.02.2011 00:40:14 Successful termination
+07.02.2011 00:40:14 Checker result: JURY'S ERROR
+07.02.2011 00:40:14 Checker comments:
+* Облом * Отсутствует файл '43.a' (43.a)
+
+07.02.2011 00:40:14 Running on test 44
+07.02.2011 00:40:15 Unable to determine memory usage properties for PID=5172
+07.02.2011 00:40:15 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:15 Factical execution time: 47 ms
+07.02.2011 00:40:15 Maximal memory usage: 3400 Kb
+07.02.2011 00:40:15 Successful termination
+07.02.2011 00:40:15 Checker result: JURY'S ERROR
+07.02.2011 00:40:15 Checker comments:
+* Облом * Отсутствует файл '44.a' (44.a)
+
+07.02.2011 00:40:15 Running on test 45
+07.02.2011 00:40:15 Unable to determine memory usage properties for PID=5328
+07.02.2011 00:40:15 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:40:15 Factical execution time: 46 ms
+07.02.2011 00:40:15 Maximal memory usage: 3272 Kb
+07.02.2011 00:40:15 Successful termination
+07.02.2011 00:40:15 Checker result: JURY'S ERROR
+07.02.2011 00:40:15 Checker comments:
+* Облом * Отсутствует файл '45.a' (45.a)
+
+07.02.2011 00:40:15 Running on test 46
+07.02.2011 00:40:15 Unable to determine memory usage properties for PID=5768
+07.02.2011 00:40:15 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:15 Factical execution time: 47 ms
+07.02.2011 00:40:15 Maximal memory usage: 3540 Kb
+07.02.2011 00:40:15 Successful termination
+07.02.2011 00:40:15 Checker result: JURY'S ERROR
+07.02.2011 00:40:15 Checker comments:
+* Облом * Отсутствует файл '46.a' (46.a)
+
+07.02.2011 00:40:15 Running on test 47
+07.02.2011 00:40:15 Unable to determine memory usage properties for PID=2328
+07.02.2011 00:40:15 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:40:15 Factical execution time: 31 ms
+07.02.2011 00:40:15 Maximal memory usage: 3444 Kb
+07.02.2011 00:40:15 Successful termination
+07.02.2011 00:40:15 Checker result: JURY'S ERROR
+07.02.2011 00:40:15 Checker comments:
+* Облом * Отсутствует файл '47.a' (47.a)
+
+07.02.2011 00:40:15 Running on test 48
+07.02.2011 00:40:15 Unable to determine memory usage properties for PID=3628
+07.02.2011 00:40:15 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:40:15 Factical execution time: 47 ms
+07.02.2011 00:40:15 Maximal memory usage: 3284 Kb
+07.02.2011 00:40:15 Successful termination
+07.02.2011 00:40:15 Checker result: JURY'S ERROR
+07.02.2011 00:40:15 Checker comments:
+* Облом * Отсутствует файл '48.a' (48.a)
+
+07.02.2011 00:40:15 Running on test 49
+07.02.2011 00:40:15 Unable to determine memory usage properties for PID=5912
+07.02.2011 00:40:15 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:40:15 Factical execution time: 78 ms
+07.02.2011 00:40:15 Maximal memory usage: 3628 Kb
+07.02.2011 00:40:15 Successful termination
+07.02.2011 00:40:15 Checker result: JURY'S ERROR
+07.02.2011 00:40:15 Checker comments:
+* Облом * Отсутствует файл '49.a' (49.a)
+
+07.02.2011 00:40:15 Running on test 50
+07.02.2011 00:40:15 Unable to determine memory usage properties for PID=4000
+07.02.2011 00:40:15 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:40:15 Factical execution time: 47 ms
+07.02.2011 00:40:15 Maximal memory usage: 3416 Kb
+07.02.2011 00:40:15 Successful termination
+07.02.2011 00:40:15 Checker result: JURY'S ERROR
+07.02.2011 00:40:15 Checker comments:
+* Облом * Отсутствует файл '50.a' (50.a)
+
+07.02.2011 00:40:15 Total maximal work time: 31,25000 ms
+07.02.2011 00:40:15 Total maximal memory usage: 3628 Kb
+
+
+07.02.2011 00:41:04 RUN 0.9alpha by Kitten Computing
+
+07.02.2011 00:41:04 Testing solution, in=a1.in, out=a1.out, ext=u, tl=100000000, ml=100000000
+
+07.02.2011 00:41:04 Running on test 01
+07.02.2011 00:41:04 Unable to determine memory usage properties for PID=5628
+07.02.2011 00:41:04 Unable to determine memory usage properties for PID=5628
+07.02.2011 00:41:04 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:41:04 Factical execution time: 218 ms
+07.02.2011 00:41:04 Successful termination
+07.02.2011 00:41:04 Checker result: JURY'S ERROR
+07.02.2011 00:41:04 Checker comments:
+* Облом * Отсутствует файл '01.a' (01.a)
+
+07.02.2011 00:41:04 Running on test 02
+07.02.2011 00:41:04 Unable to determine memory usage properties for PID=332
+07.02.2011 00:41:04 Unable to determine memory usage properties for PID=332
+07.02.2011 00:41:04 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:41:04 Factical execution time: 63 ms
+07.02.2011 00:41:04 Maximal memory usage: 3588 Kb
+07.02.2011 00:41:04 Successful termination
+07.02.2011 00:41:04 Checker result: JURY'S ERROR
+07.02.2011 00:41:04 Checker comments:
+* Облом * Отсутствует файл '02.a' (02.a)
+
+07.02.2011 00:41:04 Running on test 03
+07.02.2011 00:41:04 Unable to determine memory usage properties for PID=5732
+07.02.2011 00:41:04 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:41:04 Factical execution time: 31 ms
+07.02.2011 00:41:04 Maximal memory usage: 3240 Kb
+07.02.2011 00:41:04 Successful termination
+07.02.2011 00:41:04 Checker result: JURY'S ERROR
+07.02.2011 00:41:04 Checker comments:
+* Облом * Отсутствует файл '03.a' (03.a)
+
+07.02.2011 00:41:04 Running on test 04
+07.02.2011 00:41:04 Unable to determine memory usage properties for PID=4448
+07.02.2011 00:41:04 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:04 Factical execution time: 31 ms
+07.02.2011 00:41:04 Maximal memory usage: 3544 Kb
+07.02.2011 00:41:04 Successful termination
+07.02.2011 00:41:05 Checker result: JURY'S ERROR
+07.02.2011 00:41:05 Checker comments:
+* Облом * Отсутствует файл '04.a' (04.a)
+
+07.02.2011 00:41:05 Running on test 05
+07.02.2011 00:41:05 Unable to determine memory usage properties for PID=4460
+07.02.2011 00:41:05 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:05 Factical execution time: 47 ms
+07.02.2011 00:41:05 Maximal memory usage: 2992 Kb
+07.02.2011 00:41:05 Successful termination
+07.02.2011 00:41:05 Checker result: JURY'S ERROR
+07.02.2011 00:41:05 Checker comments:
+* Облом * Отсутствует файл '05.a' (05.a)
+
+07.02.2011 00:41:05 Running on test 06
+07.02.2011 00:41:05 Unable to determine memory usage properties for PID=5020
+07.02.2011 00:41:05 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:05 Factical execution time: 47 ms
+07.02.2011 00:41:05 Maximal memory usage: 3424 Kb
+07.02.2011 00:41:05 Successful termination
+07.02.2011 00:41:05 Checker result: JURY'S ERROR
+07.02.2011 00:41:05 Checker comments:
+* Облом * Отсутствует файл '06.a' (06.a)
+
+07.02.2011 00:41:05 Running on test 07
+07.02.2011 00:41:05 Unable to determine memory usage properties for PID=3400
+07.02.2011 00:41:05 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:41:05 Factical execution time: 32 ms
+07.02.2011 00:41:05 Maximal memory usage: 3460 Kb
+07.02.2011 00:41:05 Successful termination
+07.02.2011 00:41:05 Checker result: JURY'S ERROR
+07.02.2011 00:41:05 Checker comments:
+* Облом * Отсутствует файл '07.a' (07.a)
+
+07.02.2011 00:41:05 Running on test 08
+07.02.2011 00:41:05 Unable to determine memory usage properties for PID=5984
+07.02.2011 00:41:05 Unable to determine memory usage properties for PID=5984
+07.02.2011 00:41:05 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:05 Factical execution time: 47 ms
+07.02.2011 00:41:05 Maximal memory usage: 2484 Kb
+07.02.2011 00:41:05 Successful termination
+07.02.2011 00:41:05 Checker result: JURY'S ERROR
+07.02.2011 00:41:05 Checker comments:
+* Облом * Отсутствует файл '08.a' (08.a)
+
+07.02.2011 00:41:05 Running on test 09
+07.02.2011 00:41:05 Unable to determine memory usage properties for PID=3760
+07.02.2011 00:41:05 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:05 Factical execution time: 47 ms
+07.02.2011 00:41:05 Maximal memory usage: 3324 Kb
+07.02.2011 00:41:05 Successful termination
+07.02.2011 00:41:05 Checker result: JURY'S ERROR
+07.02.2011 00:41:05 Checker comments:
+* Облом * Отсутствует файл '09.a' (09.a)
+
+07.02.2011 00:41:05 Running on test 10
+07.02.2011 00:41:05 Unable to determine memory usage properties for PID=2136
+07.02.2011 00:41:05 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:41:05 Factical execution time: 469 ms
+07.02.2011 00:41:05 Maximal memory usage: 3604 Kb
+07.02.2011 00:41:05 Successful termination
+07.02.2011 00:41:05 Checker result: JURY'S ERROR
+07.02.2011 00:41:05 Checker comments:
+* Облом * Отсутствует файл '10.a' (10.a)
+
+07.02.2011 00:41:05 Running on test 11
+07.02.2011 00:41:05 Unable to determine memory usage properties for PID=4576
+07.02.2011 00:41:05 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:41:05 Factical execution time: 63 ms
+07.02.2011 00:41:05 Maximal memory usage: 3588 Kb
+07.02.2011 00:41:05 Successful termination
+07.02.2011 00:41:05 Checker result: JURY'S ERROR
+07.02.2011 00:41:05 Checker comments:
+* Облом * Отсутствует файл '11.a' (11.a)
+
+07.02.2011 00:41:05 Running on test 12
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=4612
+07.02.2011 00:41:06 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:06 Factical execution time: 47 ms
+07.02.2011 00:41:06 Maximal memory usage: 3528 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '12.a' (12.a)
+
+07.02.2011 00:41:06 Running on test 13
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=6048
+07.02.2011 00:41:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:41:06 Factical execution time: 47 ms
+07.02.2011 00:41:06 Maximal memory usage: 2716 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '13.a' (13.a)
+
+07.02.2011 00:41:06 Running on test 14
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=4240
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=4240
+07.02.2011 00:41:06 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:06 Factical execution time: 47 ms
+07.02.2011 00:41:06 Maximal memory usage: 1860 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '14.a' (14.a)
+
+07.02.2011 00:41:06 Running on test 15
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=3936
+07.02.2011 00:41:06 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:41:06 Factical execution time: 46 ms
+07.02.2011 00:41:06 Maximal memory usage: 3120 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '15.a' (15.a)
+
+07.02.2011 00:41:06 Running on test 16
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=3676
+07.02.2011 00:41:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:41:06 Factical execution time: 47 ms
+07.02.2011 00:41:06 Maximal memory usage: 3404 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '16.a' (16.a)
+
+07.02.2011 00:41:06 Running on test 17
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=5816
+07.02.2011 00:41:06 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:41:06 Factical execution time: 47 ms
+07.02.2011 00:41:06 Maximal memory usage: 3076 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '17.a' (17.a)
+
+07.02.2011 00:41:06 Running on test 18
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=3196
+07.02.2011 00:41:06 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:41:06 Factical execution time: 47 ms
+07.02.2011 00:41:06 Maximal memory usage: 3300 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '18.a' (18.a)
+
+07.02.2011 00:41:06 Running on test 19
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=5572
+07.02.2011 00:41:06 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:41:06 Factical execution time: 47 ms
+07.02.2011 00:41:06 Maximal memory usage: 3532 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '19.a' (19.a)
+
+07.02.2011 00:41:06 Running on test 20
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=2512
+07.02.2011 00:41:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:41:06 Factical execution time: 47 ms
+07.02.2011 00:41:06 Maximal memory usage: 3560 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '20.a' (20.a)
+
+07.02.2011 00:41:06 Running on test 21
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=4904
+07.02.2011 00:41:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:41:06 Factical execution time: 32 ms
+07.02.2011 00:41:06 Maximal memory usage: 3096 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '21.a' (21.a)
+
+07.02.2011 00:41:06 Running on test 22
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=5612
+07.02.2011 00:41:06 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:06 Factical execution time: 47 ms
+07.02.2011 00:41:06 Maximal memory usage: 2544 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '22.a' (22.a)
+
+07.02.2011 00:41:06 Running on test 23
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=3552
+07.02.2011 00:41:06 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:06 Factical execution time: 47 ms
+07.02.2011 00:41:06 Maximal memory usage: 3448 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '23.a' (23.a)
+
+07.02.2011 00:41:06 Running on test 24
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=4384
+07.02.2011 00:41:06 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+07.02.2011 00:41:06 Factical execution time: 46 ms
+07.02.2011 00:41:06 Maximal memory usage: 3560 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '24.a' (24.a)
+
+07.02.2011 00:41:06 Running on test 25
+07.02.2011 00:41:06 Unable to determine memory usage properties for PID=3272
+07.02.2011 00:41:06 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:06 Factical execution time: 31 ms
+07.02.2011 00:41:06 Maximal memory usage: 3560 Kb
+07.02.2011 00:41:06 Successful termination
+07.02.2011 00:41:06 Checker result: JURY'S ERROR
+07.02.2011 00:41:06 Checker comments:
+* Облом * Отсутствует файл '25.a' (25.a)
+
+07.02.2011 00:41:06 Running on test 26
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=5560
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=5560
+07.02.2011 00:41:07 Processor time used: system=46,87500 ms, user=0,00000 ms total=46,87500 ms.
+07.02.2011 00:41:07 Factical execution time: 47 ms
+07.02.2011 00:41:07 Maximal memory usage: 2572 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '26.a' (26.a)
+
+07.02.2011 00:41:07 Running on test 27
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=3284
+07.02.2011 00:41:07 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:41:07 Factical execution time: 63 ms
+07.02.2011 00:41:07 Maximal memory usage: 3048 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '27.a' (27.a)
+
+07.02.2011 00:41:07 Running on test 28
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=4388
+07.02.2011 00:41:07 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+07.02.2011 00:41:07 Factical execution time: 47 ms
+07.02.2011 00:41:07 Maximal memory usage: 2636 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '28.a' (28.a)
+
+07.02.2011 00:41:07 Running on test 29
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=3296
+07.02.2011 00:41:07 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:41:07 Factical execution time: 47 ms
+07.02.2011 00:41:07 Maximal memory usage: 2876 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '29.a' (29.a)
+
+07.02.2011 00:41:07 Running on test 30
+07.02.2011 00:41:07 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:07 Factical execution time: 32 ms
+07.02.2011 00:41:07 Maximal memory usage: 3624 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '30.a' (30.a)
+
+07.02.2011 00:41:07 Running on test 31
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=2492
+07.02.2011 00:41:07 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:07 Factical execution time: 47 ms
+07.02.2011 00:41:07 Maximal memory usage: 3192 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '31.a' (31.a)
+
+07.02.2011 00:41:07 Running on test 32
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=3064
+07.02.2011 00:41:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:41:07 Factical execution time: 31 ms
+07.02.2011 00:41:07 Maximal memory usage: 3416 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '32.a' (32.a)
+
+07.02.2011 00:41:07 Running on test 33
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=5356
+07.02.2011 00:41:07 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:07 Factical execution time: 47 ms
+07.02.2011 00:41:07 Maximal memory usage: 3436 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '33.a' (33.a)
+
+07.02.2011 00:41:07 Running on test 34
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=2964
+07.02.2011 00:41:07 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:07 Factical execution time: 31 ms
+07.02.2011 00:41:07 Maximal memory usage: 3532 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '34.a' (34.a)
+
+07.02.2011 00:41:07 Running on test 35
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=4640
+07.02.2011 00:41:07 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:07 Factical execution time: 47 ms
+07.02.2011 00:41:07 Maximal memory usage: 3492 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '35.a' (35.a)
+
+07.02.2011 00:41:07 Running on test 36
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=4164
+07.02.2011 00:41:07 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+07.02.2011 00:41:07 Factical execution time: 46 ms
+07.02.2011 00:41:07 Maximal memory usage: 3132 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '36.a' (36.a)
+
+07.02.2011 00:41:07 Running on test 37
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=4200
+07.02.2011 00:41:07 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:07 Factical execution time: 47 ms
+07.02.2011 00:41:07 Maximal memory usage: 3448 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '37.a' (37.a)
+
+07.02.2011 00:41:07 Running on test 38
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=5464
+07.02.2011 00:41:07 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:07 Factical execution time: 31 ms
+07.02.2011 00:41:07 Maximal memory usage: 3232 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '38.a' (38.a)
+
+07.02.2011 00:41:07 Running on test 39
+07.02.2011 00:41:07 Unable to determine memory usage properties for PID=3692
+07.02.2011 00:41:07 Processor time used: system=0,00000 ms, user=0,00000 ms total=0,00000 ms.
+07.02.2011 00:41:07 Factical execution time: 47 ms
+07.02.2011 00:41:07 Maximal memory usage: 3532 Kb
+07.02.2011 00:41:07 Successful termination
+07.02.2011 00:41:07 Checker result: JURY'S ERROR
+07.02.2011 00:41:07 Checker comments:
+* Облом * Отсутствует файл '39.a' (39.a)
+
+07.02.2011 00:41:07 Running on test 40
+07.02.2011 00:41:08 Unable to determine memory usage properties for PID=4468
+07.02.2011 00:41:08 Unable to determine memory usage properties for PID=4468
+07.02.2011 00:41:08 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:08 Factical execution time: 47 ms
+07.02.2011 00:41:08 Maximal memory usage: 2140 Kb
+07.02.2011 00:41:08 Successful termination
+07.02.2011 00:41:08 Checker result: JURY'S ERROR
+07.02.2011 00:41:08 Checker comments:
+* Облом * Отсутствует файл '40.a' (40.a)
+
+07.02.2011 00:41:08 Running on test 41
+07.02.2011 00:41:08 Unable to determine memory usage properties for PID=5776
+07.02.2011 00:41:08 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:08 Factical execution time: 47 ms
+07.02.2011 00:41:08 Maximal memory usage: 3076 Kb
+07.02.2011 00:41:08 Successful termination
+07.02.2011 00:41:08 Checker result: JURY'S ERROR
+07.02.2011 00:41:08 Checker comments:
+* Облом * Отсутствует файл '41.a' (41.a)
+
+07.02.2011 00:41:08 Running on test 42
+07.02.2011 00:41:08 Processor time used: system=31,25000 ms, user=0,00000 ms total=31,25000 ms.
+07.02.2011 00:41:08 Factical execution time: 47 ms
+07.02.2011 00:41:08 Maximal memory usage: 3636 Kb
+07.02.2011 00:41:08 Successful termination
+07.02.2011 00:41:08 Checker result: JURY'S ERROR
+07.02.2011 00:41:08 Checker comments:
+* Облом * Отсутствует файл '42.a' (42.a)
+
+07.02.2011 00:41:08 Running on test 43
+07.02.2011 00:41:08 Unable to determine memory usage properties for PID=508
+07.02.2011 00:41:08 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:08 Factical execution time: 46 ms
+07.02.2011 00:41:08 Maximal memory usage: 3220 Kb
+07.02.2011 00:41:08 Successful termination
+07.02.2011 00:41:08 Checker result: JURY'S ERROR
+07.02.2011 00:41:08 Checker comments:
+* Облом * Отсутствует файл '43.a' (43.a)
+
+07.02.2011 00:41:08 Running on test 44
+07.02.2011 00:41:08 Unable to determine memory usage properties for PID=5588
+07.02.2011 00:41:08 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:41:08 Factical execution time: 47 ms
+07.02.2011 00:41:08 Maximal memory usage: 2644 Kb
+07.02.2011 00:41:08 Successful termination
+07.02.2011 00:41:08 Checker result: JURY'S ERROR
+07.02.2011 00:41:08 Checker comments:
+* Облом * Отсутствует файл '44.a' (44.a)
+
+07.02.2011 00:41:08 Running on test 45
+07.02.2011 00:41:08 Unable to determine memory usage properties for PID=4532
+07.02.2011 00:41:08 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:08 Factical execution time: 47 ms
+07.02.2011 00:41:08 Maximal memory usage: 3036 Kb
+07.02.2011 00:41:08 Successful termination
+07.02.2011 00:41:08 Checker result: JURY'S ERROR
+07.02.2011 00:41:08 Checker comments:
+* Облом * Отсутствует файл '45.a' (45.a)
+
+07.02.2011 00:41:08 Running on test 46
+07.02.2011 00:41:08 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:41:08 Factical execution time: 32 ms
+07.02.2011 00:41:08 Maximal memory usage: 3604 Kb
+07.02.2011 00:41:08 Successful termination
+07.02.2011 00:41:08 Checker result: JURY'S ERROR
+07.02.2011 00:41:08 Checker comments:
+* Облом * Отсутствует файл '46.a' (46.a)
+
+07.02.2011 00:41:08 Running on test 47
+07.02.2011 00:41:08 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:08 Factical execution time: 47 ms
+07.02.2011 00:41:08 Maximal memory usage: 3608 Kb
+07.02.2011 00:41:08 Successful termination
+07.02.2011 00:41:08 Checker result: JURY'S ERROR
+07.02.2011 00:41:08 Checker comments:
+* Облом * Отсутствует файл '47.a' (47.a)
+
+07.02.2011 00:41:08 Running on test 48
+07.02.2011 00:41:08 Unable to determine memory usage properties for PID=3988
+07.02.2011 00:41:08 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:08 Factical execution time: 31 ms
+07.02.2011 00:41:08 Maximal memory usage: 3420 Kb
+07.02.2011 00:41:08 Successful termination
+07.02.2011 00:41:08 Checker result: JURY'S ERROR
+07.02.2011 00:41:08 Checker comments:
+* Облом * Отсутствует файл '48.a' (48.a)
+
+07.02.2011 00:41:08 Running on test 49
+07.02.2011 00:41:08 Unable to determine memory usage properties for PID=5824
+07.02.2011 00:41:08 Processor time used: system=15,62500 ms, user=0,00000 ms total=15,62500 ms.
+07.02.2011 00:41:08 Factical execution time: 47 ms
+07.02.2011 00:41:08 Maximal memory usage: 3640 Kb
+07.02.2011 00:41:08 Successful termination
+07.02.2011 00:41:08 Checker result: JURY'S ERROR
+07.02.2011 00:41:08 Checker comments:
+* Облом * Отсутствует файл '49.a' (49.a)
+
+07.02.2011 00:41:08 Running on test 50
+07.02.2011 00:41:08 Unable to determine memory usage properties for PID=2468
+07.02.2011 00:41:08 Unable to determine memory usage properties for PID=2468
+07.02.2011 00:41:08 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+07.02.2011 00:41:08 Factical execution time: 62 ms
+07.02.2011 00:41:08 Maximal memory usage: 3540 Kb
+07.02.2011 00:41:08 Successful termination
+07.02.2011 00:41:08 Checker result: JURY'S ERROR
+07.02.2011 00:41:08 Checker comments:
+* Облом * Отсутствует файл '50.a' (50.a)
+
+07.02.2011 00:41:08 Total maximal work time: 46,87500 ms
+07.02.2011 00:41:08 Total maximal memory usage: 3640 Kb
+

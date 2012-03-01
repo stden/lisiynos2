@@ -1,0 +1,177 @@
+
+21.09.2004 12:27:18 RUN 0.9alpha by Kitten Computing
+
+21.09.2004 12:27:18 Executable file successfully recompiled
+21.09.2004 12:27:18 Compiler output:
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+solution.dpr(18) 
+19 lines, 0.02 seconds, 11916 bytes code, 1869 bytes data.
+
+21.09.2004 12:27:18 Testing solution, in=f.in, out=f.out, ext=u, tl=100000000, ml=100000000
+
+21.09.2004 12:27:18 Running on test 01
+21.09.2004 12:27:18 Unable to determine memory usage properties for PID=1312
+21.09.2004 12:27:18 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:18 Factical execution time: 31 ms
+21.09.2004 12:27:18 Maximal memory usage: 376 Kb
+21.09.2004 12:27:18 Successful termination
+21.09.2004 12:27:18 Unable to copy output file f.out for test 01
+21.09.2004 12:27:18 Checker result: Presentation Error
+21.09.2004 12:27:18 Checker comments:
+* Формат в/в * Отсутствует файл 'f.out'
+
+21.09.2004 12:27:18 Running on test 02
+21.09.2004 12:27:18 Unable to determine memory usage properties for PID=1332
+21.09.2004 12:27:18 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:18 Factical execution time: 16 ms
+21.09.2004 12:27:18 Maximal memory usage: 376 Kb
+21.09.2004 12:27:18 Successful termination
+21.09.2004 12:27:18 Unable to copy output file f.out for test 02
+21.09.2004 12:27:18 Checker result: Presentation Error
+21.09.2004 12:27:18 Checker comments:
+* Формат в/в * Отсутствует файл 'f.out'
+
+21.09.2004 12:27:18 Running on test 03
+21.09.2004 12:27:18 Unable to determine memory usage properties for PID=500
+21.09.2004 12:27:18 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:18 Factical execution time: 15 ms
+21.09.2004 12:27:18 Maximal memory usage: 376 Kb
+21.09.2004 12:27:18 Successful termination
+21.09.2004 12:27:18 Unable to copy output file f.out for test 03
+21.09.2004 12:27:18 Checker result: Presentation Error
+21.09.2004 12:27:18 Checker comments:
+* Формат в/в * Отсутствует файл 'f.out'
+
+21.09.2004 12:27:18 Running on test 04
+21.09.2004 12:27:18 Unable to determine memory usage properties for PID=1792
+21.09.2004 12:27:18 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:18 Factical execution time: 16 ms
+21.09.2004 12:27:18 Maximal memory usage: 376 Kb
+21.09.2004 12:27:18 Successful termination
+21.09.2004 12:27:18 Unable to copy output file f.out for test 04
+21.09.2004 12:27:18 Checker result: Presentation Error
+21.09.2004 12:27:18 Checker comments:
+* Формат в/в * Отсутствует файл 'f.out'
+
+21.09.2004 12:27:18 Running on test 05
+21.09.2004 12:27:18 Unable to determine memory usage properties for PID=664
+21.09.2004 12:27:18 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:18 Factical execution time: 16 ms
+21.09.2004 12:27:18 Maximal memory usage: 376 Kb
+21.09.2004 12:27:18 Successful termination
+21.09.2004 12:27:18 Unable to copy output file f.out for test 05
+21.09.2004 12:27:18 Checker result: Presentation Error
+21.09.2004 12:27:18 Checker comments:
+* Формат в/в * Отсутствует файл 'f.out'
+
+21.09.2004 12:27:18 Running on test 06
+21.09.2004 12:27:18 Unable to determine memory usage properties for PID=1804
+21.09.2004 12:27:18 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:18 Factical execution time: 16 ms
+21.09.2004 12:27:18 Maximal memory usage: 376 Kb
+21.09.2004 12:27:18 Successful termination
+21.09.2004 12:27:18 Unable to copy output file f.out for test 06
+21.09.2004 12:27:18 Checker result: Presentation Error
+21.09.2004 12:27:18 Checker comments:
+* Формат в/в * Отсутствует файл 'f.out'
+
+21.09.2004 12:27:18 Running on test 07
+21.09.2004 12:27:18 Unable to determine memory usage properties for PID=1240
+21.09.2004 12:27:18 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:18 Factical execution time: 15 ms
+21.09.2004 12:27:18 Maximal memory usage: 376 Kb
+21.09.2004 12:27:18 Successful termination
+21.09.2004 12:27:18 Unable to copy output file f.out for test 07
+21.09.2004 12:27:18 Checker result: Presentation Error
+21.09.2004 12:27:18 Checker comments:
+* Формат в/в * Отсутствует файл 'f.out'
+
+21.09.2004 12:27:18 Total maximal work time: 15,62500 ms
+21.09.2004 12:27:18 Total maximal memory usage: 376 Kb
+
+
+21.09.2004 12:27:33 RUN 0.9alpha by Kitten Computing
+
+21.09.2004 12:27:33 Executable file successfully recompiled
+21.09.2004 12:27:33 Compiler output:
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+solution.dpr(18) 
+19 lines, 0.02 seconds, 11916 bytes code, 1869 bytes data.
+
+21.09.2004 12:27:33 Testing solution, in=f.in, out=f.out, ext=u, tl=100000000, ml=100000000
+
+21.09.2004 12:27:33 Running on test 01
+21.09.2004 12:27:33 Unable to determine memory usage properties for PID=1848
+21.09.2004 12:27:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:33 Factical execution time: 32 ms
+21.09.2004 12:27:33 Maximal memory usage: 376 Kb
+21.09.2004 12:27:33 Successful termination
+21.09.2004 12:27:33 Checker result: Accepted
+21.09.2004 12:27:33 Checker comments:
+* ok * 
+
+21.09.2004 12:27:33 Running on test 02
+21.09.2004 12:27:34 Unable to determine memory usage properties for PID=1328
+21.09.2004 12:27:34 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:34 Factical execution time: 16 ms
+21.09.2004 12:27:34 Maximal memory usage: 376 Kb
+21.09.2004 12:27:34 Successful termination
+21.09.2004 12:27:34 Checker result: Accepted
+21.09.2004 12:27:34 Checker comments:
+* ok * 
+
+21.09.2004 12:27:34 Running on test 03
+21.09.2004 12:27:34 Unable to determine memory usage properties for PID=988
+21.09.2004 12:27:34 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:34 Factical execution time: 16 ms
+21.09.2004 12:27:34 Maximal memory usage: 376 Kb
+21.09.2004 12:27:34 Successful termination
+21.09.2004 12:27:34 Checker result: Accepted
+21.09.2004 12:27:34 Checker comments:
+* ok * 
+
+21.09.2004 12:27:34 Running on test 04
+21.09.2004 12:27:34 Unable to determine memory usage properties for PID=1992
+21.09.2004 12:27:34 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:34 Factical execution time: 15 ms
+21.09.2004 12:27:34 Maximal memory usage: 376 Kb
+21.09.2004 12:27:34 Successful termination
+21.09.2004 12:27:34 Checker result: Accepted
+21.09.2004 12:27:34 Checker comments:
+* ok * 
+
+21.09.2004 12:27:34 Running on test 05
+21.09.2004 12:27:34 Unable to determine memory usage properties for PID=1444
+21.09.2004 12:27:34 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:34 Factical execution time: 32 ms
+21.09.2004 12:27:34 Maximal memory usage: 376 Kb
+21.09.2004 12:27:34 Successful termination
+21.09.2004 12:27:34 Checker result: Accepted
+21.09.2004 12:27:34 Checker comments:
+* ok * 
+
+21.09.2004 12:27:34 Running on test 06
+21.09.2004 12:27:34 Unable to determine memory usage properties for PID=348
+21.09.2004 12:27:34 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+21.09.2004 12:27:34 Factical execution time: 15 ms
+21.09.2004 12:27:34 Maximal memory usage: 376 Kb
+21.09.2004 12:27:34 Successful termination
+21.09.2004 12:27:34 Checker result: Accepted
+21.09.2004 12:27:34 Checker comments:
+* ok * 
+
+21.09.2004 12:27:34 Running on test 07
+21.09.2004 12:27:34 Unable to determine memory usage properties for PID=1276
+21.09.2004 12:27:34 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+21.09.2004 12:27:34 Factical execution time: 31 ms
+21.09.2004 12:27:34 Maximal memory usage: 556 Kb
+21.09.2004 12:27:34 Successful termination
+21.09.2004 12:27:34 Checker result: Accepted
+21.09.2004 12:27:34 Checker comments:
+* ok * 
+
+21.09.2004 12:27:34 Total maximal work time: 31,25000 ms
+21.09.2004 12:27:34 Total maximal memory usage: 556 Kb
+

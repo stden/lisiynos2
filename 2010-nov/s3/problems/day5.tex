@@ -1,0 +1,36 @@
+\documentclass[11pt,a4paper,oneside,landscape,twocolumn]{article}
+
+\usepackage[T2A]{fontenc}
+\usepackage[cp1251]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage[russian,landscape]{olymp2}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb}
+%\usepackage{expdlist}
+%\usepackage{textpos}
+
+\contest{%
+Образовательная сессия по Информатике%
+}{%
+Лисий Нос%
+}{%
+25 ноября 2010 года, День 05%
+}%
+
+\renewcommand{\t}{\texttt}
+\renewcommand{\leqslant}{\le}
+
+\binoppenalty=10000
+\relpenalty=10000
+\exhyphenpenalty=10000
+
+\begin{document}
+
+\raggedbottom
+\input docs/docs.tex
+\input floor4/floor4.tex
+\input rvq/rvq.tex
+\input tree/tree.tex
+\pagebreak
+
+\end{document}

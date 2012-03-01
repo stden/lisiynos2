@@ -1,0 +1,65 @@
+htfcss: cmbsy font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+htfcss: cmmi font-style: italic;
+htfcss: cmmib font-style: italic; font-weight: bold;
+File: list.4oo
+File: list.tmp
+File: list-settings.4os
+File: list-styles.4oy
+File: list-manifest.4of
+File: list-meta.4ot
+File: list-m2.4om
+File: list-m3.4om
+File: list-m4.4om
+File: list-m5.4om
+File: list-m6.4om
+File: list-m7.4om
+File: list-m8.4om
+File: list-m9.4om
+File: list-m10.4om
+File: list-m11.4om
+File: list-m12.4om
+File: list-m13.4om
+File: list-m14.4om
+File: list-m15.4om
+File: list-m16.4om
+File: list-m17.4om
+File: list-m18.4om
+File: list-m19.4om
+File: list-m20.4om
+File: list-m21.4om
+File: list-m22.4om
+File: list-m23.4om
+File: list-m24.4om
+File: list-m25.4om
+File: list-m26.4om
+File: list-m27.4om
+File: list-m28.4om
+File: list-m29.4om
+File: list-m30.4om
+File: list.4od
+File: list.odt
+--- characters ---
+Font("cmex","10","10","100")
+Font("cmr","5","5","100")
+Font("cmr","7","7","100")
+Font("cmr","10","10","100")
+Font("cmmi","5","5","100")
+Font("cmmi","7","7","100")
+Font("cmmi","10","10","100")
+Font("cmsy","5","5","100")
+Font("cmsy","7","7","100")
+Font("cmsy","10","10","100")
+Font("larm","1000","10","100")
+Font("cmbsy","10","10","100")
+Font("cmbsy","7","7","100")
+Font("cmbsy","5","5","100")
+Font("cmex","7","7","100")
+Font("cmex","7","7","71")
+Font("msam","10","10","100")
+Font("msam","7","7","100")
+Font("msam","5","5","100")
+Font("msbm","10","10","100")
+Font("msbm","7","7","100")
+Font("msbm","5","5","100")

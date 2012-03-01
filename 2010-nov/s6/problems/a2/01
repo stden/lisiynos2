@@ -1,0 +1,6 @@
+begin
+for i:=1 to 10 do 
+read(A[i]);
+for i:=1 to 10 do 
+writeln(A[i]);
+end.

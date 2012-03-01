@@ -1,0 +1,38 @@
+Program treyg;
+var d,x,y,k:longint;
+    q:real;
+begin
+assign(input,'e1.in');
+reset(input);
+assign(output,'e1.out');
+rewrite(output);
+d:=0;
+x:=0;
+y:=0;
+k:=0;
+q:=0;
+readln(d);
+readln(x,y);
+if ((x>=0) and (y>=0)) then
+ begin
+ if x+y<=d then k:=0;
+ if x+y>d then
+  begin
+  if x>=y then k:=2
+   else k:=3;
+  end;
+ end;
+q:=d/2;
+if ((x<=0) and (y<=0)) then k:=1;
+if ((x<0) and (y>0)) then
+ begin
+ if y>q then k:=3
+  else k:=1;
+ end;
+if ((x>0) and (y<0)) then
+ begin
+ if x>q then k:=2
+  else k:=1;
+ end;
+write(k);
+end.

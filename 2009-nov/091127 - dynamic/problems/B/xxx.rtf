@@ -1,0 +1,56 @@
+{\rtf1\ansi {\fonttbl
+{\f0\fcharset1 \fnil Times New Roman;}
+{\f1\fcharset1 Courier New;}
+}
+{\colortbl
+\red0\green0\blue0;
+\red0\green128\blue0;
+\red128\green0\blue0;
+}
+
+{\plain 
+{\f1 {\fs20 
+{\cf0 {\f1 {\fs20 
+{\b 
+{\cf0 function}}}} F( i:integer ):Int64;{\line 
+}{\f1 {\fs20 
+{\b 
+{\cf0 begin}}}}{\line 
+}{\f1 {\fs20 
+{\cf0   }}}{\b 
+case} i {\b 
+of}{\line 
+}{\f1 {\fs20 
+{\cf0     }}}{\cf1 1}{\cf0 : F := }{\cf1 1}{\cf0 ;}{\line 
+}{\f1 {\fs20 
+{\cf0     }}}{\cf1 2}{\cf0 : F := }{\cf1 1}{\cf0 ;}{\line 
+}{\f1 {\fs20 
+{\cf0   }}}{\b 
+else}{\line 
+}{\f1 {\fs20 
+{\cf0     F := F(i-}}}{\cf1 1}{\cf0 ) + F(i-}{\cf1 2}{\cf0 );}{\line 
+}{\f1 {\fs20 
+{\cf0   }}}{\b 
+end};{\line 
+}{\f1 {\fs20 
+{\b 
+{\cf0 end}}}};{\line 
+}{\line 
+}{\f1 {\fs20 
+{\b 
+{\cf0 Var}}}} N : Integer;{\line 
+}{\f1 {\fs20 
+{\b 
+{\cf0 Begin}}}}{\line 
+}{\f1 {\fs20 
+{\cf0   Assign(Input,}}}{\cf2 'b.in'}{\cf0 ); Reset(Input);}{\line 
+}{\f1 {\fs20 
+{\cf0   Assign(Output,}}}{\cf2 'b.out'}{\cf0 ); Rewrite(Output);}{\line 
+}{\f1 {\fs20 
+{\cf0   }}}{\b 
+Read}(N);{\line 
+}{\f1 {\fs20 
+{\cf0   Writeln(F(N));}}}{\line 
+}{\f1 {\fs20 
+{\b 
+{\cf0 End}}}}.}}}}}

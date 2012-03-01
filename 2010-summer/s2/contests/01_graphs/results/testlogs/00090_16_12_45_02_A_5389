@@ -1,0 +1,18 @@
+TESTING=90
+CREATED=12.07.2010 16:12:45
+COMPILERES=1
+COMPILECOMM=@#$
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+A.PAS(19)
+19 lines, 2656 bytes code, 20686 bytes data.
+
+$#@
+TESTID=1
+TESTRES=3
+TESTSCORE=0
+TESTCOMM=@#$
+Wrong number
+
+$#@
+COMPLETE=12.07.2010 16:12:46
+TOTAL=0

@@ -1,0 +1,12 @@
+ren 4_5.TST 05
+ren 4_6.TST 06
+ren 4_7.TST 07
+ren 4_8.TST 08
+ren 4_9.TST 09
+ren 4_10.TST 10
+ren ?_5.ANS 05.a
+ren ?_6.ANS 06.a
+ren ?_7.ANS 07.a
+ren ?_8.ANS 08.a
+ren ?_9.ANS 09.a
+ren ?_10.ANS 10.a

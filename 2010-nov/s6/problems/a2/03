@@ -1,0 +1,6 @@
+if Column1 > 10 then
+  DrawGridCheckBox(
+    DBGrid1.Canvas,Rect, true)
+else
+  DrawGridCheckBox(
+    DBGrid1.Canvas,Rect, false);

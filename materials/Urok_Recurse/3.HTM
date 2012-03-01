@@ -1,0 +1,640 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="3.files/filelist.xml">
+<link rel=Edit-Time-Data href="3.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Примеры и задачи на рекурсию</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="metricconverter"/>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>105</w:Zoom>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h2
+	{margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-style:italic;}
+p.MsoBodyTextIndent2, li.MsoBodyTextIndent2, div.MsoBodyTextIndent2
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:54.0pt;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoBodyTextIndent3, li.MsoBodyTextIndent3, div.MsoBodyTextIndent3
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:53.4pt;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+A {color:#0080CC;}
+A:hover {color:#0000FF;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+p.normal, li.normal, div.normal
+	{mso-style-name:normal;
+	margin-top:5.0pt;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Обычная таблица";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3074"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=RU link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=0 cellpadding=0 style='mso-cellspacing:1.5pt;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width="6%" style='width:6.0%;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="90%" style='width:90.0%;padding:.75pt .75pt .75pt .75pt'>
+  <h2 style='margin-left:18.0pt'><span style='font-style:normal'>Примеры и
+  задачи на тему «Рекурсия»</span></h2>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>&nbsp;</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>Задача
+  1.</b> <i>Написать программу, выводящую на экран стихотворение «Десять
+  негритят».</i></p>
+  <p class=MsoNormal style='margin-top:6.0pt;text-indent:19.85pt'><b><u>Программа
+  1.1</u> (</b><b><span lang=EN-US style='mso-ansi-language:EN-US'>QBasic</span>):</b></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'><span
+  lang=EN-US style='mso-ansi-language:EN-US'>SUB</span><span lang=EN-US> </span><span
+  lang=EN-US style='mso-ansi-language:EN-US'>Negr</span> (<span lang=EN-US
+  style='mso-ansi-language:EN-US'>k</span>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‘<span lang=EN-US style='mso-ansi-language:EN-US'>k</span> - число негритят,
+  параметр процедуры</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:36.0pt;text-indent:19.85pt'><span
+  lang=EN-US style='mso-ansi-language:EN-US'>IF</span><span lang=EN-US> </span><span
+  lang=EN-US style='mso-ansi-language:EN-US'>k</span> = 0 <span lang=EN-US
+  style='mso-ansi-language:EN-US'>THEN</span><b> &nbsp;&nbsp;&nbsp; </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‘проверка, что число негритят равно нулю</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:36.0pt;text-indent:19.85pt'><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </b><span lang=EN-US style='mso-ansi-language:EN-US'>PRINT</span><b> “</b>Нет
+  больше негритят!” </p>
+  <p class=MsoBodyTextIndent2 style='margin-left:36.0pt;text-indent:19.85pt'><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </b><span lang=EN-US style='mso-ansi-language:EN-US'>EXIT</span><span
+  lang=EN-US> </span><span lang=EN-US style='mso-ansi-language:EN-US'>SUB</span><b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </b>‘выход из рекурсии</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:36.0pt;text-indent:19.85pt'><span
+  lang=EN-US style='mso-ansi-language:EN-US'>END</span><span lang=EN-US> </span><span
+  lang=EN-US style='mso-ansi-language:EN-US'>IF</span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span lang=EN-US style='mso-ansi-language:EN-US'>PRINT</span><b><span
+  lang=EN-US> </span></b>k;<b> “</b> негритят пошли купаться в море,”</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span lang=EN-US style='mso-ansi-language:EN-US'>PRINT</span><b><span
+  lang=EN-US> </span></b>k;<b> </b>&nbsp;“ негритят резвились на просторе.”</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span lang=EN-US style='mso-ansi-language:EN-US'>PRINT</span><b><span
+  lang=EN-US> </span></b>“Один и них пропал - и вот вам результат:”</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span lang=EN-US style='mso-ansi-language:EN-US'>PRINT</span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>&nbsp;&nbsp;&nbsp;&nbsp;
+  <span lang=EN-US style='mso-ansi-language:EN-US'>CALL</span><span lang=EN-US>
+  </span><span lang=EN-US style='mso-ansi-language:EN-US'>Negr</span> (<span
+  lang=EN-US style='mso-ansi-language:EN-US'>k</span>-1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‘Вызов процедуры с параметром <span lang=EN-US style='mso-ansi-language:EN-US'>k</span>
+  на единицу меньше</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'><span
+  lang=EN-US style='mso-ansi-language:EN-US'>END</span><span lang=EN-US> </span><span
+  lang=EN-US style='mso-ansi-language:EN-US'>SUB</span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>&nbsp;</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'><span
+  lang=EN-US style='mso-ansi-language:EN-US'>CALL</span><span lang=EN-US> </span><span
+  lang=EN-US style='mso-ansi-language:EN-US'>Negr</span>
+  (10)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‘Вызов рекурсивной процедуры в головной программе</p>
+  <p class=MsoNormal style='margin-top:6.0pt;text-indent:19.85pt'><b><u>Программа
+  1.2</u> (</b><b><span lang=EN-US style='mso-ansi-language:EN-US'>Pascal</span>):</b></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Procedure</span><span lang=EN-US> </span><span
+  lang=EN-US style='mso-ansi-language:EN-US'>Negr</span>(<span lang=EN-US
+  style='mso-ansi-language:EN-US'>k</span>: <span lang=EN-US style='mso-ansi-language:
+  EN-US'>integer</span>);&nbsp;&nbsp; {<span lang=EN-US style='mso-ansi-language:
+  EN-US'>k</span> - число негритят, параметр процедуры}</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Begin</span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:36.0pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>If</span><span lang=EN-US> </span><span
+  lang=EN-US style='mso-ansi-language:EN-US'>k</span>=0 {проверка, что число
+  негритят равно нулю}</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:36.0pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>then</span> &nbsp;&nbsp;&nbsp; <span
+  lang=EN-US style='mso-ansi-language:EN-US'>Writeln</span>('Нет больше
+  негритят!') {выход из рекурсии }</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:36.0pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>else</span><span lang=EN-US> </span><span
+  lang=EN-US style='mso-ansi-language:EN-US'>begin</span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Writeln(k,' негритят пошли купаться в море,');</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Writeln(k,' негритят резвились на просторе,');</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Writeln('Один и них пропал - и вот вам результат:');</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span lang=EN-US style='mso-ansi-language:EN-US'>Negr</span>(<span
+  lang=EN-US style='mso-ansi-language:EN-US'>k</span>-1); {Вызов процедуры с
+  уменьшенным на 1 параметром}</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span lang=EN-US style='mso-ansi-language:EN-US'>end</span><span lang=EN-US> </span>&nbsp;</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>End</span>;</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm'>Вызов этой процедуры в
+  основной программе будет выглядеть так: <span lang=EN-US style='mso-ansi-language:
+  EN-US'>Negr</span>(10). </p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>&nbsp;</b></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>Задача&nbsp;2</b><i>.&nbsp;Написать
+  программу, демонстрирующую открывающуюся и закрывающуюся матрешку (половинки
+  эллипсов, &nbsp;см. рис.1).</i></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><i>В данной
+  рекурсивной процедуре удобно завести два параметра: </i><i><span lang=EN-US
+  style='mso-ansi-language:EN-US'>n</span> – количество вложений в матрешке и </i><i><span
+  lang=EN-US style='mso-ansi-language:EN-US'>r</span> – радиус эллипса.</i></p>
+  <p class=MsoNormal style='margin-top:6.0pt;text-indent:19.85pt'><!--[if gte vml 1]><v:shapetype
+   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t75" alt="" style='position:absolute;
+   left:0;text-align:left;margin-left:0;margin-top:0;width:75pt;height:165pt;
+   z-index:1;mso-wrap-distance-left:0;mso-wrap-distance-right:0;
+   mso-position-horizontal:left;mso-position-vertical-relative:line'
+   o:allowoverlap="f">
+   <v:imagedata src="3.files/image001.gif"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=100 height=220
+  src="3.files/image001.gif" align=left v:shapes="_x0000_s1026"><![endif]><b><u>Программа
+  2</u> (QBasic):</b></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'><span lang=EN-US style='mso-ansi-language:EN-US'>SCREEN</span><span
+  lang=EN-US> </span>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‘инициализация графического режима</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'><span
+  lang=EN-US style='mso-ansi-language:EN-US'>CALL</span><span lang=EN-US> </span><span
+  lang=EN-US style='mso-ansi-language:EN-US'>p</span> (5,
+  100)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‘обращение из головной программы к</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>‘рекурсивной
+  процедуре для 5 вложенных матрешек</p>
+  <p class=MsoNormal style='text-indent:19.85pt'>‘Рекурсивная процедура,
+  рисующая матрешку</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'><span lang=EN-US style='mso-ansi-language:EN-US'>SUB p
+  (n, r) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'><span lang=EN-US style='mso-ansi-language:EN-US'>&nbsp;&nbsp;&nbsp;&nbsp;
+  IF n = 1 THEN EXIT
+  SUB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‘</span>выход<span style='mso-ansi-language:EN-US'> </span>из<span
+  style='mso-ansi-language:EN-US'> </span>рекурсии<span lang=EN-US
+  style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'><span lang=EN-US style='mso-ansi-language:EN-US'>&nbsp;&nbsp;&nbsp;&nbsp;
+  CIRCLE</span> (320, 240), <span lang=EN-US style='mso-ansi-language:EN-US'>r</span>,
+  7, 3.14, 6.28, 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‘открываем матрешку</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'>&nbsp;&nbsp;&nbsp;&nbsp; <span lang=EN-US
+  style='mso-ansi-language:EN-US'>SLEEP</span>
+  1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‘задержка</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'>&nbsp;&nbsp;&nbsp;&nbsp; <span lang=EN-US
+  style='mso-ansi-language:EN-US'>CALL</span><span lang=EN-US> </span><span
+  lang=EN-US style='mso-ansi-language:EN-US'>p</span> (<span lang=EN-US
+  style='mso-ansi-language:EN-US'>n</span><span lang=EN-US> </span>- 1, <span
+  lang=EN-US style='mso-ansi-language:EN-US'>r</span> / 2)‘вызов процедуры для
+  следующей матрешки</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'>&nbsp;&nbsp;&nbsp;&nbsp; <span lang=EN-US
+  style='mso-ansi-language:EN-US'>CIRCLE</span> (320, 240), <span lang=EN-US
+  style='mso-ansi-language:EN-US'>r</span>, , 0, 3.14,
+  3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‘закрываем матрешку</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'>&nbsp;&nbsp;&nbsp;&nbsp; <span lang=EN-US
+  style='mso-ansi-language:EN-US'>SLEEP</span>
+  1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ‘задержка</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'><span lang=EN-US style='mso-ansi-language:EN-US'>END</span><span
+  lang=EN-US> </span><span lang=EN-US style='mso-ansi-language:EN-US'>SUB</span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:0cm;text-indent:19.85pt'>&nbsp;</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>Задача
+  3.</b> <i>Найти факториал числа. </i><i><span lang=EN-US style='mso-ansi-language:
+  EN-US'>N</span>!=1*2*3*4*…</i><i><span lang=EN-US style='mso-ansi-language:
+  EN-US'>N</span>. Написать для &nbsp;этого рекурсивную функцию.</i></p>
+  <p class=MsoNormal style='margin-top:6.0pt;text-indent:19.85pt'><b><u>Программа</u></b><b><u><span
+  lang=EN-US style='mso-ansi-language:EN-US'> 3</span></u></b><b><span
+  lang=EN-US style='mso-ansi-language:EN-US'> (QBasic):</span></b><span
+  lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>INPUT “N = ”; N&nbsp; <o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>PRINT N; “! = ”; F(N)&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>&nbsp; FUNCTION F(K)<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>&nbsp;&nbsp;&nbsp;&nbsp; IF K=1 THEN F=1:
+  EXIT FUNCTION<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F = F (K-1)*K<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>&nbsp; END FUNCTION<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><span
+  lang=EN-US style='mso-ansi-language:EN-US'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>Задача
+  4.</b> <i>На входном потоке находится слово (последовательность литер),
+  заканчивающаяся пробелом. Написать программу, которая позволит напечатать это
+  слово &quot;задом наперед&quot;, т.е. выписывая буквы слова с конца. </i></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><i>В данной
+  задаче рекурсивная процедура не будет иметь параметров, т.к. при каждом ее
+  вызове будет вводиться одна литера и сравниваться с пробелом. Сама же
+  программа будет состоять только из вызова этой процедуры.</i></p>
+  <p class=MsoNormal style='margin-top:6.0pt;text-indent:19.85pt'><b><u>Программа</u></b><b><u><span
+  lang=EN-US style='mso-ansi-language:EN-US'> 4</span></u></b><b><span
+  lang=EN-US style='mso-ansi-language:EN-US'> (Pascal):</span></b><span
+  lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Program REVERSE;<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Procedure REV;<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Var c:char;<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>&nbsp;&nbsp;&nbsp;&nbsp; Begin read(c);<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  If c&lt;&gt;' '<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Then begin REV; write(c) end<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>&nbsp;&nbsp;&nbsp;&nbsp; End;<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>BEGIN REV<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>END.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b><span
+  lang=EN-US style='mso-ansi-language:EN-US'>&nbsp;</span></b><span lang=EN-US
+  style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><b>Задача</b><b><span
+  lang=EN-US style='mso-ansi-language:EN-US'> 5.</span></b><i><span lang=EN-US
+  style='mso-ansi-language:EN-US'> </span>Написать программу, которая переводит
+  числа из десятичной системы счисления в двоичную.</i></p>
+  <p class=MsoNormal style='margin-top:6.0pt;text-indent:19.85pt'><b><u>Программа</u></b><b><u><span
+  lang=EN-US style='mso-ansi-language:EN-US'> 5</span></u></b><b><span
+  lang=EN-US style='mso-ansi-language:EN-US'> (Pascal):</span></b><span
+  lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Var n:integer;<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Procedure PER(n:integer);<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:35.4pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Begin<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:35.4pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>&nbsp; If n=1 Then begin Write('1'); Exit
+  end;<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:35.4pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>&nbsp; PER(n div 2);<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:35.4pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>&nbsp; Write(n mod 2);<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:35.4pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>End;<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Begin<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:35.4pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>Write ('n= '); Readln(n);<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-left:35.4pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>PER</span>(<span lang=EN-US style='mso-ansi-language:
+  EN-US'>n</span>);</p>
+  <p class=MsoBodyTextIndent2 style='margin-left:19.85pt'><span lang=EN-US
+  style='mso-ansi-language:EN-US'>End</span>.</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>&nbsp;</b></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>Задача 6</b>.
+  <b>«Ханойские башни». </b></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><i>В центре
+  мира в землю вбиты 3 алмазных&nbsp; шпиля. На одном из них 64 золотых диска
+  убывающих&nbsp; радиусов (самый большой – нижний). Буддийские монахи день и
+  ночь переносят диски с одного шпиля на другой. </i></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><i>Правила:
+  переносить только по одному диску и нельзя больший класть на&nbsp; меньший.</i></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><i>Когда
+  все диски перенесут, наступит конец света. (Задачу и рассказ придумал французский
+  математик Люка в 1883 году.)</i></p>
+  <p class=MsoBodyTextIndent3 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'><!--[if gte vml 1]><v:shape id="_x0000_s1028" type="#_x0000_t75"
+   style='position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;
+   width:264.4pt;height:202.45pt;z-index:2;mso-position-horizontal:left;
+   mso-position-vertical:top;mso-position-vertical-relative:line'
+   o:allowoverlap="f">
+   <v:imagedata src="3.files/image002.jpg" o:title="hanoi"/>
+   <w:wrap type="square"/>
+  </v:shape><![endif]--><![if !vml]><img width=353 height=270
+  src="3.files/image003.jpg" align=left hspace=12 v:shapes="_x0000_s1028"><![endif]><i>Обозначим
+  для определенности шпили (или стержни) как</i> <b><span lang=EN-US
+  style='mso-ansi-language:EN-US'>A</span></b>, <b><span lang=EN-US
+  style='mso-ansi-language:EN-US'>B</span></b>, <b><span lang=EN-US
+  style='mso-ansi-language:EN-US'>C</span><span lang=EN-US> </span></b>(<i>или</i>
+  1, 2, 3). <i>По условию задачи надо перенести </i><span lang=EN-US
+  style='mso-ansi-language:EN-US'>N</span><span lang=EN-US> </span><i>дисков с</i>
+  <b>A</b> <i>на</i> <b><span lang=EN-US style='mso-ansi-language:EN-US'>B</span></b>,
+  <i>используя промежуточный стержень</i> <b><span lang=EN-US style='mso-ansi-language:
+  EN-US'>C</span></b>. <i>Если</i> <span lang=EN-US style='mso-ansi-language:
+  EN-US'>N</span>=1, <i>то все просто (перекладываем диск с</i> <b>A</b> <i>на</i>
+  <b><span lang=EN-US style='mso-ansi-language:EN-US'>B</span></b><i>)</i> <i>и
+  заканчиваем процедуру переноса. Иначе (если</i> <span lang=EN-US
+  style='mso-ansi-language:EN-US'>N</span>&gt;1<i>), переложим сначала</i> <span
+  lang=EN-US style='mso-ansi-language:EN-US'>N</span>-1 <i>дисков с</i> <b><span
+  lang=EN-US style='mso-ansi-language:EN-US'>A</span></b><span lang=EN-US> </span><i>на</i>
+  <b><span lang=EN-US style='mso-ansi-language:EN-US'>C</span></b><span
+  lang=EN-US> </span><i>(используя</i> <b><span lang=EN-US style='mso-ansi-language:
+  EN-US'>B</span></b><span lang=EN-US> </span><i>в</i> <i>качестве
+  промежуточного стержня), затем перекладываем</i> 1 <i>диск (самый большой) с</i>
+  <b><span lang=EN-US style='mso-ansi-language:EN-US'>A</span></b><span
+  lang=EN-US> </span><i>на</i> <b><span lang=EN-US style='mso-ansi-language:
+  EN-US'>B</span></b><span lang=EN-US> </span><i>и, наконец, переносим</i> <span
+  lang=EN-US style='mso-ansi-language:EN-US'>N</span>-1 <i>диск</i> <i>с</i> <b>C</b>
+  <i>на</i> <b><span lang=EN-US style='mso-ansi-language:EN-US'>B</span></b><span
+  lang=EN-US> </span><i>(используя стержень</i> <b><span lang=EN-US
+  style='mso-ansi-language:EN-US'>A</span></b><i>).</i></p>
+  <p class=MsoBodyTextIndent3 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'><i>Используя метод математической индукции и
+  вышеуказанный алгоритм легко</i> <i>доказать, что необходимо совершить</i> 2<sup><span
+  lang=EN-US style='mso-ansi-language:EN-US'>N</span></sup> –1 <i>действий.
+  Если тратить на каждое действие по одной секунде, то посчитайте, сколько
+  (миллиардов) лет понадобится легендарным жрецам, чтобы исполнить свою работу.
+  </i></p>
+  <p class=MsoBodyTextIndent3 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'><span lang=EN-US style='mso-ansi-language:EN-US'>&nbsp;<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent3 style='margin-left:0cm;text-align:justify;
+  text-indent:19.85pt'><b><u>Программа</u></b><b><u><span lang=EN-US
+  style='mso-ansi-language:EN-US'> 6</span></u></b><b><span lang=EN-US
+  style='mso-ansi-language:EN-US'> (QBasic):</span></b><span lang=EN-US
+  style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoPlainText style='text-indent:19.85pt'><span lang=EN-US
+  style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>SUB
+  <st1:place w:st="on"><st1:City w:st="on">hanoi</st1:City></st1:place> (n, A,
+  B, C)</span><span lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoPlainText style='text-indent:1.0cm'><span lang=EN-US
+  style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>IF
+  n = 1 THEN</span><span lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoPlainText style='margin-left:1.0cm;text-indent:1.0cm'><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:
+  EN-US'>PRINT A; &quot;</span><span lang=EN-US style='font-size:12.0pt;
+  font-family:Symbol;mso-ansi-language:EN-US'>®</span><span lang=EN-US
+  style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>&quot;;
+  B;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; '</span><span
+  style='font-size:12.0pt;font-family:"Times New Roman"'>перенос</span><span
+  style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>
+  </span><span style='font-size:12.0pt;font-family:"Times New Roman"'>диска</span><span
+  style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>
+  </span><span style='font-size:12.0pt;font-family:"Times New Roman"'>с</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:
+  EN-US'> A </span><span style='font-size:12.0pt;font-family:"Times New Roman"'>на</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:
+  EN-US'> B</span><span lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoPlainText style='text-indent:1.0cm'><span lang=EN-US
+  style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>ELSE</span><span
+  lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoPlainText style='margin-left:1.0cm;text-indent:1.0cm'><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:
+  EN-US'>CALL <st1:place w:st="on"><st1:City w:st="on">hanoi</st1:City></st1:place>(n
+  - <st1:metricconverter ProductID="1, A" w:st="on">1, A</st1:metricconverter>,
+  C, B)</span><span lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoPlainText style='margin-left:1.0cm;text-indent:1.0cm'><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:
+  EN-US'>CALL <st1:place w:st="on"><st1:City w:st="on">hanoi</st1:City></st1:place>(<st1:metricconverter
+  ProductID="1, A" w:st="on">1, A</st1:metricconverter>, B, C)</span><span
+  lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoPlainText style='margin-left:1.0cm;text-indent:1.0cm'><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:
+  EN-US'>CALL <st1:place w:st="on"><st1:City w:st="on">hanoi</st1:City></st1:place>(n
+  - <st1:metricconverter ProductID="1, C" w:st="on">1, C</st1:metricconverter>,
+  B, A)</span><span lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  <p class=MsoPlainText style='text-indent:1.0cm'><span lang=EN-US
+  style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>END</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman"'> </span><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:
+  EN-US'>IF</span></p>
+  <p class=MsoPlainText style='text-indent:19.85pt'><span lang=EN-US
+  style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>END</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman"'> </span><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:
+  EN-US'>SUB</span></p>
+  <p class=MsoPlainText style='text-indent:19.85pt'><span style='font-size:
+  12.0pt;font-family:"Times New Roman"'>&nbsp;</span></p>
+  <p class=MsoPlainText style='text-indent:19.85pt'><span lang=EN-US
+  style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>CLEAR</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman"'> </span><span
+  style='font-size:12.0pt;font-family:"Times New Roman"'>, ,
+  2000&nbsp;&nbsp;&nbsp;&nbsp;'предусмотрительно увеличим размер стека</span></p>
+  <p class=MsoPlainText style='text-indent:19.85pt'><span style='font-size:
+  12.0pt;font-family:"Times New Roman"'>INPUT &quot;Ханойская башня - введите
+  число дисков &quot;, n</span></p>
+  <p class=MsoPlainText style='text-indent:19.85pt'><span lang=EN-US
+  style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>CALL</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman"'> </span><st1:place
+  w:st="on"><st1:City w:st="on"><span lang=EN-US style='font-size:12.0pt;
+    font-family:"Times New Roman";mso-ansi-language:EN-US'>hanoi</span></st1:City></st1:place><span
+  style='font-size:12.0pt;font-family:"Times New Roman"'>(</span><span
+  lang=EN-US style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:
+  EN-US'>n</span><span style='font-size:12.0pt;font-family:"Times New Roman"'>,
+  1, 2, 3)</span></p>
+  <p class=MsoPlainText style='text-indent:19.85pt'><span lang=EN-US
+  style='font-size:12.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>END</span></p>
+  <h2 style='margin-left:18.0pt'><span style='font-style:normal'><o:p>&nbsp;</o:p></span></h2>
+  <h2 style='margin-left:18.0pt'><span style='font-style:normal'>Задачи для
+  самостоятельного решения</span></h2>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>&nbsp;</b></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>Задача
+  7.</b> Написать рекурсивную функцию вычисления НОД двух чисел, используя
+  первую модификацию алгоритма Евклида.</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>&nbsp;</b></p>
+  <p class=MsoNormal style='text-indent:19.85pt'><b>Задача 8.</b> Рассмотрим
+  задачу о разрезании прямоугольника с натуральными длинами сторон <span
+  lang=EN-US style='mso-ansi-language:EN-US'>a</span> и <span lang=EN-US
+  style='mso-ansi-language:EN-US'>b</span> на квадраты максимальной площади
+  (задача на использование второй модификации алгоритма Евклида). Предлагается
+  не просто решить эту задачу, но и сделать наглядное графическое сопровождение
+  с помощью рекурсии (см. рис.2).</p>
+  <p class=MsoNormal style='text-indent:19.85pt'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1025" type="#_x0000_t75" style='width:102pt;height:64.5pt'>
+   <v:imagedata src="3.files/image001.jpg" o:title="ris2"/>
+  </v:shape><![endif]--><![if !vml]><img width=136 height=86
+  src="3.files/image001.jpg" v:shapes="_x0000_i1025"><![endif]></p>
+  <p class=MsoNormal style='text-indent:19.85pt'><span
+  style='mso-spacerun:yes'> </span>Рис.2</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><u>Указание</u>:
+  Параметрами рекурсивной процедуры являются координаты вершин диагонали
+  прямоугольника (<i><span lang=EN-US style='mso-ansi-language:EN-US'>x</span></i><sub>1</sub>,
+  <i><span lang=EN-US style='mso-ansi-language:EN-US'>y</span></i><sub>1</sub>)
+  и (<i><span lang=EN-US style='mso-ansi-language:EN-US'>x</span></i><sub>2</sub>,
+  <i><span lang=EN-US style='mso-ansi-language:EN-US'>y</span></i><sub>2</sub>).
+  Как только стороны прямоугольника становятся равными, то есть (<i><span
+  lang=EN-US style='mso-ansi-language:EN-US'>x</span></i><sub>2 </sub>- <i><span
+  lang=EN-US style='mso-ansi-language:EN-US'>x</span></i><sub>1</sub> = <i><span
+  lang=EN-US style='mso-ansi-language:EN-US'>y</span></i><sub>2 </sub>- <i><span
+  lang=EN-US style='mso-ansi-language:EN-US'>y</span></i><sub>1</sub>),
+  осуществляется выход из процедуры, если же нет, то вычисляется длина меньшей
+  стороны <span lang=EN-US style='mso-ansi-language:EN-US'>k</span> (это и
+  будет сторона квадрата), и вдоль большей стороны отрезается (рисуется)
+  квадрат. Затем происходит обращение к рекурсивной процедуре с измененными
+  параметрами, либо вместо <i><span lang=EN-US style='mso-ansi-language:EN-US'>x</span></i><sub>1</sub>
+  берется <i><span lang=EN-US style='mso-ansi-language:EN-US'>x</span></i><sub>1</sub>+<span
+  lang=EN-US style='mso-ansi-language:EN-US'>k</span> (если сторона по оси <i><span
+  lang=EN-US style='mso-ansi-language:EN-US'>x</span></i> больше), либо вместо <i><span
+  lang=EN-US style='mso-ansi-language:EN-US'>y</span></i><sub>1</sub> берется <i><span
+  lang=EN-US style='mso-ansi-language:EN-US'>y</span></i><sub>1</sub>+<span
+  lang=EN-US style='mso-ansi-language:EN-US'>k</span> (если сторона по оси <span
+  lang=EN-US style='mso-ansi-language:EN-US'>y</span> больше).</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>&nbsp;</b></p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>Задача
+  9.</b> Определить максимальный элемент в массиве, используя рекурсивную
+  процедуру для поиска максимума.</p>
+  <p class=MsoNormal style='margin-left:35.4pt;text-indent:19.85pt'>&nbsp;</p>
+  <p class=MsoNormal style='text-align:justify;text-indent:19.85pt'><b>Задача
+  10.</b> Разложить заданное число на всевозможные слагаемые.</p>
+  <p class=MsoNormal style='margin-left:35.4pt;text-align:justify;text-indent:
+  19.85pt'>&nbsp;</p>
+  <p class=MsoNormal>&nbsp;</p>
+  <p class=MsoNormal><a href="index.htm">В начало</a> </p>
+  </td>
+  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

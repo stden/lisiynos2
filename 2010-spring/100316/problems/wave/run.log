@@ -1,0 +1,1048 @@
+
+20.03.2010 10:16:05 RUN 0.9alpha by Kitten Computing
+
+20.03.2010 10:16:05 Testing solution, in=wave.in, out=wave.out, ext=u, tl=100000000, ml=100000000
+
+20.03.2010 10:16:05 Running on test 01
+20.03.2010 10:16:05 Unable to determine memory usage properties for PID=2792
+20.03.2010 10:16:05 Unable to determine memory usage properties for PID=2792
+20.03.2010 10:16:05 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:05 Factical execution time: 15 ms
+20.03.2010 10:16:05 Successful termination
+20.03.2010 10:16:05 Checker result: Accepted
+20.03.2010 10:16:05 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:05 Running on test 02
+20.03.2010 10:16:05 Unable to determine memory usage properties for PID=2192
+20.03.2010 10:16:05 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:05 Factical execution time: 0 ms
+20.03.2010 10:16:05 Maximal memory usage: 324 Kb
+20.03.2010 10:16:05 Successful termination
+20.03.2010 10:16:05 Checker result: Accepted
+20.03.2010 10:16:05 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:05 Running on test 03
+20.03.2010 10:16:05 Unable to determine memory usage properties for PID=1376
+20.03.2010 10:16:05 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+20.03.2010 10:16:05 Factical execution time: 16 ms
+20.03.2010 10:16:05 Maximal memory usage: 312 Kb
+20.03.2010 10:16:05 Successful termination
+20.03.2010 10:16:05 Checker result: Accepted
+20.03.2010 10:16:05 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:05 Running on test 04
+20.03.2010 10:16:05 Unable to determine memory usage properties for PID=2812
+20.03.2010 10:16:05 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:05 Factical execution time: 0 ms
+20.03.2010 10:16:05 Maximal memory usage: 300 Kb
+20.03.2010 10:16:05 Successful termination
+20.03.2010 10:16:05 Checker result: Accepted
+20.03.2010 10:16:05 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:05 Running on test 05
+20.03.2010 10:16:05 Unable to determine memory usage properties for PID=1824
+20.03.2010 10:16:05 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:05 Factical execution time: 0 ms
+20.03.2010 10:16:05 Maximal memory usage: 324 Kb
+20.03.2010 10:16:05 Successful termination
+20.03.2010 10:16:05 Checker result: Accepted
+20.03.2010 10:16:05 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:05 Running on test 06
+20.03.2010 10:16:05 Unable to determine memory usage properties for PID=2800
+20.03.2010 10:16:05 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:05 Factical execution time: 0 ms
+20.03.2010 10:16:05 Maximal memory usage: 324 Kb
+20.03.2010 10:16:05 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Running on test 07
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=2824
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:06 Factical execution time: 0 ms
+20.03.2010 10:16:06 Maximal memory usage: 324 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Running on test 08
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=2376
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:06 Factical execution time: 0 ms
+20.03.2010 10:16:06 Maximal memory usage: 316 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Running on test 09
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=1176
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+20.03.2010 10:16:06 Factical execution time: 16 ms
+20.03.2010 10:16:06 Maximal memory usage: 300 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Running on test 10
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=3928
+20.03.2010 10:16:06 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:16:06 Factical execution time: 16 ms
+20.03.2010 10:16:06 Maximal memory usage: 324 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Running on test 11
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=4024
+20.03.2010 10:16:06 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:16:06 Factical execution time: 15 ms
+20.03.2010 10:16:06 Maximal memory usage: 316 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Running on test 12
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=1772
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:06 Factical execution time: 0 ms
+20.03.2010 10:16:06 Maximal memory usage: 320 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Running on test 13
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=2944
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:06 Factical execution time: 0 ms
+20.03.2010 10:16:06 Maximal memory usage: 304 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Running on test 14
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=2940
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:06 Factical execution time: 0 ms
+20.03.2010 10:16:06 Maximal memory usage: 300 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Running on test 15
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=1804
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:06 Factical execution time: 0 ms
+20.03.2010 10:16:06 Maximal memory usage: 316 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Running on test 16
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=2976
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:06 Factical execution time: 0 ms
+20.03.2010 10:16:06 Maximal memory usage: 324 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Running on test 17
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=1668
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:06 Factical execution time: 0 ms
+20.03.2010 10:16:06 Maximal memory usage: 300 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Presentation Error
+20.03.2010 10:16:06 Checker comments:
+* Формат в/в * Лишняя информация в выходном файле
+
+20.03.2010 10:16:06 Running on test 18
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=1056
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:06 Factical execution time: 0 ms
+20.03.2010 10:16:06 Maximal memory usage: 300 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Presentation Error
+20.03.2010 10:16:06 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:16:06 Running on test 19
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=1976
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:06 Factical execution time: 0 ms
+20.03.2010 10:16:06 Maximal memory usage: 312 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Presentation Error
+20.03.2010 10:16:06 Checker comments:
+* Формат в/в * Лишняя информация в выходном файле
+
+20.03.2010 10:16:06 Running on test 20
+20.03.2010 10:16:06 Unable to determine memory usage properties for PID=3012
+20.03.2010 10:16:06 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:16:06 Factical execution time: 15 ms
+20.03.2010 10:16:06 Maximal memory usage: 308 Kb
+20.03.2010 10:16:06 Successful termination
+20.03.2010 10:16:06 Checker result: Accepted
+20.03.2010 10:16:06 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:16:06 Total maximal work time: 31,25000 ms
+20.03.2010 10:16:06 Total maximal memory usage: 324 Kb
+
+
+20.03.2010 10:18:33 RUN 0.9alpha by Kitten Computing
+
+20.03.2010 10:18:33 Testing solution, in=wave.in, out=wave.out, ext=u, tl=100000000, ml=100000000
+
+20.03.2010 10:18:33 Running on test 01
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3604
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 448 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 02
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3088
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 320 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 03
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3648
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 300 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 04
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3660
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 300 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 05
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3680
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 316 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 06
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3700
+20.03.2010 10:18:33 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:18:33 Factical execution time: 15 ms
+20.03.2010 10:18:33 Maximal memory usage: 320 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 07
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=2412
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 324 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 08
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3740
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 300 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 09
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3156
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+20.03.2010 10:18:33 Factical execution time: 16 ms
+20.03.2010 10:18:33 Maximal memory usage: 300 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 10
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3764
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 300 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 11
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=1784
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 320 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 12
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3808
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 312 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 13
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3784
+20.03.2010 10:18:33 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:18:33 Factical execution time: 15 ms
+20.03.2010 10:18:33 Maximal memory usage: 312 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 14
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3832
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 300 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 15
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=1264
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 300 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 16
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3860
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 300 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Running on test 17
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3896
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 300 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Нет пути
+
+20.03.2010 10:18:33 Running on test 18
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3496
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 308 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Presentation Error
+20.03.2010 10:18:33 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:18:33 Running on test 19
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3932
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 300 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Нет пути
+
+20.03.2010 10:18:33 Running on test 20
+20.03.2010 10:18:33 Unable to determine memory usage properties for PID=3960
+20.03.2010 10:18:33 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:18:33 Factical execution time: 0 ms
+20.03.2010 10:18:33 Maximal memory usage: 324 Kb
+20.03.2010 10:18:33 Successful termination
+20.03.2010 10:18:33 Checker result: Accepted
+20.03.2010 10:18:33 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:18:33 Total maximal work time: 31,25000 ms
+20.03.2010 10:18:33 Total maximal memory usage: 448 Kb
+
+
+20.03.2010 10:20:07 RUN 0.9alpha by Kitten Computing
+
+20.03.2010 10:20:07 Testing solution, in=wave.in, out=wave.out, ext=u, tl=100000000, ml=100000000
+
+20.03.2010 10:20:07 Running on test 01
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3412
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3412
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 16 ms
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 02
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3632
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 324 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 03
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3644
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 324 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 04
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=1344
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 300 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 05
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3704
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 336 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 06
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=4032
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 324 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 07
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3736
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 15 ms
+20.03.2010 10:20:07 Maximal memory usage: 316 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 08
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3728
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 336 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 09
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3744
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 324 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 10
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3304
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 136 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 11
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3216
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+20.03.2010 10:20:07 Factical execution time: 16 ms
+20.03.2010 10:20:07 Maximal memory usage: 324 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 12
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=1228
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 308 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 13
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3792
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 300 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 14
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=1988
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 324 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 15
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3856
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+20.03.2010 10:20:07 Factical execution time: 16 ms
+20.03.2010 10:20:07 Maximal memory usage: 320 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 16
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3880
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 324 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Running on test 17
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=1604
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 316 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Нет пути
+
+20.03.2010 10:20:07 Running on test 18
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=2768
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 324 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Presentation Error
+20.03.2010 10:20:07 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:20:07 Running on test 19
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=3936
+20.03.2010 10:20:07 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:20:07 Factical execution time: 0 ms
+20.03.2010 10:20:07 Maximal memory usage: 316 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Нет пути
+
+20.03.2010 10:20:07 Running on test 20
+20.03.2010 10:20:07 Unable to determine memory usage properties for PID=204
+20.03.2010 10:20:07 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:20:07 Factical execution time: 15 ms
+20.03.2010 10:20:07 Maximal memory usage: 324 Kb
+20.03.2010 10:20:07 Successful termination
+20.03.2010 10:20:07 Checker result: Accepted
+20.03.2010 10:20:07 Checker comments:
+* ok * Удивительно :-) 
+
+20.03.2010 10:20:07 Total maximal work time: 31,25000 ms
+20.03.2010 10:20:07 Total maximal memory usage: 336 Kb
+
+
+20.03.2010 10:23:27 RUN 0.9alpha by Kitten Computing
+
+20.03.2010 10:23:27 Executable file successfully recompiled
+20.03.2010 10:23:27 Compiler output:
+Embarcadero Delphi for Win32 compiler version 21.0
+Copyright (c) 1983,2009 Embarcadero Technologies, Inc.
+SOLUTION.DPR(42) Warning: W1036 Variable 'pr' might not have been initialized
+SOLUTION.DPR(67) 
+68 lines, 0.01 seconds, 37540 bytes code, 63488 bytes data.
+
+20.03.2010 10:23:27 Testing solution, in=wave.in, out=wave.out, ext=u, tl=100000000, ml=100000000
+
+20.03.2010 10:23:27 Running on test 01
+20.03.2010 10:23:27 Unable to determine memory usage properties for PID=2980
+20.03.2010 10:23:27 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:27 Factical execution time: 0 ms
+20.03.2010 10:23:27 Maximal memory usage: 1340 Kb
+20.03.2010 10:23:27 Successful termination
+20.03.2010 10:23:27 Checker result: Presentation Error
+20.03.2010 10:23:27 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:27 Running on test 02
+20.03.2010 10:23:27 Unable to determine memory usage properties for PID=3648
+20.03.2010 10:23:27 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:27 Factical execution time: 0 ms
+20.03.2010 10:23:27 Maximal memory usage: 320 Kb
+20.03.2010 10:23:27 Successful termination
+20.03.2010 10:23:27 Checker result: Presentation Error
+20.03.2010 10:23:27 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:27 Running on test 03
+20.03.2010 10:23:27 Unable to determine memory usage properties for PID=3660
+20.03.2010 10:23:27 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:27 Factical execution time: 0 ms
+20.03.2010 10:23:27 Maximal memory usage: 332 Kb
+20.03.2010 10:23:27 Successful termination
+20.03.2010 10:23:27 Checker result: Presentation Error
+20.03.2010 10:23:27 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "2089867677"
+
+20.03.2010 10:23:27 Running on test 04
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3384
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:28 Factical execution time: 16 ms
+20.03.2010 10:23:28 Maximal memory usage: 276 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "2089892816"
+
+20.03.2010 10:23:28 Running on test 05
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3684
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:28 Factical execution time: 15 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "1245111"
+
+20.03.2010 10:23:28 Running on test 06
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=1036
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+20.03.2010 10:23:28 Factical execution time: 16 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "1245111"
+
+20.03.2010 10:23:28 Running on test 07
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3724
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:28 Factical execution time: 16 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 08
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3740
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:28 Factical execution time: 0 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 09
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3156
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:28 Factical execution time: 0 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 10
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=1784
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:28 Factical execution time: 0 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 11
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3808
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:28 Factical execution time: 15 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 12
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3304
+20.03.2010 10:23:28 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:23:28 Factical execution time: 16 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 13
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3784
+20.03.2010 10:23:28 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:23:28 Factical execution time: 15 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 14
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=1264
+20.03.2010 10:23:28 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:23:28 Factical execution time: 16 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 15
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3860
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+20.03.2010 10:23:28 Factical execution time: 16 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 16
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=1988
+20.03.2010 10:23:28 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:23:28 Factical execution time: 15 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "1334177"
+
+20.03.2010 10:23:28 Running on test 17
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3496
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:28 Factical execution time: 0 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 18
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=1604
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:28 Factical execution time: 0 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 19
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3932
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:28 Factical execution time: 0 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:28 Running on test 20
+20.03.2010 10:23:28 Unable to determine memory usage properties for PID=3604
+20.03.2010 10:23:28 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:28 Factical execution time: 0 ms
+20.03.2010 10:23:28 Maximal memory usage: 144 Kb
+20.03.2010 10:23:28 Successful termination
+20.03.2010 10:23:28 Checker result: Presentation Error
+20.03.2010 10:23:28 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "2089898273"
+
+20.03.2010 10:23:28 Total maximal work time: 31,25000 ms
+20.03.2010 10:23:28 Total maximal memory usage: 1340 Kb
+
+
+20.03.2010 10:23:59 RUN 0.9alpha by Kitten Computing
+
+20.03.2010 10:23:59 Testing solution, in=wave.in, out=wave.out, ext=u, tl=100000000, ml=100000000
+
+20.03.2010 10:23:59 Running on test 01
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=3236
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=3236
+20.03.2010 10:23:59 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:23:59 Factical execution time: 15 ms
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:59 Running on test 02
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=1240
+20.03.2010 10:23:59 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:23:59 Factical execution time: 16 ms
+20.03.2010 10:23:59 Maximal memory usage: 328 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:59 Running on test 03
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=2368
+20.03.2010 10:23:59 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:23:59 Factical execution time: 16 ms
+20.03.2010 10:23:59 Maximal memory usage: 324 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "2089867677"
+
+20.03.2010 10:23:59 Running on test 04
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=2168
+20.03.2010 10:23:59 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:59 Factical execution time: 0 ms
+20.03.2010 10:23:59 Maximal memory usage: 336 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "2089892816"
+
+20.03.2010 10:23:59 Running on test 05
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=388
+20.03.2010 10:23:59 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:59 Factical execution time: 0 ms
+20.03.2010 10:23:59 Maximal memory usage: 328 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "1245111"
+
+20.03.2010 10:23:59 Running on test 06
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=464
+20.03.2010 10:23:59 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:59 Factical execution time: 0 ms
+20.03.2010 10:23:59 Maximal memory usage: 340 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "1245111"
+
+20.03.2010 10:23:59 Running on test 07
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=2388
+20.03.2010 10:23:59 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:59 Factical execution time: 0 ms
+20.03.2010 10:23:59 Maximal memory usage: 304 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:59 Running on test 08
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=2752
+20.03.2010 10:23:59 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+20.03.2010 10:23:59 Factical execution time: 16 ms
+20.03.2010 10:23:59 Maximal memory usage: 300 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:59 Running on test 09
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=2560
+20.03.2010 10:23:59 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+20.03.2010 10:23:59 Factical execution time: 16 ms
+20.03.2010 10:23:59 Maximal memory usage: 328 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:59 Running on test 10
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=2108
+20.03.2010 10:23:59 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:59 Factical execution time: 0 ms
+20.03.2010 10:23:59 Maximal memory usage: 332 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:59 Running on test 11
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=3752
+20.03.2010 10:23:59 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:59 Factical execution time: 0 ms
+20.03.2010 10:23:59 Maximal memory usage: 152 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:59 Running on test 12
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=872
+20.03.2010 10:23:59 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:59 Factical execution time: 0 ms
+20.03.2010 10:23:59 Maximal memory usage: 340 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:59 Running on test 13
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=1108
+20.03.2010 10:23:59 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:59 Factical execution time: 15 ms
+20.03.2010 10:23:59 Maximal memory usage: 328 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:59 Running on test 14
+20.03.2010 10:23:59 Unable to determine memory usage properties for PID=2572
+20.03.2010 10:23:59 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:23:59 Factical execution time: 16 ms
+20.03.2010 10:23:59 Maximal memory usage: 144 Kb
+20.03.2010 10:23:59 Successful termination
+20.03.2010 10:23:59 Checker result: Presentation Error
+20.03.2010 10:23:59 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:23:59 Running on test 15
+20.03.2010 10:24:00 Unable to determine memory usage properties for PID=2588
+20.03.2010 10:24:00 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:24:00 Factical execution time: 15 ms
+20.03.2010 10:24:00 Maximal memory usage: 328 Kb
+20.03.2010 10:24:00 Successful termination
+20.03.2010 10:24:00 Checker result: Presentation Error
+20.03.2010 10:24:00 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:24:00 Running on test 16
+20.03.2010 10:24:00 Unable to determine memory usage properties for PID=220
+20.03.2010 10:24:00 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:24:00 Factical execution time: 16 ms
+20.03.2010 10:24:00 Maximal memory usage: 324 Kb
+20.03.2010 10:24:00 Successful termination
+20.03.2010 10:24:00 Checker result: Presentation Error
+20.03.2010 10:24:00 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "1334177"
+
+20.03.2010 10:24:00 Running on test 17
+20.03.2010 10:24:00 Unable to determine memory usage properties for PID=1192
+20.03.2010 10:24:00 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:24:00 Factical execution time: 0 ms
+20.03.2010 10:24:00 Maximal memory usage: 224 Kb
+20.03.2010 10:24:00 Successful termination
+20.03.2010 10:24:00 Checker result: Presentation Error
+20.03.2010 10:24:00 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:24:00 Running on test 18
+20.03.2010 10:24:00 Unable to determine memory usage properties for PID=2520
+20.03.2010 10:24:00 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:24:00 Factical execution time: 0 ms
+20.03.2010 10:24:00 Maximal memory usage: 344 Kb
+20.03.2010 10:24:00 Successful termination
+20.03.2010 10:24:00 Checker result: Presentation Error
+20.03.2010 10:24:00 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:24:00 Running on test 19
+20.03.2010 10:24:00 Unable to determine memory usage properties for PID=2660
+20.03.2010 10:24:00 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+20.03.2010 10:24:00 Factical execution time: 16 ms
+20.03.2010 10:24:00 Maximal memory usage: 296 Kb
+20.03.2010 10:24:00 Successful termination
+20.03.2010 10:24:00 Checker result: Presentation Error
+20.03.2010 10:24:00 Checker comments:
+* Формат в/в * Неожиданный конец файла
+
+20.03.2010 10:24:00 Running on test 20
+20.03.2010 10:24:00 Unable to determine memory usage properties for PID=2604
+20.03.2010 10:24:00 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+20.03.2010 10:24:00 Factical execution time: 16 ms
+20.03.2010 10:24:00 Maximal memory usage: 328 Kb
+20.03.2010 10:24:00 Successful termination
+20.03.2010 10:24:00 Checker result: Presentation Error
+20.03.2010 10:24:00 Checker comments:
+* Формат в/в * Затребовано 16-битное целое, а получено "2089898273"
+
+20.03.2010 10:24:00 Total maximal work time: 31,25000 ms
+20.03.2010 10:24:00 Total maximal memory usage: 344 Kb
+
