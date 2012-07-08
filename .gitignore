@@ -28,3 +28,5 @@ Thumbs.db
 glob:dist/python/_notes/*
 glob:*.zip
 glob:*.identcache
+*.log
+*.u
