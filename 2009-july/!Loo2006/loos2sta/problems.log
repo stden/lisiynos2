@@ -1,0 +1,170 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=latex 2010.8.2)  11 DEC 2011 16:00
+entering extended mode
+**problems.tex
+(C:\lisiynos\2009-july\!Loo2006\loos2sta\problems.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
+
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\cyrillic\cp1251.def"
+File: cp1251.def 1999/11/16 v1.0d Input encoding file
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\babel\babel.sty"
+Package: babel 2008/07/06 v3.8l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\babel\babel.def"
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\babel\russianb.ldf"
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Russian'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@russian = a dialect from \language0
+Package babel Info: Making " an active character on input line 199.
+)) ("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\mfpic\mfpic.sty"
+Package: mfpic 2011/03/08 v1.06. Macros for drawing with Metafont/MetaPost.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\mfpic\mfpic.tex"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\mfp@out=\write3
+\mfp@graph=\read1
+\mfp@count=\count88
+\mfp@linetype=\count89
+\mfp@sequence=\count90
+\mfp@toks=\toks16
+\mfp@verbtex=\toks17
+\mfp@commonverbatimtex=\toks18
+\mfp@fdc=\count91
+\@wholegraph=\box26
+\@textbox=\box27
+\@alltlabels=\box28
+\@backtext=\box29
+\@tlabelstop=\fontdimen 23\mfp@dummy 
+\@tlabelsbot=\fontdimen 24\mfp@dummy 
+\@tlabelsleft=\fontdimen 25\mfp@dummy 
+\@graphright=\fontdimen 26\mfp@dummy 
+\@graphleft=\fontdimen 27\mfp@dummy 
+\@graphtop=\fontdimen 28\mfp@dummy 
+\@graphbot=\fontdimen 29\mfp@dummy 
+\tb@raise=\fontdimen 30\mfp@dummy 
+\tb@moveright=\fontdimen 31\mfp@dummy 
+\tb@totalht=\fontdimen 32\mfp@dummy 
+\tlabel@hadj=\fontdimen 33\mfp@dummy 
+\tlabel@vadj=\fontdimen 34\mfp@dummy 
+\tlabel@sep=\fontdimen 35\mfp@dummy 
+\tlpath@sep=\fontdimen 36\mfp@dummy 
+\mfpicunit=\fontdimen 37\mfp@dummy 
+\@mfpicunit=\fontdimen 38\mfp@dummy 
+\pointsize=\fontdimen 39\mfp@dummy 
+\shadespace=\fontdimen 40\mfp@dummy 
+\polkadotspace=\fontdimen 41\mfp@dummy 
+\hatchspace=\fontdimen 42\mfp@dummy 
+\headlen=\fontdimen 43\mfp@dummy 
+\axisheadlen=\fontdimen 44\mfp@dummy 
+\sideheadlen=\fontdimen 45\mfp@dummy 
+\hashlen=\fontdimen 46\mfp@dummy 
+\dashlen=\fontdimen 47\mfp@dummy 
+\dashspace=\fontdimen 48\mfp@dummy 
+\dotsize=\fontdimen 49\mfp@dummy 
+\griddotsize=\fontdimen 50\mfp@dummy 
+\dotspace=\fontdimen 51\mfp@dummy 
+\symbolspace=\fontdimen 52\mfp@dummy 
+\mfp@scratch=\dimen104
+\mfpframesep=\dimen105
+\mfpframethickness=\dimen106
+\mfpicheight=\dimen107
+\mfpicwidth=\dimen108
+\mfpiccaptionskip=\skip43
+\tl@vpos=\count92
+\tl@hpos=\count93
+\mfp@commentchar=\count94
+))
+
+! LaTeX Error: File `olymp.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.8 \usepackage
+               {color}
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 2100 strings out of 495286
+ 23853 string characters out of 3179878
+ 76676 words of memory out of 3000000
+ 5337 multiletter control sequences out of 15000+200000
+ 4852 words of font info for 17 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 28i,0n,24p,246b,72s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

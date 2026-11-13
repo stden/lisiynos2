@@ -1,0 +1,1154 @@
+649 19
+ Wrong = 34  my = 16 
+650 19
+ Wrong = 34  my = 16 
+651 19
+ Wrong = 34  my = 16 
+652 19
+ Wrong = 34  my = 16 
+653 19
+ Wrong = 34  my = 16 
+654 19
+ Wrong = 34  my = 16 
+655 19
+ Wrong = 34  my = 16 
+656 19
+ Wrong = 34  my = 16 
+657 19
+ Wrong = 34  my = 16 
+658 19
+ Wrong = 34  my = 17 
+659 19
+ Wrong = 34  my = 17 
+660 19
+ Wrong = 34  my = 17 
+661 19
+ Wrong = 34  my = 17 
+662 19
+ Wrong = 34  my = 17 
+663 19
+ Wrong = 34  my = 17 
+664 19
+ Wrong = 34  my = 17 
+665 19
+ Wrong = 35  my = 17 
+666 19
+ Wrong = 35  my = 17 
+667 19
+ Wrong = 35  my = 18 
+668 19
+ Wrong = 35  my = 18 
+669 19
+ Wrong = 35  my = 18 
+670 19
+ Wrong = 35  my = 18 
+671 19
+ Wrong = 35  my = 18 
+672 19
+ Wrong = 35  my = 18 
+673 19
+ Wrong = 35  my = 18 
+674 19
+ Wrong = 35  my = 18 
+675 19
+ Wrong = 35  my = 18 
+676 19
+ Wrong = 35  my = 19 
+677 19
+ Wrong = 35  my = 19 
+678 19
+ Wrong = 35  my = 19 
+679 19
+ Wrong = 35  my = 19 
+680 19
+ Wrong = 35  my = 19 
+681 19
+ Wrong = 35  my = 19 
+682 19
+ Wrong = 35  my = 19 
+683 19
+ Wrong = 35  my = 19 
+684 19
+ Wrong = 36  my = 19 
+685 19
+ Wrong = 36  my = 20 
+686 19
+ Wrong = 36  my = 20 
+687 19
+ Wrong = 36  my = 20 
+688 19
+ Wrong = 36  my = 20 
+689 19
+ Wrong = 36  my = 20 
+690 19
+ Wrong = 36  my = 20 
+691 19
+ Wrong = 36  my = 20 
+692 19
+ Wrong = 36  my = 20 
+693 19
+ Wrong = 36  my = 20 
+694 19
+ Wrong = 36  my = 21 
+695 19
+ Wrong = 36  my = 21 
+696 19
+ Wrong = 36  my = 21 
+697 19
+ Wrong = 36  my = 21 
+698 19
+ Wrong = 36  my = 21 
+699 19
+ Wrong = 36  my = 21 
+700 19
+ Wrong = 36  my = 21 
+701 19
+ Wrong = 36  my = 21 
+702 19
+ Wrong = 36  my = 21 
+703 19
+ Wrong = 37  my = 21 
+704 19
+ Wrong = 37  my = 21 
+705 19
+ Wrong = 37  my = 21 
+706 19
+ Wrong = 37  my = 21 
+707 19
+ Wrong = 37  my = 21 
+708 19
+ Wrong = 37  my = 21 
+709 19
+ Wrong = 37  my = 21 
+710 19
+ Wrong = 37  my = 21 
+711 19
+ Wrong = 37  my = 21 
+712 19
+ Wrong = 37  my = 21 
+713 19
+ Wrong = 37  my = 21 
+714 19
+ Wrong = 37  my = 21 
+715 19
+ Wrong = 37  my = 21 
+716 19
+ Wrong = 37  my = 21 
+717 19
+ Wrong = 37  my = 21 
+718 19
+ Wrong = 37  my = 21 
+719 19
+ Wrong = 37  my = 21 
+720 19
+ Wrong = 37  my = 21 
+721 19
+ Wrong = 37  my = 21 
+722 19
+ Wrong = 38  my = 21 
+723 19
+ Wrong = 38  my = 21 
+724 19
+ Wrong = 38  my = 21 
+725 19
+ Wrong = 38  my = 21 
+726 19
+ Wrong = 38  my = 21 
+727 19
+ Wrong = 38  my = 21 
+728 19
+ Wrong = 38  my = 21 
+729 19
+ Wrong = 38  my = 21 
+730 19
+ Wrong = 38  my = 21 
+731 19
+ Wrong = 38  my = 21 
+732 19
+ Wrong = 38  my = 21 
+733 19
+ Wrong = 38  my = 21 
+734 19
+ Wrong = 38  my = 21 
+735 19
+ Wrong = 38  my = 21 
+736 19
+ Wrong = 38  my = 21 
+737 19
+ Wrong = 38  my = 21 
+738 19
+ Wrong = 38  my = 21 
+739 19
+ Wrong = 38  my = 22 
+740 19
+ Wrong = 38  my = 22 
+741 19
+ Wrong = 39  my = 22 
+742 19
+ Wrong = 39  my = 22 
+743 19
+ Wrong = 39  my = 22 
+744 19
+ Wrong = 39  my = 22 
+745 19
+ Wrong = 39  my = 22 
+746 19
+ Wrong = 39  my = 22 
+747 19
+ Wrong = 39  my = 22 
+748 19
+ Wrong = 39  my = 23 
+749 19
+ Wrong = 39  my = 23 
+749 20
+ Wrong = 37  my = 16 
+750 19
+ Wrong = 39  my = 23 
+750 20
+ Wrong = 37  my = 16 
+751 19
+ Wrong = 39  my = 23 
+751 20
+ Wrong = 37  my = 16 
+752 19
+ Wrong = 39  my = 23 
+752 20
+ Wrong = 37  my = 16 
+753 19
+ Wrong = 39  my = 23 
+753 20
+ Wrong = 37  my = 16 
+754 19
+ Wrong = 39  my = 23 
+754 20
+ Wrong = 37  my = 16 
+755 19
+ Wrong = 39  my = 23 
+755 20
+ Wrong = 37  my = 16 
+756 19
+ Wrong = 39  my = 23 
+756 20
+ Wrong = 37  my = 16 
+757 19
+ Wrong = 39  my = 24 
+757 20
+ Wrong = 37  my = 16 
+758 19
+ Wrong = 39  my = 24 
+758 20
+ Wrong = 37  my = 17 
+759 19
+ Wrong = 39  my = 24 
+759 20
+ Wrong = 37  my = 17 
+760 19
+ Wrong = 40  my = 24 
+760 20
+ Wrong = 38  my = 17 
+761 19
+ Wrong = 40  my = 24 
+761 20
+ Wrong = 38  my = 17 
+762 19
+ Wrong = 40  my = 24 
+762 20
+ Wrong = 38  my = 17 
+763 19
+ Wrong = 40  my = 24 
+763 20
+ Wrong = 38  my = 17 
+764 19
+ Wrong = 40  my = 24 
+764 20
+ Wrong = 38  my = 17 
+765 19
+ Wrong = 40  my = 24 
+765 20
+ Wrong = 38  my = 17 
+766 19
+ Wrong = 40  my = 25 
+766 20
+ Wrong = 38  my = 17 
+767 19
+ Wrong = 40  my = 25 
+767 20
+ Wrong = 38  my = 18 
+768 19
+ Wrong = 40  my = 25 
+768 20
+ Wrong = 38  my = 18 
+769 19
+ Wrong = 40  my = 25 
+769 20
+ Wrong = 38  my = 18 
+770 19
+ Wrong = 40  my = 25 
+770 20
+ Wrong = 38  my = 18 
+771 19
+ Wrong = 40  my = 25 
+771 20
+ Wrong = 38  my = 18 
+772 19
+ Wrong = 40  my = 25 
+772 20
+ Wrong = 38  my = 18 
+773 19
+ Wrong = 40  my = 25 
+773 20
+ Wrong = 38  my = 18 
+774 19
+ Wrong = 40  my = 25 
+774 20
+ Wrong = 38  my = 18 
+775 20
+ Wrong = 38  my = 18 
+776 20
+ Wrong = 38  my = 19 
+777 20
+ Wrong = 38  my = 19 
+778 20
+ Wrong = 38  my = 19 
+779 19
+ Wrong = 41  my = 26 
+779 20
+ Wrong = 38  my = 19 
+780 19
+ Wrong = 41  my = 26 
+780 20
+ Wrong = 39  my = 19 
+781 19
+ Wrong = 41  my = 26 
+781 20
+ Wrong = 39  my = 19 
+782 19
+ Wrong = 41  my = 26 
+782 20
+ Wrong = 39  my = 19 
+783 19
+ Wrong = 41  my = 26 
+783 20
+ Wrong = 39  my = 19 
+784 20
+ Wrong = 39  my = 19 
+785 20
+ Wrong = 39  my = 20 
+786 20
+ Wrong = 39  my = 20 
+787 20
+ Wrong = 39  my = 20 
+788 20
+ Wrong = 39  my = 20 
+789 20
+ Wrong = 39  my = 20 
+790 20
+ Wrong = 39  my = 20 
+791 20
+ Wrong = 39  my = 20 
+792 20
+ Wrong = 39  my = 20 
+793 20
+ Wrong = 39  my = 20 
+794 20
+ Wrong = 39  my = 21 
+795 20
+ Wrong = 39  my = 21 
+796 20
+ Wrong = 39  my = 21 
+797 20
+ Wrong = 39  my = 21 
+798 20
+ Wrong = 39  my = 21 
+799 20
+ Wrong = 39  my = 21 
+800 20
+ Wrong = 40  my = 21 
+801 20
+ Wrong = 40  my = 21 
+802 20
+ Wrong = 40  my = 21 
+803 20
+ Wrong = 40  my = 21 
+804 20
+ Wrong = 40  my = 21 
+805 20
+ Wrong = 40  my = 21 
+806 20
+ Wrong = 40  my = 21 
+807 20
+ Wrong = 40  my = 21 
+808 20
+ Wrong = 40  my = 21 
+809 20
+ Wrong = 40  my = 21 
+810 20
+ Wrong = 40  my = 21 
+811 20
+ Wrong = 40  my = 21 
+812 20
+ Wrong = 40  my = 21 
+813 20
+ Wrong = 40  my = 21 
+814 20
+ Wrong = 40  my = 21 
+815 20
+ Wrong = 40  my = 21 
+816 20
+ Wrong = 40  my = 21 
+817 19
+ Wrong = 43  my = 28 
+817 20
+ Wrong = 40  my = 21 
+818 19
+ Wrong = 43  my = 28 
+818 20
+ Wrong = 40  my = 21 
+819 19
+ Wrong = 43  my = 28 
+819 20
+ Wrong = 40  my = 21 
+820 19
+ Wrong = 43  my = 28 
+820 20
+ Wrong = 41  my = 21 
+821 19
+ Wrong = 43  my = 28 
+821 20
+ Wrong = 41  my = 21 
+822 19
+ Wrong = 43  my = 28 
+822 20
+ Wrong = 41  my = 21 
+823 19
+ Wrong = 43  my = 28 
+823 20
+ Wrong = 41  my = 21 
+824 19
+ Wrong = 43  my = 28 
+824 20
+ Wrong = 41  my = 21 
+825 19
+ Wrong = 43  my = 28 
+825 20
+ Wrong = 41  my = 21 
+826 19
+ Wrong = 43  my = 28 
+826 20
+ Wrong = 41  my = 21 
+827 19
+ Wrong = 43  my = 28 
+827 20
+ Wrong = 41  my = 21 
+828 19
+ Wrong = 43  my = 28 
+828 20
+ Wrong = 41  my = 21 
+829 20
+ Wrong = 41  my = 21 
+830 20
+ Wrong = 41  my = 21 
+831 20
+ Wrong = 41  my = 21 
+832 20
+ Wrong = 41  my = 21 
+833 20
+ Wrong = 41  my = 21 
+834 20
+ Wrong = 41  my = 21 
+835 20
+ Wrong = 41  my = 21 
+836 19
+ Wrong = 44  my = 29 
+836 20
+ Wrong = 41  my = 21 
+837 19
+ Wrong = 44  my = 29 
+837 20
+ Wrong = 41  my = 21 
+838 20
+ Wrong = 41  my = 21 
+839 20
+ Wrong = 41  my = 22 
+840 20
+ Wrong = 42  my = 22 
+841 20
+ Wrong = 42  my = 22 
+842 20
+ Wrong = 42  my = 22 
+843 20
+ Wrong = 42  my = 22 
+844 20
+ Wrong = 42  my = 22 
+845 20
+ Wrong = 42  my = 22 
+846 20
+ Wrong = 42  my = 22 
+847 20
+ Wrong = 42  my = 22 
+848 20
+ Wrong = 42  my = 23 
+849 20
+ Wrong = 42  my = 23 
+849 21
+ Wrong = 40  my = 16 
+850 20
+ Wrong = 42  my = 23 
+850 21
+ Wrong = 40  my = 16 
+851 20
+ Wrong = 42  my = 23 
+851 21
+ Wrong = 40  my = 16 
+852 20
+ Wrong = 42  my = 23 
+852 21
+ Wrong = 40  my = 16 
+853 20
+ Wrong = 42  my = 23 
+853 21
+ Wrong = 40  my = 16 
+854 20
+ Wrong = 42  my = 23 
+854 21
+ Wrong = 40  my = 16 
+855 20
+ Wrong = 42  my = 23 
+855 21
+ Wrong = 40  my = 16 
+856 20
+ Wrong = 42  my = 23 
+856 21
+ Wrong = 40  my = 16 
+857 20
+ Wrong = 42  my = 24 
+857 21
+ Wrong = 40  my = 16 
+858 20
+ Wrong = 42  my = 24 
+858 21
+ Wrong = 40  my = 17 
+859 20
+ Wrong = 42  my = 24 
+859 21
+ Wrong = 40  my = 17 
+860 20
+ Wrong = 43  my = 24 
+860 21
+ Wrong = 40  my = 17 
+861 20
+ Wrong = 43  my = 24 
+861 21
+ Wrong = 41  my = 17 
+862 20
+ Wrong = 43  my = 24 
+862 21
+ Wrong = 41  my = 17 
+863 20
+ Wrong = 43  my = 24 
+863 21
+ Wrong = 41  my = 17 
+864 20
+ Wrong = 43  my = 24 
+864 21
+ Wrong = 41  my = 17 
+865 20
+ Wrong = 43  my = 24 
+865 21
+ Wrong = 41  my = 17 
+866 20
+ Wrong = 43  my = 25 
+866 21
+ Wrong = 41  my = 17 
+867 20
+ Wrong = 43  my = 25 
+867 21
+ Wrong = 41  my = 18 
+868 20
+ Wrong = 43  my = 25 
+868 21
+ Wrong = 41  my = 18 
+869 20
+ Wrong = 43  my = 25 
+869 21
+ Wrong = 41  my = 18 
+870 20
+ Wrong = 43  my = 25 
+870 21
+ Wrong = 41  my = 18 
+871 20
+ Wrong = 43  my = 25 
+871 21
+ Wrong = 41  my = 18 
+872 20
+ Wrong = 43  my = 25 
+872 21
+ Wrong = 41  my = 18 
+873 20
+ Wrong = 43  my = 25 
+873 21
+ Wrong = 41  my = 18 
+874 20
+ Wrong = 43  my = 25 
+874 21
+ Wrong = 41  my = 18 
+875 20
+ Wrong = 43  my = 26 
+875 21
+ Wrong = 41  my = 18 
+876 20
+ Wrong = 43  my = 26 
+876 21
+ Wrong = 41  my = 19 
+877 20
+ Wrong = 43  my = 26 
+877 21
+ Wrong = 41  my = 19 
+878 20
+ Wrong = 43  my = 26 
+878 21
+ Wrong = 41  my = 19 
+879 20
+ Wrong = 43  my = 26 
+879 21
+ Wrong = 41  my = 19 
+880 20
+ Wrong = 44  my = 26 
+880 21
+ Wrong = 41  my = 19 
+881 20
+ Wrong = 44  my = 26 
+881 21
+ Wrong = 41  my = 19 
+882 20
+ Wrong = 44  my = 26 
+882 21
+ Wrong = 42  my = 19 
+883 20
+ Wrong = 44  my = 26 
+883 21
+ Wrong = 42  my = 19 
+884 20
+ Wrong = 44  my = 27 
+884 21
+ Wrong = 42  my = 19 
+885 20
+ Wrong = 44  my = 27 
+885 21
+ Wrong = 42  my = 20 
+886 20
+ Wrong = 44  my = 27 
+886 21
+ Wrong = 42  my = 20 
+887 20
+ Wrong = 44  my = 27 
+887 21
+ Wrong = 42  my = 20 
+888 20
+ Wrong = 44  my = 27 
+888 21
+ Wrong = 42  my = 20 
+889 20
+ Wrong = 44  my = 27 
+889 21
+ Wrong = 42  my = 20 
+890 20
+ Wrong = 44  my = 27 
+890 21
+ Wrong = 42  my = 20 
+891 20
+ Wrong = 44  my = 27 
+891 21
+ Wrong = 42  my = 20 
+892 20
+ Wrong = 44  my = 27 
+892 21
+ Wrong = 42  my = 20 
+893 20
+ Wrong = 44  my = 28 
+893 21
+ Wrong = 42  my = 20 
+894 20
+ Wrong = 44  my = 28 
+894 21
+ Wrong = 42  my = 21 
+895 20
+ Wrong = 44  my = 28 
+895 21
+ Wrong = 42  my = 21 
+896 20
+ Wrong = 44  my = 28 
+896 21
+ Wrong = 42  my = 21 
+897 20
+ Wrong = 44  my = 28 
+897 21
+ Wrong = 42  my = 21 
+898 20
+ Wrong = 44  my = 28 
+898 21
+ Wrong = 42  my = 21 
+899 20
+ Wrong = 44  my = 28 
+899 21
+ Wrong = 42  my = 21 
+900 20
+ Wrong = 45  my = 28 
+900 21
+ Wrong = 42  my = 21 
+901 20
+ Wrong = 45  my = 28 
+901 21
+ Wrong = 42  my = 21 
+902 20
+ Wrong = 45  my = 28 
+902 21
+ Wrong = 42  my = 21 
+903 20
+ Wrong = 45  my = 28 
+903 21
+ Wrong = 43  my = 21 
+904 20
+ Wrong = 45  my = 28 
+904 21
+ Wrong = 43  my = 21 
+905 20
+ Wrong = 45  my = 28 
+905 21
+ Wrong = 43  my = 21 
+906 20
+ Wrong = 45  my = 28 
+906 21
+ Wrong = 43  my = 21 
+907 20
+ Wrong = 45  my = 28 
+907 21
+ Wrong = 43  my = 21 
+908 20
+ Wrong = 45  my = 28 
+908 21
+ Wrong = 43  my = 21 
+909 20
+ Wrong = 45  my = 28 
+909 21
+ Wrong = 43  my = 21 
+910 20
+ Wrong = 45  my = 28 
+910 21
+ Wrong = 43  my = 21 
+911 20
+ Wrong = 45  my = 28 
+911 21
+ Wrong = 43  my = 21 
+912 20
+ Wrong = 45  my = 28 
+912 21
+ Wrong = 43  my = 21 
+913 20
+ Wrong = 45  my = 28 
+913 21
+ Wrong = 43  my = 21 
+914 20
+ Wrong = 45  my = 28 
+914 21
+ Wrong = 43  my = 21 
+915 20
+ Wrong = 45  my = 28 
+915 21
+ Wrong = 43  my = 21 
+916 20
+ Wrong = 45  my = 28 
+916 21
+ Wrong = 43  my = 21 
+917 20
+ Wrong = 45  my = 28 
+917 21
+ Wrong = 43  my = 21 
+918 20
+ Wrong = 45  my = 28 
+918 21
+ Wrong = 43  my = 21 
+919 20
+ Wrong = 45  my = 28 
+919 21
+ Wrong = 43  my = 21 
+920 20
+ Wrong = 46  my = 28 
+920 21
+ Wrong = 43  my = 21 
+921 20
+ Wrong = 46  my = 28 
+921 21
+ Wrong = 43  my = 21 
+922 20
+ Wrong = 46  my = 28 
+922 21
+ Wrong = 43  my = 21 
+923 20
+ Wrong = 46  my = 28 
+923 21
+ Wrong = 43  my = 21 
+924 20
+ Wrong = 46  my = 28 
+924 21
+ Wrong = 44  my = 21 
+925 20
+ Wrong = 46  my = 28 
+925 21
+ Wrong = 44  my = 21 
+926 20
+ Wrong = 46  my = 28 
+926 21
+ Wrong = 44  my = 21 
+927 20
+ Wrong = 46  my = 28 
+927 21
+ Wrong = 44  my = 21 
+928 20
+ Wrong = 46  my = 28 
+928 21
+ Wrong = 44  my = 21 
+929 20
+ Wrong = 46  my = 29 
+929 21
+ Wrong = 44  my = 21 
+930 20
+ Wrong = 46  my = 29 
+930 21
+ Wrong = 44  my = 21 
+931 20
+ Wrong = 46  my = 29 
+931 21
+ Wrong = 44  my = 21 
+932 20
+ Wrong = 46  my = 29 
+932 21
+ Wrong = 44  my = 21 
+933 20
+ Wrong = 46  my = 29 
+933 21
+ Wrong = 44  my = 21 
+934 20
+ Wrong = 46  my = 29 
+934 21
+ Wrong = 44  my = 21 
+935 20
+ Wrong = 46  my = 29 
+935 21
+ Wrong = 44  my = 21 
+936 20
+ Wrong = 46  my = 29 
+936 21
+ Wrong = 44  my = 21 
+937 20
+ Wrong = 46  my = 29 
+937 21
+ Wrong = 44  my = 21 
+938 20
+ Wrong = 46  my = 30 
+938 21
+ Wrong = 44  my = 21 
+939 20
+ Wrong = 46  my = 30 
+939 21
+ Wrong = 44  my = 22 
+940 20
+ Wrong = 47  my = 30 
+940 21
+ Wrong = 44  my = 22 
+941 20
+ Wrong = 47  my = 30 
+941 21
+ Wrong = 44  my = 22 
+942 20
+ Wrong = 47  my = 30 
+942 21
+ Wrong = 44  my = 22 
+943 20
+ Wrong = 47  my = 30 
+943 21
+ Wrong = 44  my = 22 
+944 20
+ Wrong = 47  my = 30 
+944 21
+ Wrong = 44  my = 22 
+945 20
+ Wrong = 47  my = 30 
+945 21
+ Wrong = 45  my = 22 
+946 20
+ Wrong = 47  my = 30 
+946 21
+ Wrong = 45  my = 22 
+947 20
+ Wrong = 47  my = 31 
+947 21
+ Wrong = 45  my = 22 
+948 20
+ Wrong = 47  my = 31 
+948 21
+ Wrong = 45  my = 23 
+949 20
+ Wrong = 47  my = 31 
+949 21
+ Wrong = 45  my = 23 
+949 22
+ Wrong = 43  my = 16 
+950 20
+ Wrong = 47  my = 31 
+950 21
+ Wrong = 45  my = 23 
+950 22
+ Wrong = 43  my = 16 
+951 20
+ Wrong = 47  my = 31 
+951 21
+ Wrong = 45  my = 23 
+951 22
+ Wrong = 43  my = 16 
+952 20
+ Wrong = 47  my = 31 
+952 21
+ Wrong = 45  my = 23 
+952 22
+ Wrong = 43  my = 16 
+953 20
+ Wrong = 47  my = 31 
+953 21
+ Wrong = 45  my = 23 
+953 22
+ Wrong = 43  my = 16 
+954 20
+ Wrong = 47  my = 31 
+954 21
+ Wrong = 45  my = 23 
+954 22
+ Wrong = 43  my = 16 
+955 20
+ Wrong = 47  my = 31 
+955 21
+ Wrong = 45  my = 23 
+955 22
+ Wrong = 43  my = 16 
+956 20
+ Wrong = 47  my = 32 
+956 21
+ Wrong = 45  my = 23 
+956 22
+ Wrong = 43  my = 16 
+957 20
+ Wrong = 47  my = 32 
+957 21
+ Wrong = 45  my = 24 
+957 22
+ Wrong = 43  my = 16 
+958 20
+ Wrong = 47  my = 32 
+958 21
+ Wrong = 45  my = 24 
+958 22
+ Wrong = 43  my = 17 
+959 20
+ Wrong = 47  my = 32 
+959 21
+ Wrong = 45  my = 24 
+959 22
+ Wrong = 43  my = 17 
+960 20
+ Wrong = 48  my = 32 
+960 21
+ Wrong = 45  my = 24 
+960 22
+ Wrong = 43  my = 17 
+961 20
+ Wrong = 48  my = 32 
+961 21
+ Wrong = 45  my = 24 
+961 22
+ Wrong = 43  my = 17 
+962 20
+ Wrong = 48  my = 32 
+962 21
+ Wrong = 45  my = 24 
+962 22
+ Wrong = 43  my = 17 
+963 20
+ Wrong = 48  my = 32 
+963 21
+ Wrong = 45  my = 24 
+963 22
+ Wrong = 43  my = 17 
+964 20
+ Wrong = 48  my = 32 
+964 21
+ Wrong = 45  my = 24 
+964 22
+ Wrong = 43  my = 17 
+965 20
+ Wrong = 48  my = 33 
+965 21
+ Wrong = 45  my = 24 
+965 22
+ Wrong = 43  my = 17 
+966 20
+ Wrong = 48  my = 33 
+966 21
+ Wrong = 46  my = 25 
+966 22
+ Wrong = 43  my = 17 
+967 20
+ Wrong = 48  my = 33 
+967 21
+ Wrong = 46  my = 25 
+967 22
+ Wrong = 43  my = 18 
+968 20
+ Wrong = 48  my = 33 
+968 21
+ Wrong = 46  my = 25 
+968 22
+ Wrong = 44  my = 18 
+969 20
+ Wrong = 48  my = 33 
+969 21
+ Wrong = 46  my = 25 
+969 22
+ Wrong = 44  my = 18 
+970 20
+ Wrong = 48  my = 33 
+970 21
+ Wrong = 46  my = 25 
+970 22
+ Wrong = 44  my = 18 
+971 20
+ Wrong = 48  my = 33 
+971 21
+ Wrong = 46  my = 25 
+971 22
+ Wrong = 44  my = 18 
+972 20
+ Wrong = 48  my = 33 
+972 21
+ Wrong = 46  my = 25 
+972 22
+ Wrong = 44  my = 18 
+973 20
+ Wrong = 48  my = 33 
+973 21
+ Wrong = 46  my = 25 
+973 22
+ Wrong = 44  my = 18 
+974 21
+ Wrong = 46  my = 25 
+974 22
+ Wrong = 44  my = 18 
+975 21
+ Wrong = 46  my = 26 
+975 22
+ Wrong = 44  my = 18 
+976 21
+ Wrong = 46  my = 26 
+976 22
+ Wrong = 44  my = 19 
+977 21
+ Wrong = 46  my = 26 
+977 22
+ Wrong = 44  my = 19 
+978 21
+ Wrong = 46  my = 26 
+978 22
+ Wrong = 44  my = 19 
+979 21
+ Wrong = 46  my = 26 
+979 22
+ Wrong = 44  my = 19 
+980 20
+ Wrong = 49  my = 34 
+980 21
+ Wrong = 46  my = 26 
+980 22
+ Wrong = 44  my = 19 
+981 20
+ Wrong = 49  my = 34 
+981 21
+ Wrong = 46  my = 26 
+981 22
+ Wrong = 44  my = 19 
+982 20
+ Wrong = 49  my = 34 
+982 21
+ Wrong = 46  my = 26 
+982 22
+ Wrong = 44  my = 19 
+983 21
+ Wrong = 46  my = 26 
+983 22
+ Wrong = 44  my = 19 
+984 21
+ Wrong = 46  my = 27 
+984 22
+ Wrong = 44  my = 19 
+985 21
+ Wrong = 46  my = 27 
+985 22
+ Wrong = 44  my = 20 
+986 21
+ Wrong = 46  my = 27 
+986 22
+ Wrong = 44  my = 20 
+987 21
+ Wrong = 47  my = 27 
+987 22
+ Wrong = 44  my = 20 
+988 21
+ Wrong = 47  my = 27 
+988 22
+ Wrong = 44  my = 20 
+989 21
+ Wrong = 47  my = 27 
+989 22
+ Wrong = 44  my = 20 
+990 21
+ Wrong = 47  my = 27 
+990 22
+ Wrong = 45  my = 20 
+991 21
+ Wrong = 47  my = 27 
+991 22
+ Wrong = 45  my = 20 
+992 21
+ Wrong = 47  my = 27 
+992 22
+ Wrong = 45  my = 20 
+993 21
+ Wrong = 47  my = 28 
+993 22
+ Wrong = 45  my = 20 
+994 21
+ Wrong = 47  my = 28 
+994 22
+ Wrong = 45  my = 21 
+995 21
+ Wrong = 47  my = 28 
+995 22
+ Wrong = 45  my = 21 
+996 21
+ Wrong = 47  my = 28 
+996 22
+ Wrong = 45  my = 21 
+997 21
+ Wrong = 47  my = 28 
+997 22
+ Wrong = 45  my = 21 
+998 21
+ Wrong = 47  my = 28 
+998 22
+ Wrong = 45  my = 21 
+999 21
+ Wrong = 47  my = 28 
+999 22
+ Wrong = 45  my = 21 
+1000 21
+ Wrong = 47  my = 28 
+1000 22
+ Wrong = 45  my = 21 

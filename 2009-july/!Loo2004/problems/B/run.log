@@ -1,0 +1,172 @@
+
+14.02.2004 23:11:04 RUN 0.9alpha by Kitten Computing
+
+14.02.2004 23:11:04 Testing solution, in=b.in, out=b.out, ext=u, tl=100000000, ml=100000000
+14.02.2004 23:11:04 No tests found
+
+
+14.02.2004 23:11:27 RUN 0.9alpha by Kitten Computing
+
+14.02.2004 23:11:27 Testing solution, in=b.in, out=b.out, ext=u, tl=100000000, ml=100000000
+
+14.02.2004 23:11:27 Running on test 01
+14.02.2004 23:11:27 Unable to determine memory usage properties for PID=236
+14.02.2004 23:11:27 Processor time used: system=20,02880 ms, user=10,01440 ms total=30,04320 ms.
+14.02.2004 23:11:27 Factical execution time: 91 ms
+14.02.2004 23:11:27 Maximal memory usage: 600 Kb
+14.02.2004 23:11:27 Successful termination
+14.02.2004 23:11:27 Checker result: Accepted
+14.02.2004 23:11:27 Checker comments:
+* ok * 
+
+14.02.2004 23:11:27 Running on test 02
+14.02.2004 23:11:27 Unable to determine memory usage properties for PID=684
+14.02.2004 23:11:27 Unable to determine memory usage properties for PID=684
+14.02.2004 23:11:27 Processor time used: system=50,07200 ms, user=10,01440 ms total=60,08640 ms.
+14.02.2004 23:11:27 Factical execution time: 80 ms
+14.02.2004 23:11:27 Maximal memory usage: 568 Kb
+14.02.2004 23:11:27 Successful termination
+14.02.2004 23:11:27 Checker result: Accepted
+14.02.2004 23:11:27 Checker comments:
+* ok * 
+
+14.02.2004 23:11:27 Running on test 03
+14.02.2004 23:11:27 Unable to determine memory usage properties for PID=416
+14.02.2004 23:11:27 Processor time used: system=30,04320 ms, user=20,02880 ms total=50,07200 ms.
+14.02.2004 23:11:27 Factical execution time: 80 ms
+14.02.2004 23:11:27 Maximal memory usage: 624 Kb
+14.02.2004 23:11:27 Successful termination
+14.02.2004 23:11:27 Checker result: Accepted
+14.02.2004 23:11:27 Checker comments:
+* ok * 
+
+14.02.2004 23:11:27 Running on test 04
+14.02.2004 23:11:27 Unable to determine memory usage properties for PID=936
+14.02.2004 23:11:27 Processor time used: system=60,08640 ms, user=10,01440 ms total=70,10080 ms.
+14.02.2004 23:11:27 Factical execution time: 110 ms
+14.02.2004 23:11:27 Maximal memory usage: 600 Kb
+14.02.2004 23:11:27 Successful termination
+14.02.2004 23:11:28 Checker result: Accepted
+14.02.2004 23:11:28 Checker comments:
+* ok * 
+
+14.02.2004 23:11:28 Running on test 05
+14.02.2004 23:11:28 Unable to determine memory usage properties for PID=1284
+14.02.2004 23:11:28 Processor time used: system=40,05760 ms, user=20,02880 ms total=60,08640 ms.
+14.02.2004 23:11:28 Factical execution time: 101 ms
+14.02.2004 23:11:28 Maximal memory usage: 624 Kb
+14.02.2004 23:11:28 Successful termination
+14.02.2004 23:11:28 Checker result: Accepted
+14.02.2004 23:11:28 Checker comments:
+* ok * 
+
+14.02.2004 23:11:28 Running on test 06
+14.02.2004 23:11:28 Unable to determine memory usage properties for PID=1352
+14.02.2004 23:11:28 Unable to determine memory usage properties for PID=1352
+14.02.2004 23:11:28 Processor time used: system=50,07200 ms, user=20,02880 ms total=70,10080 ms.
+14.02.2004 23:11:28 Factical execution time: 90 ms
+14.02.2004 23:11:28 Maximal memory usage: 616 Kb
+14.02.2004 23:11:28 Successful termination
+14.02.2004 23:11:28 Checker result: Accepted
+14.02.2004 23:11:28 Checker comments:
+* ok * 
+
+14.02.2004 23:11:28 Running on test 07
+14.02.2004 23:11:28 Unable to determine memory usage properties for PID=1520
+14.02.2004 23:11:28 Unable to determine memory usage properties for PID=1520
+14.02.2004 23:11:28 Processor time used: system=50,07200 ms, user=20,02880 ms total=70,10080 ms.
+14.02.2004 23:11:28 Factical execution time: 90 ms
+14.02.2004 23:11:28 Maximal memory usage: 616 Kb
+14.02.2004 23:11:28 Successful termination
+14.02.2004 23:11:28 Checker result: Accepted
+14.02.2004 23:11:28 Checker comments:
+* ok * 
+
+14.02.2004 23:11:28 Running on test 08
+14.02.2004 23:11:28 Unable to determine memory usage properties for PID=1312
+14.02.2004 23:11:28 Processor time used: system=50,07200 ms, user=10,01440 ms total=60,08640 ms.
+14.02.2004 23:11:28 Factical execution time: 80 ms
+14.02.2004 23:11:28 Maximal memory usage: 628 Kb
+14.02.2004 23:11:28 Successful termination
+14.02.2004 23:11:28 Checker result: Accepted
+14.02.2004 23:11:28 Checker comments:
+* ok * 
+
+14.02.2004 23:11:28 Running on test 09
+14.02.2004 23:11:28 Unable to determine memory usage properties for PID=1216
+14.02.2004 23:11:28 Processor time used: system=30,04320 ms, user=20,02880 ms total=50,07200 ms.
+14.02.2004 23:11:28 Factical execution time: 111 ms
+14.02.2004 23:11:28 Maximal memory usage: 680 Kb
+14.02.2004 23:11:28 Successful termination
+14.02.2004 23:11:28 Checker result: Accepted
+14.02.2004 23:11:28 Checker comments:
+* ok * 
+
+14.02.2004 23:11:28 Running on test 10
+14.02.2004 23:11:29 Unable to determine memory usage properties for PID=1008
+14.02.2004 23:11:29 Unable to determine memory usage properties for PID=1008
+14.02.2004 23:11:29 Processor time used: system=50,07200 ms, user=10,01440 ms total=60,08640 ms.
+14.02.2004 23:11:29 Factical execution time: 90 ms
+14.02.2004 23:11:29 Maximal memory usage: 600 Kb
+14.02.2004 23:11:29 Successful termination
+14.02.2004 23:11:29 Checker result: Accepted
+14.02.2004 23:11:29 Checker comments:
+* ok * 
+
+14.02.2004 23:11:29 Running on test 11
+14.02.2004 23:11:29 Unable to determine memory usage properties for PID=224
+14.02.2004 23:11:29 Unable to determine memory usage properties for PID=224
+14.02.2004 23:11:29 Processor time used: system=20,02880 ms, user=20,02880 ms total=40,05760 ms.
+14.02.2004 23:11:29 Factical execution time: 80 ms
+14.02.2004 23:11:29 Maximal memory usage: 668 Kb
+14.02.2004 23:11:29 Successful termination
+14.02.2004 23:11:29 Checker result: Accepted
+14.02.2004 23:11:29 Checker comments:
+* ok * 
+
+14.02.2004 23:11:29 Running on test 12
+14.02.2004 23:11:29 Unable to determine memory usage properties for PID=704
+14.02.2004 23:11:29 Unable to determine memory usage properties for PID=704
+14.02.2004 23:11:29 Processor time used: system=20,02880 ms, user=20,02880 ms total=40,05760 ms.
+14.02.2004 23:11:29 Factical execution time: 70 ms
+14.02.2004 23:11:29 Maximal memory usage: 668 Kb
+14.02.2004 23:11:29 Successful termination
+14.02.2004 23:11:29 Checker result: Accepted
+14.02.2004 23:11:29 Checker comments:
+* ok * 
+
+14.02.2004 23:11:29 Running on test 13
+14.02.2004 23:11:29 Unable to determine memory usage properties for PID=1108
+14.02.2004 23:11:29 Unable to determine memory usage properties for PID=1108
+14.02.2004 23:11:29 Processor time used: system=20,02880 ms, user=20,02880 ms total=40,05760 ms.
+14.02.2004 23:11:29 Factical execution time: 61 ms
+14.02.2004 23:11:29 Maximal memory usage: 668 Kb
+14.02.2004 23:11:29 Successful termination
+14.02.2004 23:11:29 Checker result: Accepted
+14.02.2004 23:11:29 Checker comments:
+* ok * 
+
+14.02.2004 23:11:29 Running on test 14
+14.02.2004 23:11:29 Unable to determine memory usage properties for PID=1500
+14.02.2004 23:11:29 Unable to determine memory usage properties for PID=1500
+14.02.2004 23:11:29 Processor time used: system=30,04320 ms, user=20,02880 ms total=50,07200 ms.
+14.02.2004 23:11:29 Factical execution time: 60 ms
+14.02.2004 23:11:29 Maximal memory usage: 668 Kb
+14.02.2004 23:11:29 Successful termination
+14.02.2004 23:11:29 Checker result: Accepted
+14.02.2004 23:11:29 Checker comments:
+* ok * 
+
+14.02.2004 23:11:29 Running on test 15
+14.02.2004 23:11:29 Unable to determine memory usage properties for PID=1408
+14.02.2004 23:11:29 Processor time used: system=10,01440 ms, user=40,05760 ms total=50,07200 ms.
+14.02.2004 23:11:29 Factical execution time: 60 ms
+14.02.2004 23:11:29 Maximal memory usage: 668 Kb
+14.02.2004 23:11:29 Successful termination
+14.02.2004 23:11:30 Checker result: Accepted
+14.02.2004 23:11:30 Checker comments:
+* ok * 
+
+14.02.2004 23:11:30 Total maximal work time: 70,10080 ms
+14.02.2004 23:11:30 Total maximal memory usage: 680 Kb
+

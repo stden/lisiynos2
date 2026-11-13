@@ -1,0 +1,39 @@
+<contest id="d5" monitortype="acm" caption="День 5. 'Вычислительная геометрия'" length="180">
+
+<problem id="d5A" 
+         caption="A. Тигр в загоне" 
+         checker="Problems\Day5\A\Checker.exe" 
+         testdir="Problems\Day5\A\" 
+         infile="tiger.in" outfile="tiger.out" 
+         testcount="9" 
+         memorylimit="33554432" timelimit="1000" 
+/>
+
+<problem id="d5B" 
+         caption="B. Штраф за левые повороты" 
+         checker="Problems\Day5\B\Checker.exe" 
+         testdir="Problems\Day5\B\" 
+         infile="left.in" outfile="left.out" 
+         testcount="10" 
+         memorylimit="33554432" timelimit="1000" 
+/>
+
+<problem id="d5C" 
+         caption="C. Собака на привязи" 
+         checker="Problems\Day5\C\Checker.exe" 
+         testdir="Problems\Day5\C\" 
+         infile="dog.in" outfile="dog.out" 
+         testcount="8" 
+         memorylimit="33554432" timelimit="1000" 
+/>
+
+<problem id="d5D" 
+         caption="D. Бомбардировки" 
+         checker="Problems\Day5\D\Checker.exe" 
+         testdir="Problems\Day5\D\" 
+         infile="bombard.in" outfile="bombard.out" 
+         testcount="11" 
+         memorylimit="33554432" timelimit="1000" 
+/>
+
+</contest>

@@ -1,0 +1,21 @@
+TESTING=47
+CREATED=12.07.2010 15:35:58
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+a.DPR(19) Warning: FOR-Loop variable 'j' may be undefined after loop
+a.DPR(14) Warning: FOR-Loop variable 'j' may be undefined after loop
+a.DPR(10) Hint: Value assigned to 'n' never used
+a.DPR(14) Warning: Variable 'j' might not have been initialized
+a.DPR(2) Hint: Variable 'a' is declared but never used in 'tree'
+a.DPR(31) 
+32 lines, 0.08 seconds, 11244 bytes code, 41813 bytes data.
+
+$#@
+TESTID=1
+TESTRES=8
+TESTSCORE=0
+TESTCOMM=
+COMPLETE=12.07.2010 15:35:58
+TOTAL=0

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE office:document-content PUBLIC "-//OpenOffice.org//DTD OfficeDocument 2.0//EN" "office.dtd"> 
+ 
+<?xtpipes file="oo-text.4xt" ?> 
+<office:document-content  
+xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0"  
+xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0"  
+xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0"  
+xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"  
+xmlns:fo="http://www.w3.org/1999/XSL/Format"  
+xmlns:xlink="http://www.w3.org/1999/xlink"  
+xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"  
+xmlns:dc="http://purl.org/dc/elements/1.1/"  
+xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0"  
+xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" 
+xmlns:svg="http://www.w3.org/2000/svg"  
+xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0"  
+xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0"  
+xmlns:math="http://www.w3.org/1998/Math/MathML"  
+xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0"  
+xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0"  
+xmlns:ooo="http://openoffice.org/2004/office"  
+xmlns:ooow="http://openoffice.org/2004/writer"  
+xmlns:oooc="http://openoffice.org/2004/calc"  
+xmlns:dom="http://www.w3.org/2001/xml-events"  
+xmlns:xforms="http://www.w3.org/2002/xforms"  
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0"  
+xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" 
+xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" 
+office:version="1.0" > 
+<office:automatic-styles> <?tex4ht-lg file="list.lg" ?> <style:style style:name="Figure" style:family="section"> 
+<style:section-properties fo:margin-left="0.25in" fo:margin-right="0.25in" style:editable="true"> 
+<style:columns fo:column-count="0" fo:column-gap="0in"/> </style:section-properties> </style:style> 
+<style:page-layout style:name="Standard-page-layout"> 
+<style:page-layout-properties fo:page-width="614.295pt" fo:page-height="794.96999pt" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in"> 
+<style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:adjustment="left" style:rel-width="25%" style:color="#000000"/> 
+</style:page-layout-properties> 
+<style:header-style/> <style:footer-style/> </style:page-layout> 
+ 
+</office:automatic-styles>     <office:body><office:text>
+<!--l. 32--><text:p text:style-name="Text-body">&#x0412;&#x043E; &#x0432;&#x0441;&#x0435;&#x0445; &#x0437;&#x0430;&#x0434;&#x0430;&#x0447;&#x0430;&#x0445; &#x0441;&#x0447;&#x0438;&#x0442;&#x0430;&#x0435;&#x0442;&#x0441;&#x044F;, &#x0447;&#x0442;&#x043E; &#x0430;&#x0440;&#x0438;&#x0444;&#x043C;&#x0435;&#x0442;&#x0438;&#x0447;&#x0435;&#x0441;&#x043A;&#x0438;&#x0435; &#x0434;&#x0435;&#x0439;&#x0441;&#x0442;&#x0432;&#x0438;&#x044F; &#x0441; &#x0446;&#x0435;&#x043B;&#x044B;&#x043C;&#x0438; &#x0447;&#x0438;&#x0441;&#x043B;&#x0430;&#x043C;&#x0438; &#x0432;&#x044B;&#x043F;&#x043E;&#x043B;&#x043D;&#x044F;&#x044E;&#x0442;&#x0441;&#x044F; &#x0437;&#x0430; <!--l. 33--><draw:frame draw:style-name="mml-inline" draw:name="mobj-2" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m2" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> .
+     </text:p> 
+<text:list text:style-name="Enumerate" > 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x0417;&#x0430;&#x0434;&#x0430;&#x043D;&#x043E; &#x043C;&#x043D;&#x043E;&#x0436;&#x0435;&#x0441;&#x0442;&#x0432;&#x043E; &#x0438;&#x0437; <!--l. 38--><draw:frame draw:style-name="mml-inline" draw:name="mobj-3" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m3" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0446;&#x0435;&#x043B;&#x044B;&#x0445;  &#x0447;&#x0438;&#x0441;&#x0435;&#x043B;.  &#x0422;&#x0440;&#x0435;&#x0431;&#x0443;&#x0435;&#x0442;&#x0441;&#x044F;  &#x043D;&#x0430;&#x0439;&#x0442;&#x0438;  &#x0441;&#x0443;&#x043C;&#x043C;&#x0443;  &#x043F;&#x0440;&#x043E;&#x0438;&#x0437;&#x0432;&#x0435;&#x0434;&#x0435;&#x043D;&#x0438;&#x0439;  &#x0432;&#x0441;&#x0435;&#x0445;  &#x043F;&#x043E;&#x0434;&#x043C;&#x043D;&#x043E;&#x0436;&#x0435;&#x0441;&#x0442;&#x0432;  &#x0437;&#x0430;&#x0434;&#x0430;&#x043D;&#x043D;&#x043E;&#x0433;&#x043E;  &#x043C;&#x043D;&#x043E;&#x0436;&#x0435;&#x0441;&#x0442;&#x0432;&#x0430;.  <!--l. 39--><draw:frame draw:style-name="mml-inline" draw:name="mobj-4" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m4" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame>  .
+     </text:p> 
+</text:list-item> 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x0417;&#x0430;&#x0434;&#x0430;&#x043D;&#x043E; <!--l. 43--><draw:frame draw:style-name="mml-inline" draw:name="mobj-5" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m5" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x043F;&#x0440;&#x044F;&#x043C;&#x043E;&#x0443;&#x0433;&#x043E;&#x043B;&#x044C;&#x043D;&#x0438;&#x043A;&#x043E;&#x0432; &#x043D;&#x0430; &#x043F;&#x043B;&#x043E;&#x0441;&#x043A;&#x043E;&#x0441;&#x0442;&#x0438; &#x0441;&#x043E; &#x0441;&#x0442;&#x043E;&#x0440;&#x043E;&#x043D;&#x0430;&#x043C;&#x0438;, &#x043F;&#x0430;&#x0440;&#x0430;&#x043B;&#x043B;&#x0435;&#x043B;&#x044C;&#x043D;&#x044B;&#x043C;&#x0438; &#x043E;&#x0441;&#x044F;&#x043C; &#x043A;&#x043E;&#x043E;&#x0440;&#x0434;&#x0438;&#x043D;&#x0430;&#x0442;. &#x041D;&#x0430;&#x0439;&#x0434;&#x0438;&#x0442;&#x0435; &#x043F;&#x043B;&#x043E;&#x0449;&#x0430;&#x0434;&#x044C;
+     &#x043F;&#x0435;&#x0440;&#x0435;&#x0441;&#x0435;&#x0447;&#x0435;&#x043D;&#x0438;&#x044F; &#x0437;&#x0430;&#x0434;&#x0430;&#x043D;&#x043D;&#x044B;&#x0445; &#x043F;&#x0440;&#x044F;&#x043C;&#x043E;&#x0443;&#x0433;&#x043E;&#x043B;&#x044C;&#x043D;&#x0438;&#x043A;&#x043E;&#x0432;. <!--l. 45--><draw:frame draw:style-name="mml-inline" draw:name="mobj-6" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m6" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> .
+     </text:p> 
+</text:list-item> 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x0412; &#x043F;&#x0440;&#x044F;&#x043C;&#x043E;&#x0443;&#x0433;&#x043E;&#x043B;&#x044C;&#x043D;&#x043E;&#x0439; &#x0442;&#x0430;&#x0431;&#x043B;&#x0438;&#x0446;&#x0435; <!--l. 48--><draw:frame draw:style-name="mml-inline" draw:name="mobj-7" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m7" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0437;&#x0430;&#x043F;&#x0438;&#x0441;&#x0430;&#x043D;&#x044B; &#x043F;&#x0440;&#x043E;&#x0438;&#x0437;&#x0432;&#x043E;&#x043B;&#x044C;&#x043D;&#x044B;&#x0435; &#x0432;&#x0435;&#x0449;&#x0435;&#x0441;&#x0442;&#x0432;&#x0435;&#x043D;&#x043D;&#x044B;&#x0435; &#x0447;&#x0438;&#x0441;&#x043B;&#x0430;. &#x0420;&#x0430;&#x0437;&#x0440;&#x0435;&#x0448;&#x0430;&#x0435;&#x0442;&#x0441;&#x044F; &#x043C;&#x0435;&#x043D;&#x044F;&#x0442;&#x044C; &#x0437;&#x043D;&#x0430;&#x043A; &#x0443; &#x0432;&#x0441;&#x0435;&#x0445; &#x0447;&#x0438;&#x0441;&#x0435;&#x043B; &#x043A;&#x0430;&#x043A;&#x043E;&#x0439;-&#x043B;&#x0438;&#x0431;&#x043E;
+     &#x0441;&#x0442;&#x0440;&#x043E;&#x043A;&#x0438; &#x0438;&#x043B;&#x0438; &#x043A;&#x0430;&#x043A;&#x043E;&#x0433;&#x043E;-&#x043B;&#x0438;&#x0431;&#x043E; &#x0441;&#x0442;&#x043E;&#x043B;&#x0431;&#x0446;&#x0430;. &#x041F;&#x0440;&#x0438;&#x0434;&#x0443;&#x043C;&#x0430;&#x0439;&#x0442;&#x0435; &#x0430;&#x043B;&#x0433;&#x043E;&#x0440;&#x0438;&#x0442;&#x043C;, &#x043A;&#x043E;&#x0442;&#x043E;&#x0440;&#x044B;&#x0439; &#x0432;&#x044B;&#x043F;&#x043E;&#x043B;&#x044F;&#x044F; &#x0440;&#x0430;&#x0437;&#x0440;&#x0435;&#x0448;&#x0451;&#x043D;&#x043D;&#x044B;&#x0435; &#x043E;&#x043F;&#x0435;&#x0440;&#x0430;&#x0446;&#x0438;&#x0438;
+     &#x0434;&#x043E;&#x0431;&#x044A;&#x0451;&#x0442;&#x0441;&#x044F; &#x0442;&#x043E;&#x0433;&#x043E;, &#x0447;&#x0442;&#x043E;&#x0431;&#x044B; &#x0432; &#x043A;&#x0430;&#x0436;&#x0434;&#x043E;&#x0439; &#x0441;&#x0442;&#x0440;&#x043E;&#x043A;&#x0435; &#x0438; &#x0441;&#x0442;&#x043E;&#x043B;&#x0431;&#x0446;&#x0435; &#x0441;&#x0443;&#x043C;&#x043C;&#x0430; &#x0447;&#x0438;&#x0441;&#x0435;&#x043B; &#x0431;&#x044B;&#x043B;&#x0430; &#x0431;&#x044B; &#x043D;&#x0435;&#x043E;&#x0442;&#x0440;&#x0438;&#x0446;&#x0430;&#x0442;&#x0435;&#x043B;&#x044C;&#x043D;&#x0430;. &#x041E;&#x0446;&#x0435;&#x043D;&#x0438;&#x0442;&#x0435;
+     &#x0432;&#x0440;&#x0435;&#x043C;&#x044F; &#x0440;&#x0430;&#x0431;&#x043E;&#x0442;&#x044B;.
+     </text:p> 
+</text:list-item> 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x0414;&#x043E;&#x043A;&#x0430;&#x0436;&#x0438;&#x0442;&#x0435;, &#x0447;&#x0442;&#x043E; &#x0433;&#x0440;&#x0443;&#x043F;&#x043F;&#x0443; &#x043B;&#x044E;&#x0434;&#x0435;&#x0439; &#x0432;&#x0441;&#x0435;&#x0433;&#x0434;&#x0430; &#x043C;&#x043E;&#x0436;&#x043D;&#x043E; &#x0440;&#x0430;&#x0437;&#x0431;&#x0438;&#x0442;&#x044C; &#x043D;&#x0430; &#x0434;&#x0432;&#x0435; &#x043A;&#x043E;&#x043C;&#x0430;&#x043D;&#x0434;&#x044B; &#x0442;&#x0430;&#x043A;, &#x0447;&#x0442;&#x043E;&#x0431;&#x044B; &#x043E;&#x0431;&#x0449;&#x0435;&#x0435; &#x0447;&#x0438;&#x0441;&#x043B;&#x043E; &#x043F;&#x0430;&#x0440;
+     &#x0434;&#x0440;&#x0443;&#x0437;&#x0435;&#x0439;, &#x043E;&#x043A;&#x0430;&#x0437;&#x0430;&#x0432;&#x0448;&#x0438;&#x0445;&#x0441;&#x044F; &#x0432; &#x043E;&#x0434;&#x043D;&#x043E;&#x0439; &#x0438; &#x0442;&#x043E;&#x0439; &#x0436;&#x0435; &#x043A;&#x043E;&#x043C;&#x0430;&#x043D;&#x0434;&#x0435;, &#x0431;&#x044B;&#x043B;&#x043E; &#x043C;&#x0435;&#x043D;&#x044C;&#x0448;&#x0435; &#x0447;&#x0438;&#x0441;&#x043B;&#x0430; &#x043F;&#x0430;&#x0440; &#x0434;&#x0440;&#x0443;&#x0437;&#x0435;&#x0439;, &#x043E;&#x043A;&#x0430;&#x0437;&#x0430;&#x0432;&#x0448;&#x0438;&#x0445;&#x0441;&#x044F; &#x0432;
+     &#x0440;&#x0430;&#x0437;&#x043D;&#x044B;&#x0445; &#x043A;&#x043E;&#x043C;&#x0430;&#x043D;&#x0434;&#x0430;&#x0445;.
+     </text:p> 
+</text:list-item> 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x0412; &#x0422;&#x0440;&#x0438;&#x0434;&#x0435;&#x0432;&#x044F;&#x0442;&#x043E;&#x043C; &#x043A;&#x043E;&#x0440;&#x043E;&#x043B;&#x0435;&#x0432;&#x0441;&#x0442;&#x0432;&#x0435; &#x0435;&#x0441;&#x0442;&#x044C; &#x043C;&#x043E;&#x043D;&#x0435;&#x0442;&#x044B; &#x043D;&#x043E;&#x043C;&#x0438;&#x043D;&#x0430;&#x043B;&#x043E;&#x043C; <!--l. 59--><draw:frame draw:style-name="mml-inline" draw:name="mobj-8" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m8" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0440;&#x0443;&#x0431;&#x043B;&#x0435;&#x0439;. &#x0416;&#x0438;&#x0442;&#x0435;&#x043B;&#x044C; &#x043A;&#x043E;&#x0440;&#x043E;&#x043B;&#x0435;&#x0432;&#x0441;&#x0442;&#x0432;&#x0430;, &#x043D;&#x0430;&#x043A;&#x043E;&#x043F;&#x0438;&#x0432; &#x043D;&#x0435;&#x0441;&#x043A;&#x043E;&#x043B;&#x044C;&#x043A;&#x043E; &#x043C;&#x043E;&#x043D;&#x0435;&#x0442;, &#x0437;&#x0430;&#x043A;&#x043B;&#x044E;&#x0447;&#x0438;&#x043B; &#x0441;&#x0434;&#x0435;&#x043B;&#x043A;&#x0443; &#x0441; &#x0434;&#x044C;&#x044F;&#x0432;&#x043E;&#x043B;&#x043E;&#x043C;, &#x043F;&#x043E; &#x0443;&#x0441;&#x043B;&#x043E;&#x0432;&#x0438;&#x044F;&#x043C;
+     &#x043A;&#x043E;&#x0442;&#x043E;&#x0440;&#x043E;&#x0439; &#x043E;&#x043D; &#x043E;&#x0431;&#x044F;&#x0437;&#x0430;&#x043D; &#x043A;&#x0430;&#x0436;&#x0434;&#x044B;&#x0439; &#x0434;&#x0435;&#x043D;&#x044C; &#x043E;&#x0442;&#x0434;&#x0430;&#x0432;&#x0430;&#x0442;&#x044C; &#x0434;&#x044C;&#x044F;&#x0432;&#x043E;&#x043B;&#x0443; &#x043A;&#x0430;&#x043A;&#x0443;&#x044E;-&#x0442;&#x043E; &#x043C;&#x043E;&#x043D;&#x0435;&#x0442;&#x0443;. &#x041F;&#x0440;&#x0438; &#x044D;&#x0442;&#x043E;&#x043C; &#x0432; &#x043E;&#x0431;&#x043C;&#x0435;&#x043D; &#x043E;&#x043D; &#x043C;&#x043E;&#x0436;&#x0435;&#x0442;
+     &#x043F;&#x043E;&#x043B;&#x0443;&#x0447;&#x0438;&#x0442;&#x044C; &#x043B;&#x044E;&#x0431;&#x043E;&#x0435; &#x043A;&#x043E;&#x043B;&#x0438;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x043E; &#x043C;&#x043E;&#x043D;&#x0435;&#x0442; &#x043C;&#x0435;&#x043D;&#x044C;&#x0448;&#x0435;&#x0433;&#x043E; &#x0434;&#x043E;&#x0441;&#x0442;&#x043E;&#x0438;&#x043D;&#x0441;&#x0442;&#x0432;&#x0430;, &#x0435;&#x0441;&#x043B;&#x0438; &#x0442;&#x0430;&#x043A;&#x0438;&#x0435; &#x0435;&#x0441;&#x0442;&#x044C;. &#x041D;&#x0430;&#x043F;&#x0440;&#x0438;&#x043C;&#x0435;&#x0440;, &#x043E;&#x0442;&#x0434;&#x0430;&#x0432;&#x0430;&#x044F; &#x043C;&#x043E;&#x043D;&#x0435;&#x0442;&#x0443;
+     &#x0432; <!--l. 63--><draw:frame draw:style-name="mml-inline" draw:name="mobj-9" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m9" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0440;&#x0443;&#x0431;&#x043B;&#x0435;&#x0439;, &#x043E;&#x043D; &#x043C;&#x043E;&#x0436;&#x0435;&#x0442; &#x0437;&#x0430;&#x0431;&#x0440;&#x0430;&#x0442;&#x044C; <!--l. 63--><draw:frame draw:style-name="mml-inline" draw:name="mobj-10" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m10" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x043C;&#x043E;&#x043D;&#x0435;&#x0442; &#x043F;&#x043E; <!--l. 63--><draw:frame draw:style-name="mml-inline" draw:name="mobj-11" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m11" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0440;&#x0443;&#x0431;&#x043B;&#x0435;&#x0439; &#x0438; <!--l. 63--><draw:frame draw:style-name="mml-inline" draw:name="mobj-12" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m12" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x043C;&#x043E;&#x043D;&#x0435;&#x0442; &#x043F;&#x043E; <!--l. 63--><draw:frame draw:style-name="mml-inline" draw:name="mobj-13" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m13" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0440;&#x0443;&#x0431;&#x043B;&#x044E;. &#x0415;&#x0441;&#x043B;&#x0438; &#x0436;&#x0435; &#x0435;&#x043C;&#x0443; &#x043D;&#x0435;&#x0447;&#x0435;&#x0433;&#x043E; &#x043E;&#x0442;&#x0434;&#x0430;&#x0442;&#x044C;, &#x0442;&#x043E; &#x043E;&#x043D; &#x043E;&#x0442;&#x043F;&#x0440;&#x0430;&#x0432;&#x043B;&#x044F;&#x0435;&#x0442;&#x0441;&#x044F; &#x0432; &#x0430;&#x0434;. &#x0414;&#x043E;&#x043A;&#x0430;&#x0436;&#x0438;&#x0442;&#x0435;, &#x0447;&#x0442;&#x043E; &#x0436;&#x0438;&#x0442;&#x0435;&#x043B;&#x044C; &#x043D;&#x0435; &#x0441;&#x043C;&#x043E;&#x0436;&#x0435;&#x0442; &#x0436;&#x0438;&#x0442;&#x044C;
+     &#x0431;&#x0435;&#x0441;&#x043A;&#x043E;&#x043D;&#x0435;&#x0447;&#x043D;&#x043E;.
+     </text:p> 
+</text:list-item> 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x0418;&#x043C;&#x0435;&#x0435;&#x0442;&#x0441;&#x044F; <!--l. 68--><draw:frame draw:style-name="mml-inline" draw:name="mobj-14" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m14" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0433;&#x0438;&#x0440;&#x044C;. &#x0412;&#x0435;&#x0441; <!--l. 68--><draw:frame draw:style-name="mml-inline" draw:name="mobj-15" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m15" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> -&#x043E;&#x0439;
+     &#x0433;&#x0438;&#x0440;&#x0438; &#x0446;&#x0435;&#x043B;&#x043E;&#x0435; &#x0447;&#x0438;&#x0441;&#x043B;&#x043E; <!--l. 68--><draw:frame draw:style-name="mml-inline" draw:name="mobj-16" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m16" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> .
+     &#x0418;&#x0437;&#x0432;&#x0435;&#x0441;&#x0442;&#x043D;&#x043E;, &#x0447;&#x0442;&#x043E; &#x0441;&#x0443;&#x043C;&#x043C;&#x0430; &#x0432;&#x0435;&#x0441;&#x043E;&#x0432; &#x0433;&#x0438;&#x0440;&#x044C; &#x0447;&#x0451;&#x0442;&#x043D;&#x0430;&#x044F;. &#x041F;&#x0440;&#x0438;&#x0434;&#x0443;&#x043C;&#x0430;&#x0439;&#x0442;&#x0435; &#x0430;&#x043B;&#x0433;&#x043E;&#x0440;&#x0438;&#x0442;&#x043C;, &#x0440;&#x0430;&#x0441;&#x043A;&#x043B;&#x0430;&#x0434;&#x044B;&#x0432;&#x0430;&#x044E;&#x0449;&#x0438;&#x0439; &#x0432;&#x0441;&#x0435; &#x0433;&#x0438;&#x0440;&#x0438; &#x043D;&#x0430; &#x0434;&#x0432;&#x0435;
+     &#x0447;&#x0430;&#x0448;&#x0438; &#x0432;&#x0435;&#x0441;&#x043E;&#x0432; &#x0442;&#x0430;&#x043A;, &#x0447;&#x0442;&#x043E;&#x0431;&#x044B; &#x0447;&#x0430;&#x0448;&#x0438; &#x043D;&#x0430;&#x0445;&#x043E;&#x0434;&#x0438;&#x043B;&#x0438;&#x0441;&#x044C; &#x0432; &#x0440;&#x0430;&#x0432;&#x043D;&#x043E;&#x0432;&#x0435;&#x0441;&#x0438;&#x0438;. <!--l. 70--><draw:frame draw:style-name="mml-inline" draw:name="mobj-17" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m17" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     </text:p> 
+</text:list-item> 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x0430;) &#x0414;&#x0430;&#x043D;&#x0430; &#x0444;&#x0443;&#x043D;&#x043A;&#x0446;&#x0438;&#x044F; <!--l. 73--><draw:frame draw:style-name="mml-inline" draw:name="mobj-18" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m18" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> .
+     &#x041D;&#x0430;&#x0439;&#x0442;&#x0438; &#x043F;&#x0435;&#x0440;&#x0438;&#x043E;&#x0434; &#x043F;&#x043E;&#x0441;&#x043B;&#x0435;&#x0434;&#x043E;&#x0432;&#x0430;&#x0442;&#x0435;&#x043B;&#x044C;&#x043D;&#x043E;&#x0441;&#x0442;&#x0438; <!--l. 73--><draw:frame draw:style-name="mml-inline" draw:name="mobj-19" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m19" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> .
+     &#x041A;&#x043E;&#x043B;&#x0438;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x043E; &#x0434;&#x0435;&#x0439;&#x0441;&#x0442;&#x0432;&#x0438;&#x0439; &#x0434;&#x043E;&#x043B;&#x0436;&#x043D;&#x043E; &#x0431;&#x044B;&#x0442;&#x044C; &#x043F;&#x0440;&#x043E;&#x043F;&#x043E;&#x0440;&#x0446;&#x0438;&#x043E;&#x043D;&#x0430;&#x043B;&#x044C;&#x043D;&#x043E; &#x0441;&#x0443;&#x043C;&#x043C;&#x0430;&#x0440;&#x043D;&#x043E;&#x0439; &#x0434;&#x043B;&#x0438;&#x043D;&#x0435; &#x043F;&#x0440;&#x0435;&#x0434;&#x043F;&#x0435;&#x0440;&#x0438;&#x043E;&#x0434;&#x0430; &#x0438; &#x043F;&#x0435;&#x0440;&#x0438;&#x043E;&#x0434;&#x0430;. <text:line-break 
+/>&#x0431;) &#x0414;&#x0430;&#x043D; &#x043C;&#x0430;&#x0441;&#x0441;&#x0438;&#x0432; &#x0447;&#x0438;&#x0441;&#x0435;&#x043B; <!--l. 75--><draw:frame draw:style-name="mml-inline" draw:name="mobj-20" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m20" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> ,
+     &#x0433;&#x0434;&#x0435; <!--l. 75--><draw:frame draw:style-name="mml-inline" draw:name="mobj-21" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m21" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+
+     &#x0434;&#x043B;&#x044F; &#x0432;&#x0441;&#x0435;&#x0445; <!--l. 75--><draw:frame draw:style-name="mml-inline" draw:name="mobj-22" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m22" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> .
+     &#x041D;&#x0430;&#x0439;&#x0434;&#x0438;&#x0442;&#x0435; &#x043F;&#x043E;&#x0432;&#x0442;&#x043E;&#x0440;&#x044F;&#x044E;&#x0449;&#x0438;&#x0435;&#x0441;&#x044F; &#x0437;&#x043D;&#x0430;&#x0447;&#x0435;&#x043D;&#x0438;&#x044F;, &#x043F;&#x0440;&#x0438; &#x0443;&#x0441;&#x043B;&#x043E;&#x0432;&#x0438;&#x0438;, &#x0447;&#x0442;&#x043E; &#x043C;&#x043E;&#x0436;&#x043D;&#x043E; &#x0438;&#x0441;&#x043F;&#x043E;&#x043B;&#x044C;&#x0437;&#x043E;&#x0432;&#x0430;&#x0442;&#x044C; &#x0442;&#x043E;&#x043B;&#x044C;&#x043A;&#x043E; &#x043F;&#x043E;&#x0441;&#x0442;&#x043E;&#x044F;&#x043D;&#x043D;&#x043E;&#x0435;, &#x043D;&#x0435;
+     &#x0437;&#x0430;&#x0432;&#x0438;&#x0441;&#x044F;&#x0449;&#x0435;&#x0435; &#x043E;&#x0442; <!--l. 76--><draw:frame draw:style-name="mml-inline" draw:name="mobj-23" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m23" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> ,
+     &#x043A;&#x043E;&#x043B;&#x0438;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x043E; &#x0434;&#x043E;&#x043F;&#x043E;&#x043B;&#x043D;&#x0438;&#x0442;&#x0435;&#x043B;&#x044C;&#x043D;&#x044B;&#x0445; &#x043F;&#x0435;&#x0440;&#x0435;&#x043C;&#x0435;&#x043D;&#x043D;&#x044B;&#x0445;, &#x0441;&#x0434;&#x0435;&#x043B;&#x0430;&#x0432; <!--l. 77--><draw:frame draw:style-name="mml-inline" draw:name="mobj-24" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m24" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0441;&#x0440;&#x0430;&#x0432;&#x043D;&#x0435;&#x043D;&#x0438;&#x0439;.
+     </text:p> 
+</text:list-item> 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x041D;&#x0430; &#x043A;&#x043B;&#x0435;&#x0442;&#x0447;&#x0430;&#x0442;&#x043E;&#x0439; &#x0434;&#x043E;&#x0441;&#x043A;&#x0435; <!--l. 80--><draw:frame draw:style-name="mml-inline" draw:name="mobj-25" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m25" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0440;&#x0430;&#x0441;&#x0441;&#x0442;&#x0430;&#x0432;&#x043B;&#x0435;&#x043D;&#x043E; &#x043D;&#x0435;&#x0441;&#x043A;&#x043E;&#x043B;&#x044C;&#x043A;&#x043E; &#x0448;&#x0430;&#x0445;&#x043C;&#x0430;&#x0442;&#x043D;&#x044B;&#x0445; &#x043A;&#x043E;&#x043D;&#x0435;&#x0439;. &#x041A;&#x0430;&#x0436;&#x0434;&#x0443;&#x044E; &#x043C;&#x0438;&#x043D;&#x0443;&#x0442;&#x0443; &#x043E;&#x0434;&#x0438;&#x043D; &#x0438;&#x0437; &#x043A;&#x043E;&#x043D;&#x0435;&#x0439; &#x0434;&#x0435;&#x043B;&#x0430;&#x0435;&#x0442; &#x0445;&#x043E;&#x0434; &#x043D;&#x0430; &#x0441;&#x0432;&#x043E;&#x0431;&#x043E;&#x0434;&#x043D;&#x043E;&#x0435;
+     &#x043F;&#x043E;&#x043B;&#x0435;. &#x0427;&#x0435;&#x0440;&#x0435;&#x0437; &#x043D;&#x0435;&#x043A;&#x043E;&#x0442;&#x043E;&#x0440;&#x043E;&#x0435; &#x0432;&#x0440;&#x0435;&#x043C;&#x044F; &#x043E;&#x043A;&#x0430;&#x0437;&#x0430;&#x043B;&#x043E;&#x0441;&#x044C;, &#x0447;&#x0442;&#x043E; &#x043A;&#x0430;&#x0436;&#x0434;&#x044B;&#x0439; &#x043F;&#x043E;&#x0431;&#x044B;&#x0432;&#x0430;&#x043B; &#x043D;&#x0430; &#x0432;&#x0441;&#x0435;&#x0445; &#x043F;&#x043E;&#x043B;&#x044F;&#x0445; &#x0440;&#x043E;&#x0432;&#x043D;&#x043E; &#x043F;&#x043E; &#x043E;&#x0434;&#x043D;&#x043E;&#x043C;&#x0443; &#x0440;&#x0430;&#x0437;&#x0443; &#x0438;
+     &#x0432;&#x0435;&#x0440;&#x043D;&#x0443;&#x043B;&#x0441;&#x044F; &#x0432; &#x0438;&#x0441;&#x0445;&#x043E;&#x0434;&#x043D;&#x0443;&#x044E; &#x043A;&#x043B;&#x0435;&#x0442;&#x043A;&#x0443;. &#x0414;&#x043E;&#x043A;&#x0430;&#x0436;&#x0438;&#x0442;&#x0435;, &#x0447;&#x0442;&#x043E; &#x0431;&#x044B;&#x043B; &#x043C;&#x043E;&#x043C;&#x0435;&#x043D;&#x0442;, &#x043A;&#x043E;&#x0433;&#x0434;&#x0430; &#x0432;&#x0441;&#x0435; &#x043A;&#x043E;&#x043D;&#x0438; &#x0441;&#x0442;&#x043E;&#x044F;&#x043B;&#x0438; &#x043D;&#x0435; &#x043D;&#x0430; &#x0441;&#x0432;&#x043E;&#x0438;&#x0445; &#x043C;&#x0435;&#x0441;&#x0442;&#x0430;&#x0445;.
+     </text:p> 
+</text:list-item> 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x0412;  &#x043D;&#x0435;&#x043A;&#x043E;&#x0442;&#x043E;&#x0440;&#x043E;&#x0439;  &#x0441;&#x0442;&#x0440;&#x0430;&#x043D;&#x0435;  &#x043A;&#x0430;&#x0436;&#x0434;&#x044B;&#x0439;  &#x0433;&#x043E;&#x0440;&#x043E;&#x0434;  &#x0441;&#x043E;&#x0435;&#x0434;&#x0438;&#x043D;&#x0451;&#x043D;  &#x0441;  &#x043A;&#x0430;&#x0436;&#x0434;&#x044B;&#x043C;  &#x0434;&#x043E;&#x0440;&#x043E;&#x0433;&#x043E;&#x0439;  &#x0441;  &#x043E;&#x0434;&#x043D;&#x043E;&#x0441;&#x0442;&#x043E;&#x0440;&#x043E;&#x043D;&#x043D;&#x0438;&#x043C;  &#x0434;&#x0432;&#x0438;&#x0436;&#x0435;&#x043D;&#x0438;&#x0435;&#x043C;.
+     &#x0414;&#x043E;&#x043A;&#x0430;&#x0436;&#x0438;&#x0442;&#x0435;, &#x0447;&#x0442;&#x043E; &#x043D;&#x0430;&#x0439;&#x0434;&#x0451;&#x0442;&#x0441;&#x044F; &#x0433;&#x043E;&#x0440;&#x043E;&#x0434;, &#x0438;&#x0437; &#x043A;&#x043E;&#x0442;&#x043E;&#x0440;&#x043E;&#x0433;&#x043E; &#x043C;&#x043E;&#x0436;&#x043D;&#x043E; &#x0434;&#x043E;&#x0431;&#x0440;&#x0430;&#x0442;&#x044C;&#x0441;&#x044F; &#x0432; &#x043B;&#x044E;&#x0431;&#x043E;&#x0439; &#x0434;&#x0440;&#x0443;&#x0433;&#x043E;&#x0439;.
+     </text:p> 
+</text:list-item> 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x0412; &#x043E;&#x0434;&#x043D;&#x043E;&#x043C; &#x0433;&#x043E;&#x0441;&#x0443;&#x0434;&#x0430;&#x0440;&#x0441;&#x0442;&#x0432;&#x0435; <!--l. 90--><draw:frame draw:style-name="mml-inline" draw:name="mobj-26" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m26" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0433;&#x043E;&#x0440;&#x043E;&#x0434;&#x043E;&#x0432; &#x0438; &#x043A;&#x0430;&#x0436;&#x0434;&#x044B;&#x0439; &#x0441;&#x043E;&#x0435;&#x0434;&#x0438;&#x043D;&#x0451;&#x043D; &#x0441; &#x043A;&#x0430;&#x0436;&#x0434;&#x044B;&#x043C; &#x0434;&#x043E;&#x0440;&#x043E;&#x0433;&#x043E;&#x0439; &#x0441; &#x043E;&#x0434;&#x043D;&#x043E;&#x0441;&#x0442;&#x043E;&#x0440;&#x043E;&#x043D;&#x043D;&#x0438;&#x043C; &#x0434;&#x0432;&#x0438;&#x0436;&#x0435;&#x043D;&#x0438;&#x0435;&#x043C;. &#x0414;&#x043E;&#x043A;&#x0430;&#x0436;&#x0438;&#x0442;&#x0435;, &#x0447;&#x0442;&#x043E; &#x043C;&#x043E;&#x0436;&#x043D;&#x043E;
+     &#x043F;&#x043E;&#x043C;&#x0435;&#x043D;&#x044F;&#x0442;&#x044C; &#x043D;&#x0430;&#x043F;&#x0440;&#x0430;&#x0432;&#x043B;&#x0435;&#x043D;&#x0438;&#x0435; &#x0434;&#x0432;&#x0438;&#x0436;&#x0435;&#x043D;&#x0438;&#x044F; &#x043D;&#x0430; &#x043E;&#x0434;&#x043D;&#x043E;&#x0439; &#x0434;&#x043E;&#x0440;&#x043E;&#x0433;&#x0435; &#x0442;&#x0430;&#x043A;, &#x0447;&#x0442;&#x043E; &#x043E;&#x0442; &#x043B;&#x044E;&#x0431;&#x043E;&#x0433;&#x043E; &#x0433;&#x043E;&#x0440;&#x043E;&#x0434;&#x0430; &#x043C;&#x043E;&#x0436;&#x043D;&#x043E; &#x0431;&#x044B;&#x043B;&#x043E; &#x0434;&#x043E;&#x0435;&#x0445;&#x0430;&#x0442;&#x044C;
+     &#x0434;&#x043E; &#x043B;&#x044E;&#x0431;&#x043E;&#x0433;&#x043E; &#x0434;&#x0440;&#x0443;&#x0433;&#x043E;&#x0433;&#x043E;.
+     </text:p> 
+</text:list-item> 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x0412; &#x0433;&#x043E;&#x0440;&#x043E;&#x0434;&#x0435; &#x041D;&#x0435;&#x0437;&#x043D;&#x0430;&#x043A;&#x043E;&#x043C;&#x0441;&#x043A;&#x0435; &#x0436;&#x0438;&#x0432;&#x0443;&#x0442; <!--l. 96--><draw:frame draw:style-name="mml-inline" draw:name="mobj-27" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m27" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0447;&#x0435;&#x043B;&#x043E;&#x0432;&#x0435;&#x043A;, &#x043F;&#x0440;&#x0438;&#x0447;&#x0435;&#x043C; &#x043B;&#x044E;&#x0431;&#x044B;&#x0435; &#x0434;&#x0432;&#x043E;&#x0435; &#x0438;&#x043C;&#x0435;&#x044E;&#x0442; &#x043E;&#x0431;&#x0449;&#x0435;&#x0433;&#x043E; &#x0437;&#x043D;&#x0430;&#x043A;&#x043E;&#x043C;&#x043E;&#x0433;&#x043E;. &#x0414;&#x043E;&#x043A;&#x0430;&#x0436;&#x0438;&#x0442;&#x0435;, &#x0447;&#x0442;&#x043E; &#x043C;&#x043E;&#x0436;&#x043D;&#x043E; &#x0443;&#x043A;&#x0430;&#x0437;&#x0430;&#x0442;&#x044C; <!--l. 98--><draw:frame draw:style-name="mml-inline" draw:name="mobj-28" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m28" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> 
+     &#x0447;&#x0435;&#x043B;&#x043E;&#x0432;&#x0435;&#x043A; &#x0442;&#x0430;&#x043A;&#x0438;&#x043C; &#x043E;&#x0431;&#x0440;&#x0430;&#x0437;&#x043E;&#x043C;, &#x0447;&#x0442;&#x043E;&#x0431;&#x044B; &#x043A;&#x0430;&#x0436;&#x0434;&#x044B;&#x0439; &#x0438;&#x0437; &#x043E;&#x0441;&#x0442;&#x0430;&#x043B;&#x044C;&#x043D;&#x044B;&#x0445; &#x0431;&#x044B;&#x043B; &#x0437;&#x043D;&#x0430;&#x043A;&#x043E;&#x043C; &#x0445;&#x043E;&#x0442;&#x044F; &#x0431;&#x044B; &#x0441; &#x043E;&#x0434;&#x043D;&#x0438;&#x043C; &#x0447;&#x0435;&#x043B;&#x043E;&#x0432;&#x0435;&#x043A;&#x043E;&#x043C; &#x0438;&#x0437; &#x044D;&#x0442;&#x0438;&#x0445; <!--l. 99--><draw:frame draw:style-name="mml-inline" draw:name="mobj-29" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m29" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> .
+     </text:p> 
+</text:list-item> 
+
+     <text:list-item>
+     <text:p text:style-name="Inside-enumerate" >&#x041D;&#x0430;&#x0437;&#x043E;&#x0432;&#x0435;&#x043C; &#x043B;&#x0430;&#x0431;&#x0438;&#x0440;&#x0438;&#x043D;&#x0442;&#x043E;&#x043C; &#x0434;&#x043E;&#x0441;&#x043A;&#x0443; <!--l. 102--><draw:frame draw:style-name="mml-inline" draw:name="mobj-30" 
+text:anchor-type="as-char" draw:z-index="0" ><draw:object 
+xlink:href="./list-m30" 
+xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" /></draw:frame> ,
+     &#x0433;&#x0434;&#x0435; &#x0432; &#x043D;&#x0435;&#x043A;&#x043E;&#x0442;&#x043E;&#x0440;&#x044B;&#x0445; &#x043C;&#x0435;&#x0441;&#x0442;&#x0430;&#x0445; &#x043D;&#x0430; &#x0433;&#x0440;&#x0430;&#x043D;&#x0438;&#x0446;&#x044B; &#x043A;&#x043B;&#x0435;&#x0442;&#x043E;&#x043A; &#x043F;&#x0440;&#x0438;&#x043A;&#x043B;&#x0435;&#x0435;&#x043D;&#x044B; &#x043F;&#x0435;&#x0440;&#x0435;&#x0433;&#x043E;&#x0440;&#x043E;&#x0434;&#x043A;&#x0438;, &#x043D;&#x043E; &#x0442;&#x0430;&#x043A;, &#x0447;&#x0442;&#x043E; &#x043B;&#x0430;&#x0434;&#x044C;&#x044F; &#x043C;&#x043E;&#x0436;&#x0435;&#x0442; &#x0441;&#x043E;&#x0439;&#x0442;&#x0438;
+     &#x0441; &#x0434;&#x043E;&#x0441;&#x043A;&#x0438;, &#x043D;&#x0430;&#x0447;&#x0430;&#x0432; &#x0434;&#x0432;&#x0438;&#x0436;&#x0435;&#x043D;&#x0438;&#x0435; &#x0438;&#x0437; &#x043B;&#x044E;&#x0431;&#x043E;&#x0439; &#x043A;&#x043B;&#x0435;&#x0442;&#x043A;&#x0438;. &#x041F;&#x043E; &#x043A;&#x043E;&#x043C;&#x0430;&#x043D;&#x0434;&#x0435; &#x0412;&#x041F;&#x0420;&#x0410;&#x0412;&#x041E; &#x043B;&#x0430;&#x0434;&#x044C;&#x044F; &#x0441;&#x043C;&#x0435;&#x0449;&#x0430;&#x0435;&#x0442;&#x0441;&#x044F; &#x043D;&#x0430; &#x043E;&#x0434;&#x043D;&#x043E; &#x043F;&#x043E;&#x043B;&#x0435;
+     &#x0432;&#x043F;&#x0440;&#x0430;&#x0432;&#x043E; &#x0438;&#x043B;&#x0438; &#x0432;&#x044B;&#x0445;&#x043E;&#x0434;&#x0438;&#x0442; &#x0437;&#x0430; &#x043F;&#x0440;&#x0435;&#x0434;&#x0435;&#x043B;&#x044B; &#x0434;&#x043E;&#x0441;&#x043A;&#x0438;, &#x043D;&#x043E; &#x0435;&#x0441;&#x043B;&#x0438; &#x0441;&#x043F;&#x0440;&#x0430;&#x0432;&#x0430; &#x043F;&#x0435;&#x0440;&#x0435;&#x0433;&#x043E;&#x0440;&#x043E;&#x0434;&#x043A;&#x0430;, &#x043E;&#x0441;&#x0442;&#x0430;&#x0435;&#x0442;&#x0441;&#x044F; &#x043D;&#x0430; &#x043C;&#x0435;&#x0441;&#x0442;&#x0435;; &#x0430;&#x043D;&#x0430;&#x043B;&#x043E;&#x0433;&#x0438;&#x0447;&#x043D;&#x043E;
+     &#x0432;&#x044B;&#x043F;&#x043E;&#x043B;&#x043D;&#x044F;&#x044E;&#x0442;&#x0441;&#x044F;  &#x043A;&#x043E;&#x043C;&#x0430;&#x043D;&#x0434;&#x044B;  &#x0412;&#x041B;&#x0415;&#x0412;&#x041E;,  &#x0412;&#x0412;&#x0415;&#x0420;&#x0425;  &#x0438;  &#x0412;&#x041D;&#x0418;&#x0417;.  &#x041A;&#x043E;&#x043D;&#x0435;&#x0447;&#x043D;&#x0443;&#x044E;  &#x043F;&#x043E;&#x0441;&#x043B;&#x0435;&#x0434;&#x043E;&#x0432;&#x0430;&#x0442;&#x0435;&#x043B;&#x044C;&#x043D;&#x043E;&#x0441;&#x0442;&#x044C;  &#x0442;&#x0430;&#x043A;&#x0438;&#x0445;  &#x043A;&#x043E;&#x043C;&#x0430;&#x043D;&#x0434;
+     &#x043D;&#x0430;&#x0437;&#x043E;&#x0432;&#x0435;&#x043C; &#x043F;&#x0440;&#x043E;&#x0433;&#x0440;&#x0430;&#x043C;&#x043C;&#x043E;&#x0439;. &#x041A;&#x0430;&#x043A; &#x0442;&#x043E;&#x043B;&#x044C;&#x043A;&#x043E; &#x043B;&#x0430;&#x0434;&#x044C;&#x044F; &#x0441;&#x043E;&#x0448;&#x043B;&#x0430; &#x0441; &#x0434;&#x043E;&#x0441;&#x043A;&#x0438;, &#x043F;&#x0440;&#x043E;&#x0433;&#x0440;&#x0430;&#x043C;&#x043C;&#x0430; &#x043E;&#x0441;&#x0442;&#x0430;&#x043D;&#x0430;&#x0432;&#x043B;&#x0438;&#x0432;&#x0430;&#x0435;&#x0442;&#x0441;&#x044F;. &#x0414;&#x043E;&#x043A;&#x0430;&#x0436;&#x0438;&#x0442;&#x0435;, &#x0447;&#x0442;&#x043E;
+     &#x0435;&#x0441;&#x0442;&#x044C; &#x043E;&#x0434;&#x043D;&#x0430; &#x043F;&#x0440;&#x043E;&#x0433;&#x0440;&#x0430;&#x043C;&#x043C;&#x0430;, &#x043A;&#x043E;&#x0442;&#x043E;&#x0440;&#x0430;&#x044F; &#x0432;&#x044B;&#x0432;&#x043E;&#x0434;&#x0438;&#x0442; &#x043B;&#x0430;&#x0434;&#x044C;&#x044E; &#x0441; &#x043B;&#x044E;&#x0431;&#x043E;&#x0433;&#x043E; &#x043C;&#x0435;&#x0441;&#x0442;&#x0430; &#x0438;&#x0437; &#x043B;&#x044E;&#x0431;&#x043E;&#x0433;&#x043E; &#x043B;&#x0430;&#x0431;&#x0438;&#x0440;&#x0438;&#x043D;&#x0442;&#x0430;.
+     </text:p> 
+</text:list-item> 
+</text:list > 
+
+
+   </office:text></office:body> 
+</office:document-content>
+
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<Judge>
+  <InputFile>z.in</InputFile>
+  <OutputFile>z.out</OutputFile>
+  <ProgramName>D:\!\ЛОО 2005\Judge для Паши Зубарева\Z\solution.exe</ProgramName>
+  <CheckerFile>check.exe</CheckerFile>
+  <SourceExtension>dpr</SourceExtension>
+  <CompilerCommand>dcc32.exe -cc</CompilerCommand>
+  <CompileAlways>False</CompileAlways>
+  <CompileSolution>False</CompileSolution>
+  <CopyTestFiles>True</CopyTestFiles>
+  <CheckResult>True</CheckResult>
+  <ResultExtension>u</ResultExtension>
+  <AnswerExtension>a</AnswerExtension>
+  <TaskDirectory>Z\</TaskDirectory>
+  <_MemoryLimit>100000000</_MemoryLimit>
+  <_TimeLimit>100000000</_TimeLimit>
+  <Summary_result>Accepted</Summary_result>
+</Judge>

@@ -1,0 +1,40 @@
+\documentclass[12pt,a4paper,landscape,oneside,twocolumn]{article}
+%\documentclass[12pt,a4paper,oneside,twocolumn]{article}
+
+\usepackage[T2A]{fontenc}
+\usepackage[cp1251]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[russian,landscape]{olymp}
+%\usepackage[russian]{olymp}
+\usepackage{graphicx}
+
+\begin{document}
+
+\renewcommand{\t}{\texttt}
+\newcommand{\eps}{\varepsilon}
+%\renewcommand{\phi}{\varphi}
+
+\contest
+{
+Вычислительная геометрия. 
+}
+{Лисий Нос}
+{среда, 8 июля 2009}
+
+\binoppenalty=10000
+\relpenalty=10000
+
+\input problems/distance   
+\input problems/diam
+%\input problems/scalar   
+\input problems/circles
+\input problems/garden
+%%\input problems/connect    %971
+%\input problems/wave      %993
+%\input problems/step      %995
+%\input problems/numcycle  %1088
+%\input problems/maxdist   %1393
+
+\end{document}

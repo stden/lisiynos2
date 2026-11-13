@@ -1,0 +1,291 @@
+
+30.08.2004 11:59:54 RUN 0.9alpha by Kitten Computing
+
+30.08.2004 11:59:55 Executable file successfully recompiled
+30.08.2004 11:59:55 Compiler output:
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+solution.dpr(28) Warning: Return value of function 'fast_mul' might be undefined
+solution.dpr(53) 
+54 lines, 0.17 seconds, 30964 bytes code, 2989 bytes data.
+
+30.08.2004 11:59:55 Testing solution, in=fastmul.in, out=fastmul.out, ext=u, tl=100000000, ml=100000000
+
+30.08.2004 11:59:55 Running on test 01
+30.08.2004 12:00:06 Unable to determine memory usage properties for PID=3408
+30.08.2004 12:00:06 Unable to determine memory usage properties for PID=3408
+30.08.2004 12:00:06 Processor time used: system=31,25000 ms, user=10390,62500 ms total=10421,87500 ms.
+30.08.2004 12:00:06 Factical execution time: 10969 ms
+30.08.2004 12:00:06 Maximal memory usage: 1192 Kb
+30.08.2004 12:00:06 Successful termination
+30.08.2004 12:00:06 ERROR: Unable to invoke checking program
+30.08.2004 12:00:06 Checker comments:
+
+30.08.2004 12:00:06 Running on test 02
+30.08.2004 12:00:06 Unable to determine memory usage properties for PID=3568
+30.08.2004 12:00:06 Processor time used: system=31,25000 ms, user=15,62500 ms total=46,87500 ms.
+30.08.2004 12:00:06 Factical execution time: 641 ms
+30.08.2004 12:00:06 Maximal memory usage: 1196 Kb
+30.08.2004 12:00:06 Successful termination
+30.08.2004 12:00:07 ERROR: Unable to invoke checking program
+30.08.2004 12:00:07 Checker comments:
+
+30.08.2004 12:00:07 Total maximal work time: 10421,87500 ms
+30.08.2004 12:00:07 Total maximal memory usage: 1196 Kb
+
+
+30.08.2004 12:06:16 RUN 0.9alpha by Kitten Computing
+
+30.08.2004 12:06:16 Testing solution, in=fastmul.in, out=fastmul.out, ext=u, tl=100000000, ml=100000000
+
+30.08.2004 12:06:16 Running on test 01
+30.08.2004 12:06:27 Unable to determine memory usage properties for PID=2564
+30.08.2004 12:06:27 Processor time used: system=15,62500 ms, user=10062,50000 ms total=10078,12500 ms.
+30.08.2004 12:06:27 Factical execution time: 10843 ms
+30.08.2004 12:06:27 Maximal memory usage: 1196 Kb
+30.08.2004 12:06:27 Successful termination
+30.08.2004 12:06:27 Checker result: Accepted
+30.08.2004 12:06:27 Checker comments:
+* ok * You win!!!
+
+30.08.2004 12:06:27 Running on test 02
+30.08.2004 12:06:27 Unable to determine memory usage properties for PID=2224
+30.08.2004 12:06:27 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+30.08.2004 12:06:27 Factical execution time: 531 ms
+30.08.2004 12:06:27 Maximal memory usage: 1120 Kb
+30.08.2004 12:06:27 Successful termination
+30.08.2004 12:06:27 Checker result: Accepted
+30.08.2004 12:06:27 Checker comments:
+* ok * You win!!!
+
+30.08.2004 12:06:27 Total maximal work time: 10078,12500 ms
+30.08.2004 12:06:27 Total maximal memory usage: 1196 Kb
+
+
+30.08.2004 12:06:50 RUN 0.9alpha by Kitten Computing
+
+30.08.2004 12:06:51 Executable file successfully recompiled
+30.08.2004 12:06:51 Compiler output:
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+solution.dpr(28) Warning: Return value of function 'fast_mul' might be undefined
+solution.dpr(53) 
+54 lines, 0.14 seconds, 31048 bytes code, 2989 bytes data.
+
+30.08.2004 12:06:51 Testing solution, in=fastmul.in, out=fastmul.out, ext=u, tl=100000000, ml=100000000
+
+30.08.2004 12:06:51 Running on test 01
+30.08.2004 12:06:51 Unable to determine memory usage properties for PID=3088
+30.08.2004 12:06:51 Processor time used: system=0,00000 ms, user=31,25000 ms total=31,25000 ms.
+30.08.2004 12:06:51 Factical execution time: 93 ms
+30.08.2004 12:06:51 Maximal memory usage: 684 Kb
+30.08.2004 12:06:51 Successful termination
+30.08.2004 12:06:51 Checker result: Accepted
+30.08.2004 12:06:51 Checker comments:
+* ok * You win!!!
+
+30.08.2004 12:06:51 Running on test 02
+30.08.2004 12:06:51 Unable to determine memory usage properties for PID=1504
+30.08.2004 12:06:51 Processor time used: system=46,87500 ms, user=15,62500 ms total=62,50000 ms.
+30.08.2004 12:06:51 Factical execution time: 62 ms
+30.08.2004 12:06:51 Maximal memory usage: 512 Kb
+30.08.2004 12:06:51 Successful termination
+30.08.2004 12:06:51 Checker result: Accepted
+30.08.2004 12:06:51 Checker comments:
+* ok * You win!!!
+
+30.08.2004 12:06:51 Total maximal work time: 62,50000 ms
+30.08.2004 12:06:51 Total maximal memory usage: 684 Kb
+
+
+30.08.2004 12:12:03 RUN 0.9alpha by Kitten Computing
+
+30.08.2004 12:12:03 Testing solution, in=fastmul.in, out=fastmul.out, ext=u, tl=100000000, ml=100000000
+
+30.08.2004 12:12:03 Running on test 01
+30.08.2004 12:12:03 Unable to determine memory usage properties for PID=3316
+30.08.2004 12:12:03 Processor time used: system=31,25000 ms, user=15,62500 ms total=46,87500 ms.
+30.08.2004 12:12:03 Factical execution time: 719 ms
+30.08.2004 12:12:03 Maximal memory usage: 1196 Kb
+30.08.2004 12:12:03 Successful termination
+30.08.2004 12:12:03 Checker result: Accepted
+30.08.2004 12:12:03 Checker comments:
+* ok * You win!!!
+
+30.08.2004 12:12:03 Running on test 02
+30.08.2004 12:12:04 Unable to determine memory usage properties for PID=3636
+30.08.2004 12:12:04 Processor time used: system=31,25000 ms, user=15,62500 ms total=46,87500 ms.
+30.08.2004 12:12:04 Factical execution time: 125 ms
+30.08.2004 12:12:04 Maximal memory usage: 1196 Kb
+30.08.2004 12:12:04 Successful termination
+30.08.2004 12:12:04 Checker result: Accepted
+30.08.2004 12:12:04 Checker comments:
+* ok * You win!!!
+
+30.08.2004 12:12:04 Running on test 03
+30.08.2004 12:12:04 Unable to determine memory usage properties for PID=2108
+30.08.2004 12:12:04 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+30.08.2004 12:12:04 Factical execution time: 110 ms
+30.08.2004 12:12:04 Maximal memory usage: 1188 Kb
+30.08.2004 12:12:04 Successful termination
+30.08.2004 12:12:04 Checker result: Accepted
+30.08.2004 12:12:04 Checker comments:
+* ok * You win!!!
+
+30.08.2004 12:12:04 Total maximal work time: 46,87500 ms
+30.08.2004 12:12:04 Total maximal memory usage: 1196 Kb
+
+
+30.08.2004 12:25:02 RUN 0.9alpha by Kitten Computing
+
+30.08.2004 12:25:03 Testing solution, in=fastmul.in, out=fastmul.out, ext=u, tl=100000000, ml=100000000
+
+30.08.2004 12:25:03 Running on test 01
+30.08.2004 12:25:03 Unable to determine memory usage properties for PID=2900
+30.08.2004 12:25:03 Processor time used: system=31,25000 ms, user=31,25000 ms total=62,50000 ms.
+30.08.2004 12:25:03 Factical execution time: 93 ms
+30.08.2004 12:25:03 Maximal memory usage: 1196 Kb
+30.08.2004 12:25:03 Successful termination
+30.08.2004 12:25:03 Checker result: Accepted
+30.08.2004 12:25:03 Checker comments:
+* ok * You win!!!
+
+30.08.2004 12:25:03 Running on test 02
+30.08.2004 12:25:03 Unable to determine memory usage properties for PID=1420
+30.08.2004 12:25:03 Unable to determine memory usage properties for PID=1420
+30.08.2004 12:25:03 Processor time used: system=15,62500 ms, user=15,62500 ms total=31,25000 ms.
+30.08.2004 12:25:03 Factical execution time: 62 ms
+30.08.2004 12:25:03 Maximal memory usage: 1140 Kb
+30.08.2004 12:25:03 Successful termination
+30.08.2004 12:25:03 Checker result: Accepted
+30.08.2004 12:25:03 Checker comments:
+* ok * You win!!!
+
+30.08.2004 12:25:03 Running on test 03
+30.08.2004 12:25:03 Unable to determine memory usage properties for PID=3276
+30.08.2004 12:25:03 Processor time used: system=0,00000 ms, user=15,62500 ms total=15,62500 ms.
+30.08.2004 12:25:03 Factical execution time: 47 ms
+30.08.2004 12:25:03 Maximal memory usage: 1188 Kb
+30.08.2004 12:25:03 Successful termination
+30.08.2004 12:25:03 Checker result: Accepted
+30.08.2004 12:25:03 Checker comments:
+* ok * You win!!!
+
+30.08.2004 12:25:03 Running on test 04
+30.08.2004 12:25:03 Unable to determine memory usage properties for PID=2416
+30.08.2004 12:25:03 Processor time used: system=0,00000 ms, user=46,87500 ms total=46,87500 ms.
+30.08.2004 12:25:03 Factical execution time: 63 ms
+30.08.2004 12:25:03 Maximal memory usage: 1260 Kb
+30.08.2004 12:25:03 Successful termination
+30.08.2004 12:25:03 Checker result: Accepted
+30.08.2004 12:25:03 Checker comments:
+* ok * You win!!!
+
+30.08.2004 12:25:03 Total maximal work time: 62,50000 ms
+30.08.2004 12:25:03 Total maximal memory usage: 1260 Kb
+
+
+14.09.2004 18:16:14 RUN 0.9alpha by Kitten Computing
+
+14.09.2004 18:16:14 Testing solution, in=fastmul.in, out=fastmul.out, ext=u, tl=100000000, ml=100000000
+
+14.09.2004 18:16:14 Running on test 01
+14.09.2004 18:16:15 Unable to determine memory usage properties for PID=1856
+14.09.2004 18:16:15 Processor time used: system=10,01440 ms, user=10,01440 ms total=20,02880 ms.
+14.09.2004 18:16:15 Factical execution time: 290 ms
+14.09.2004 18:16:15 Maximal memory usage: 988 Kb
+14.09.2004 18:16:15 Successful termination
+14.09.2004 18:16:15 Checker result: Accepted
+14.09.2004 18:16:15 Checker comments:
+* ok * You win!!!
+
+14.09.2004 18:16:15 Running on test 02
+14.09.2004 18:16:15 Unable to determine memory usage properties for PID=668
+14.09.2004 18:16:15 Processor time used: system=50,07200 ms, user=10,01440 ms total=60,08640 ms.
+14.09.2004 18:16:15 Factical execution time: 170 ms
+14.09.2004 18:16:15 Maximal memory usage: 980 Kb
+14.09.2004 18:16:15 Successful termination
+14.09.2004 18:16:15 Checker result: Accepted
+14.09.2004 18:16:15 Checker comments:
+* ok * You win!!!
+
+14.09.2004 18:16:15 Running on test 03
+14.09.2004 18:16:15 Unable to determine memory usage properties for PID=188
+14.09.2004 18:16:15 Processor time used: system=20,02880 ms, user=20,02880 ms total=40,05760 ms.
+14.09.2004 18:16:15 Factical execution time: 141 ms
+14.09.2004 18:16:15 Maximal memory usage: 920 Kb
+14.09.2004 18:16:15 Successful termination
+14.09.2004 18:16:15 Checker result: Accepted
+14.09.2004 18:16:15 Checker comments:
+* ok * You win!!!
+
+14.09.2004 18:16:15 Running on test 04
+14.09.2004 18:16:15 Unable to determine memory usage properties for PID=916
+14.09.2004 18:16:15 Processor time used: system=20,02880 ms, user=40,05760 ms total=60,08640 ms.
+14.09.2004 18:16:15 Factical execution time: 130 ms
+14.09.2004 18:16:15 Maximal memory usage: 976 Kb
+14.09.2004 18:16:15 Successful termination
+14.09.2004 18:16:15 Checker result: Accepted
+14.09.2004 18:16:15 Checker comments:
+* ok * You win!!!
+
+14.09.2004 18:16:15 Total maximal work time: 60,08640 ms
+14.09.2004 18:16:15 Total maximal memory usage: 988 Kb
+
+
+20.10.2004 17:56:36 RUN 0.9alpha by Kitten Computing
+
+20.10.2004 17:56:37 Executable file successfully recompiled
+20.10.2004 17:56:37 Compiler output:
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+solution.dpr(26) Warning: Return value of function 'fast_mul' might be undefined
+solution.dpr(43) 
+44 lines, 0.13 seconds, 31044 bytes code, 2989 bytes data.
+
+20.10.2004 17:56:37 Testing solution, in=fast.in, out=fast.out, ext=u, tl=100000000, ml=100000000
+
+20.10.2004 17:56:37 Running on test 01
+20.10.2004 17:56:37 Unable to determine memory usage properties for PID=308
+20.10.2004 17:56:37 Processor time used: system=0,00000 ms, user=20,02880 ms total=20,02880 ms.
+20.10.2004 17:56:37 Factical execution time: 141 ms
+20.10.2004 17:56:37 Maximal memory usage: 984 Kb
+20.10.2004 17:56:37 Successful termination
+20.10.2004 17:56:37 Checker result: Accepted
+20.10.2004 17:56:37 Checker comments:
+* ok * You win!!!
+
+20.10.2004 17:56:37 Running on test 02
+20.10.2004 17:56:37 Unable to determine memory usage properties for PID=1632
+20.10.2004 17:56:37 Processor time used: system=10,01440 ms, user=10,01440 ms total=20,02880 ms.
+20.10.2004 17:56:37 Factical execution time: 120 ms
+20.10.2004 17:56:37 Maximal memory usage: 988 Kb
+20.10.2004 17:56:37 Successful termination
+20.10.2004 17:56:37 Checker result: Accepted
+20.10.2004 17:56:37 Checker comments:
+* ok * You win!!!
+
+20.10.2004 17:56:37 Running on test 03
+20.10.2004 17:56:37 Unable to determine memory usage properties for PID=1832
+20.10.2004 17:56:37 Processor time used: system=10,01440 ms, user=10,01440 ms total=20,02880 ms.
+20.10.2004 17:56:37 Factical execution time: 100 ms
+20.10.2004 17:56:37 Maximal memory usage: 988 Kb
+20.10.2004 17:56:37 Successful termination
+20.10.2004 17:56:37 Checker result: Accepted
+20.10.2004 17:56:37 Checker comments:
+* ok * You win!!!
+
+20.10.2004 17:56:37 Running on test 04
+20.10.2004 17:56:37 Unable to determine memory usage properties for PID=516
+20.10.2004 17:56:37 Unable to determine memory usage properties for PID=516
+20.10.2004 17:56:37 Processor time used: system=20,02880 ms, user=20,02880 ms total=40,05760 ms.
+20.10.2004 17:56:37 Factical execution time: 120 ms
+20.10.2004 17:56:37 Maximal memory usage: 988 Kb
+20.10.2004 17:56:37 Successful termination
+20.10.2004 17:56:37 Checker result: Accepted
+20.10.2004 17:56:37 Checker comments:
+* ok * You win!!!
+
+20.10.2004 17:56:38 Total maximal work time: 40,05760 ms
+20.10.2004 17:56:38 Total maximal memory usage: 988 Kb
+

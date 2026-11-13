@@ -1,0 +1,57 @@
+<contest id="d3" monitortype="acm" caption="День 3. 'Целочисленная арифметика'" length="180">
+
+<problem id="d3A" 
+         caption="A. НОД" 
+         checker="Problems\Day3\A\Checker.exe" 
+         testdir="Problems\Day3\A\" 
+         infile="nod.in" outfile="nod.out" 
+         testcount="100" 
+         memorylimit="33554432" timelimit="500" 
+/>
+
+<problem id="d3B" 
+         caption="B. Сократить дробь" 
+         checker="Problems\Day3\B\Checker.exe" 
+         testdir="Problems\Day3\B\" 
+         infile="frac.in" outfile="frac.out" 
+         testcount="100" 
+         memorylimit="33554432" timelimit="500" 
+/>
+
+<problem id="d3C" 
+         caption="C. Робот" 
+         checker="Problems\Day3\C\Checker.exe" 
+         testdir="Problems\Day3\C\" 
+         infile="robot.in" outfile="robot.out" 
+         testcount="20" 
+         memorylimit="33554432" timelimit="1000" 
+/>
+
+<problem id="d3D" 
+         caption="D. Простое число" 
+         checker="Problems\Day3\D\Checker.exe" 
+         testdir="Problems\Day3\D\" 
+         infile="prime.in" outfile="prime.out" 
+         testcount="20" 
+         memorylimit="33554432" timelimit="1000" 
+/>
+
+<problem id="d3E" 
+         caption="E. Обобщенный алгоритм Евклида" 
+         checker="Problems\Day3\E\Checker.exe" 
+         testdir="Problems\Day3\E\" 
+         infile="evkl.in" outfile="evkl.out" 
+         testcount="50" 
+         memorylimit="33554432" timelimit="1000" 
+/>
+
+<problem id="d3F" 
+         caption="F. Обратное число" 
+         checker="Problems\Day3\F\Checker.exe" 
+         testdir="Problems\Day3\F\" 
+         infile="obr.in" outfile="obr.out" 
+         testcount="50" 
+         memorylimit="33554432" timelimit="1000" 
+/>
+
+</contest>

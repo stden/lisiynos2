@@ -1,0 +1,8 @@
+1) {gassa} ejudge
+ 0 - accepted
+ 4 - pe
+ 5 - wa
+ 6 - je
+
+2) {gassa} chkcomp, chkcomps:
+ return _fail instead of Range Check on comp:=extended fail

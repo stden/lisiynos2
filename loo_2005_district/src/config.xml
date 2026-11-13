@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<config xmlns="http://tempuri.org/config.xsd">
+    <task>
+        <name>A. Королевство</name>
+        <task_id>connect</task_id>
+        <filename>a</filename>
+        <BallsFactor>1</BallsFactor>
+    </task>
+    <task>
+        <name>B. Индийский метод</name>
+        <task_id>fast</task_id>
+        <filename>b</filename>
+        <BallsFactor>5</BallsFactor>
+    </task>
+    <task>
+        <name>C. Группы</name>
+        <task_id>groups</task_id>
+        <filename>c</filename>
+        <BallsFactor>1</BallsFactor>
+    </task>
+    <task>
+        <name>D. Римская система счисления</name>
+        <task_id>fast</task_id>
+        <filename>b</filename>
+        <BallsFactor>5</BallsFactor>
+    </task>
+</config>

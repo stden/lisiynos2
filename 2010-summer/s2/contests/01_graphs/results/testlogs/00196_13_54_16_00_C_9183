@@ -1,0 +1,66 @@
+TESTING=196
+CREATED=12.07.2010 17:41:11
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+a.DPR(87) 
+88 lines, 0.09 seconds, 11724 bytes code, 1601817 bytes data.
+
+$#@
+TESTID=1
+TESTRES=1
+TESTSCORE=3.00000
+TESTCOMM=@#$
+
+
+$#@
+TESTID=2
+TESTRES=1
+TESTSCORE=3.00000
+TESTCOMM=@#$
+
+
+$#@
+COMPILERES=1
+COMPILECOMM=@#$
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+a.DPR(87) 
+88 lines, 0.12 seconds, 11724 bytes code, 1601817 bytes data.
+
+$#@
+TESTID=1
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=2
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=3
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=4
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=5
+TESTRES=1
+TESTCOMM=@#$
+
+
+$#@
+TESTID=6
+TESTRES=8
+TESTCOMM=
+COMPLETE=12.07.2010 17:44:28

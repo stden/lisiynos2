@@ -1,0 +1,29 @@
+
+14.02.2004 23:48:07 RUN 0.9alpha by Kitten Computing
+
+14.02.2004 23:48:07 Testing solution, in=z.in, out=z.out, ext=u, tl=100000000, ml=100000000
+
+14.02.2004 23:48:07 Running on test 01
+14.02.2004 23:48:07 Unable to determine memory usage properties for PID=556
+14.02.2004 23:48:07 Unable to determine memory usage properties for PID=556
+14.02.2004 23:48:07 Processor time used: system=20,02880 ms, user=20,02880 ms total=40,05760 ms.
+14.02.2004 23:48:07 Factical execution time: 191 ms
+14.02.2004 23:48:07 Maximal memory usage: 572 Kb
+14.02.2004 23:48:07 Successful termination
+14.02.2004 23:48:07 Checker result: Accepted
+14.02.2004 23:48:07 Checker comments:
+* ok * 
+
+14.02.2004 23:48:07 Running on test 02
+14.02.2004 23:48:08 Unable to determine memory usage properties for PID=1464
+14.02.2004 23:48:08 Processor time used: system=20,02880 ms, user=10,01440 ms total=30,04320 ms.
+14.02.2004 23:48:08 Factical execution time: 160 ms
+14.02.2004 23:48:08 Maximal memory usage: 572 Kb
+14.02.2004 23:48:08 Successful termination
+14.02.2004 23:48:08 Checker result: Accepted
+14.02.2004 23:48:08 Checker comments:
+* ok * 
+
+14.02.2004 23:48:08 Total maximal work time: 40,05760 ms
+14.02.2004 23:48:08 Total maximal memory usage: 572 Kb
+

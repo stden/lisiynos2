@@ -1,0 +1,38 @@
+\documentclass [12pt, a4paper, oneside, twocolumn] {article}
+
+\usepackage [T2A] {fontenc}
+\usepackage [cp1251] {inputenc}
+\usepackage [english, russian] {babel}
+\usepackage {amsmath}
+\usepackage {amssymb}
+\usepackage [russian] {olymp}
+\usepackage {graphicx}
+\usepackage {multicol}
+
+\begin {document}
+
+\renewcommand {\t} {\texttt}
+\newcommand {\eps} {\varepsilon}
+\renewcommand {\le} {\leqslant}
+\renewcommand {\ge} {\geqslant}
+\renewcommand {\leq} {\leqslant}
+\renewcommand {\geq} {\geqslant}
+\renewcommand {\S} {\mathcal{S}}
+
+\createsection {\Scoring} {Система оценки}
+
+\contest
+{<<Строки>>, старшая группа}
+{Лисий Нос, центр <<Интеллект>>}
+{вторник, 23 ноября 2010 года}
+
+\binoppenalty=10000
+\relpenalty=10000
+
+% Sorting
+\input a2/a2 
+\input b2/b2 
+\input c2/c2 
+\input d2/d2 
+
+\end {document}
